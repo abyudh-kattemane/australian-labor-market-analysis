@@ -6,13 +6,12 @@ An interactive Power BI dashboard analysing employment trends, industry composit
 
 ## Dashboard Preview
 
-> Screenshots to be added after export from Power BI. Suggested filenames:
-> - `screenshots/00_cover.png`
-> - `screenshots/01_executive_overview.png`
-> - `screenshots/02_industry_deep_dive.png`
-> - `screenshots/03_geographic_analysis.png`
-> - `screenshots/04_job_seeker_insights.png`
-> - `screenshots/05_scatter_focus.png`
+![Cover](screenshots/00_cover.png)
+![Executive Overview](screenshots/01_executive_overview.png)
+![Industry Deep Dive](screenshots/02_industry_deep_dive.png)
+![Geographic Analysis](screenshots/03_geographic_analysis.png)
+![Job Seeker Insights](screenshots/04_job_seeker_insights.png)
+![Scatter Focus](screenshots/05_scatter_focus.png)
 
 ---
 
@@ -33,7 +32,7 @@ An interactive Power BI dashboard analysing employment trends, industry composit
 - Australia has recorded **27 consecutive months below the 4% full-employment threshold** since 2022
 - **Health Care employs 2.4M Australians** — nearly double the next largest sector (Professional Services at 1.37M)
 - **Adelaide unemployment (3.55%) consistently outperforms the national average (4.10%)** since 2022
-- Within Adelaide, a **2.1 percentage point gap** exists between Adelaide North (4.90%) and Adelaide Central & Hills (2.78%)
+- Within Adelaide, a **2.1 unemployment percentage point gap** exists between Adelaide North (4.90%) and Adelaide Central & Hills (2.78%)
 - Adelaide North peaked at **10.02% unemployment during COVID** — the highest of any SA4 region in the dataset
 - **Mining pays $115K median income** with only 9K Adelaide jobs vs Health Care at $39K with 190K jobs — a stark jobs-income tradeoff
 - Three industries have been contracting since 2019: **Agriculture (-22.4%), Wholesale Trade (-15.5%), ICT (-11.9%)**
