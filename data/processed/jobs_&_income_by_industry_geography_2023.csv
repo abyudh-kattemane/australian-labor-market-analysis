@@ -1,0 +1,2861 @@
+city,geography_code,geography_name,industry_name,number_of_jobs,median_income_dollars
+Adelaide,40101,Adelaide City,accommodation_food_services,5751,6164
+Adelaide,40101,Adelaide City,administrative_support_services,3107,7190
+Adelaide,40101,Adelaide City,agriculture,281,6129
+Adelaide,40101,Adelaide City,arts_recreation_services,971,8510
+Adelaide,40101,Adelaide City,construction,679,31025
+Adelaide,40101,Adelaide City,education_training,2418,17604
+Adelaide,40101,Adelaide City,electricity,129,63739
+Adelaide,40101,Adelaide City,finance_insurance_services,998,35174
+Adelaide,40101,Adelaide City,health_care_social_assistance,3207,31502
+Adelaide,40101,Adelaide City,information_media_telecommunications,546,38809
+Adelaide,40101,Adelaide City,manufacturing,1001,29883
+Adelaide,40101,Adelaide City,mining,249,92243
+Adelaide,40101,Adelaide City,other_services,707,17562
+Adelaide,40101,Adelaide City,professional,2956,48216
+Adelaide,40101,Adelaide City,public_administration_safety,1365,58574
+Adelaide,40101,Adelaide City,rental,574,15288
+Adelaide,40101,Adelaide City,retail_trade,2534,11968
+Adelaide,40101,Adelaide City,total,28784,16245
+Adelaide,40101,Adelaide City,transport,397,29532
+Adelaide,40101,Adelaide City,wholesale_trade,645,24442
+Adelaide,40102,Adelaide Hills,accommodation_food_services,4708,7711
+Adelaide,40102,Adelaide Hills,administrative_support_services,4439,17122
+Adelaide,40102,Adelaide Hills,agriculture,1563,16505
+Adelaide,40102,Adelaide Hills,arts_recreation_services,1248,9946
+Adelaide,40102,Adelaide Hills,construction,3808,50499
+Adelaide,40102,Adelaide Hills,education_training,6390,41090
+Adelaide,40102,Adelaide Hills,electricity,576,102261
+Adelaide,40102,Adelaide Hills,finance_insurance_services,2264,44288
+Adelaide,40102,Adelaide Hills,health_care_social_assistance,9176,40577
+Adelaide,40102,Adelaide Hills,information_media_telecommunications,788,43952
+Adelaide,40102,Adelaide Hills,manufacturing,3776,43189
+Adelaide,40102,Adelaide Hills,mining,830,120649
+Adelaide,40102,Adelaide Hills,other_services,2000,28551
+Adelaide,40102,Adelaide Hills,professional,4569,57386
+Adelaide,40102,Adelaide Hills,public_administration_safety,4591,70739
+Adelaide,40102,Adelaide Hills,rental,1110,33070
+Adelaide,40102,Adelaide Hills,retail_trade,5540,18044
+Adelaide,40102,Adelaide Hills,total,61721,34369
+Adelaide,40102,Adelaide Hills,transport,1505,53842
+Adelaide,40102,Adelaide Hills,wholesale_trade,2176,55376
+Adelaide,40103,Burnside,accommodation_food_services,3227,6198
+Adelaide,40103,Burnside,administrative_support_services,2367,12553
+Adelaide,40103,Burnside,agriculture,232,22263
+Adelaide,40103,Burnside,arts_recreation_services,788,7445
+Adelaide,40103,Burnside,construction,1046,53403
+Adelaide,40103,Burnside,education_training,4025,28748
+Adelaide,40103,Burnside,electricity,252,101142
+Adelaide,40103,Burnside,finance_insurance_services,1537,52745
+Adelaide,40103,Burnside,health_care_social_assistance,6082,46176
+Adelaide,40103,Burnside,information_media_telecommunications,518,49206
+Adelaide,40103,Burnside,manufacturing,1372,50000
+Adelaide,40103,Burnside,mining,352,146716
+Adelaide,40103,Burnside,other_services,926,24715
+Adelaide,40103,Burnside,professional,3887,60490
+Adelaide,40103,Burnside,public_administration_safety,2185,63706
+Adelaide,40103,Burnside,rental,747,42362
+Adelaide,40103,Burnside,retail_trade,2996,13686
+Adelaide,40103,Burnside,total,34743,31185
+Adelaide,40103,Burnside,transport,571,54114
+Adelaide,40103,Burnside,wholesale_trade,1092,50040
+Adelaide,40104,Campbelltown (SA),accommodation_food_services,4134,7746
+Adelaide,40104,Campbelltown (SA),administrative_support_services,3806,12798
+Adelaide,40104,Campbelltown (SA),agriculture,195,19344
+Adelaide,40104,Campbelltown (SA),arts_recreation_services,821,8245
+Adelaide,40104,Campbelltown (SA),construction,2119,47048
+Adelaide,40104,Campbelltown (SA),education_training,4470,38648
+Adelaide,40104,Campbelltown (SA),electricity,354,89394
+Adelaide,40104,Campbelltown (SA),finance_insurance_services,1899,51585
+Adelaide,40104,Campbelltown (SA),health_care_social_assistance,7872,35606
+Adelaide,40104,Campbelltown (SA),information_media_telecommunications,557,45673
+Adelaide,40104,Campbelltown (SA),manufacturing,2147,49628
+Adelaide,40104,Campbelltown (SA),mining,253,108183
+Adelaide,40104,Campbelltown (SA),other_services,1416,27302
+Adelaide,40104,Campbelltown (SA),professional,3711,56000
+Adelaide,40104,Campbelltown (SA),public_administration_safety,3026,64087
+Adelaide,40104,Campbelltown (SA),rental,906,25126
+Adelaide,40104,Campbelltown (SA),retail_trade,4441,16860
+Adelaide,40104,Campbelltown (SA),total,45124,30614
+Adelaide,40104,Campbelltown (SA),transport,975,47392
+Adelaide,40104,Campbelltown (SA),wholesale_trade,1563,52140
+Adelaide,40105,Norwood - Payneham - St Peters,accommodation_food_services,3195,7129
+Adelaide,40105,Norwood - Payneham - St Peters,administrative_support_services,2635,11102
+Adelaide,40105,Norwood - Payneham - St Peters,agriculture,180,12180
+Adelaide,40105,Norwood - Payneham - St Peters,arts_recreation_services,784,7228
+Adelaide,40105,Norwood - Payneham - St Peters,construction,1247,50137
+Adelaide,40105,Norwood - Payneham - St Peters,education_training,3285,35701
+Adelaide,40105,Norwood - Payneham - St Peters,electricity,220,81936
+Adelaide,40105,Norwood - Payneham - St Peters,finance_insurance_services,1205,54982
+Adelaide,40105,Norwood - Payneham - St Peters,health_care_social_assistance,5178,42041
+Adelaide,40105,Norwood - Payneham - St Peters,information_media_telecommunications,498,44615
+Adelaide,40105,Norwood - Payneham - St Peters,manufacturing,1361,45741
+Adelaide,40105,Norwood - Payneham - St Peters,mining,267,135138
+Adelaide,40105,Norwood - Payneham - St Peters,other_services,915,26166
+Adelaide,40105,Norwood - Payneham - St Peters,professional,3195,58265
+Adelaide,40105,Norwood - Payneham - St Peters,public_administration_safety,2062,64135
+Adelaide,40105,Norwood - Payneham - St Peters,rental,651,33470
+Adelaide,40105,Norwood - Payneham - St Peters,retail_trade,2709,16062
+Adelaide,40105,Norwood - Payneham - St Peters,total,31382,29832
+Adelaide,40105,Norwood - Payneham - St Peters,transport,553,55124
+Adelaide,40105,Norwood - Payneham - St Peters,wholesale_trade,936,47924
+Adelaide,40106,Prospect - Walkerville,accommodation_food_services,2496,8004
+Adelaide,40106,Prospect - Walkerville,administrative_support_services,2257,12375
+Adelaide,40106,Prospect - Walkerville,agriculture,149,15356
+Adelaide,40106,Prospect - Walkerville,arts_recreation_services,571,7298
+Adelaide,40106,Prospect - Walkerville,construction,1004,45613
+Adelaide,40106,Prospect - Walkerville,education_training,2533,45575
+Adelaide,40106,Prospect - Walkerville,electricity,188,107650
+Adelaide,40106,Prospect - Walkerville,finance_insurance_services,1053,52324
+Adelaide,40106,Prospect - Walkerville,health_care_social_assistance,4542,45776
+Adelaide,40106,Prospect - Walkerville,information_media_telecommunications,377,53305
+Adelaide,40106,Prospect - Walkerville,manufacturing,1292,47865
+Adelaide,40106,Prospect - Walkerville,mining,184,116240
+Adelaide,40106,Prospect - Walkerville,other_services,749,29500
+Adelaide,40106,Prospect - Walkerville,professional,2313,53880
+Adelaide,40106,Prospect - Walkerville,public_administration_safety,1875,68164
+Adelaide,40106,Prospect - Walkerville,rental,494,37768
+Adelaide,40106,Prospect - Walkerville,retail_trade,2375,16188
+Adelaide,40106,Prospect - Walkerville,total,26001,32177
+Adelaide,40106,Prospect - Walkerville,transport,495,48425
+Adelaide,40106,Prospect - Walkerville,wholesale_trade,814,51380
+Adelaide,40107,Unley,accommodation_food_services,3091,7036
+Adelaide,40107,Unley,administrative_support_services,2448,12441
+Adelaide,40107,Unley,agriculture,186,14881
+Adelaide,40107,Unley,arts_recreation_services,760,9180
+Adelaide,40107,Unley,construction,1001,48323
+Adelaide,40107,Unley,education_training,3444,35192
+Adelaide,40107,Unley,electricity,245,116768
+Adelaide,40107,Unley,finance_insurance_services,1321,59648
+Adelaide,40107,Unley,health_care_social_assistance,5538,45362
+Adelaide,40107,Unley,information_media_telecommunications,489,50670
+Adelaide,40107,Unley,manufacturing,1200,43221
+Adelaide,40107,Unley,mining,329,159574
+Adelaide,40107,Unley,other_services,851,25063
+Adelaide,40107,Unley,professional,3372,61189
+Adelaide,40107,Unley,public_administration_safety,2221,64102
+Adelaide,40107,Unley,rental,618,35397
+Adelaide,40107,Unley,retail_trade,2516,14800
+Adelaide,40107,Unley,total,31379,32158
+Adelaide,40107,Unley,transport,518,51092
+Adelaide,40107,Unley,wholesale_trade,925,53898
+Adelaide,40201,Gawler - Two Wells,accommodation_food_services,1970,8164
+Adelaide,40201,Gawler - Two Wells,administrative_support_services,2507,17275
+Adelaide,40201,Gawler - Two Wells,agriculture,593,30324
+Adelaide,40201,Gawler - Two Wells,arts_recreation_services,382,8283
+Adelaide,40201,Gawler - Two Wells,construction,2307,52196
+Adelaide,40201,Gawler - Two Wells,education_training,2370,39483
+Adelaide,40201,Gawler - Two Wells,electricity,276,79882
+Adelaide,40201,Gawler - Two Wells,finance_insurance_services,920,34760
+Adelaide,40201,Gawler - Two Wells,health_care_social_assistance,4245,36716
+Adelaide,40201,Gawler - Two Wells,information_media_telecommunications,180,42392
+Adelaide,40201,Gawler - Two Wells,manufacturing,2439,57054
+Adelaide,40201,Gawler - Two Wells,mining,320,102045
+Adelaide,40201,Gawler - Two Wells,other_services,1033,32361
+Adelaide,40201,Gawler - Two Wells,professional,1427,42392
+Adelaide,40201,Gawler - Two Wells,public_administration_safety,2134,74724
+Adelaide,40201,Gawler - Two Wells,rental,520,42791
+Adelaide,40201,Gawler - Two Wells,retail_trade,3182,21676
+Adelaide,40201,Gawler - Two Wells,total,29637,35689
+Adelaide,40201,Gawler - Two Wells,transport,1317,52104
+Adelaide,40201,Gawler - Two Wells,wholesale_trade,1295,52619
+Adelaide,40202,Playford,accommodation_food_services,4874,7738
+Adelaide,40202,Playford,administrative_support_services,9222,13889
+Adelaide,40202,Playford,agriculture,1074,20440
+Adelaide,40202,Playford,arts_recreation_services,851,7766
+Adelaide,40202,Playford,construction,4725,43591
+Adelaide,40202,Playford,education_training,3700,37355
+Adelaide,40202,Playford,electricity,670,65319
+Adelaide,40202,Playford,finance_insurance_services,2371,30152
+Adelaide,40202,Playford,health_care_social_assistance,11785,31350
+Adelaide,40202,Playford,information_media_telecommunications,415,36867
+Adelaide,40202,Playford,manufacturing,6682,49044
+Adelaide,40202,Playford,mining,573,81207
+Adelaide,40202,Playford,other_services,2461,26444
+Adelaide,40202,Playford,professional,2835,38421
+Adelaide,40202,Playford,public_administration_safety,4385,65694
+Adelaide,40202,Playford,rental,1170,31533
+Adelaide,40202,Playford,retail_trade,8800,21483
+Adelaide,40202,Playford,total,74055,29294
+Adelaide,40202,Playford,transport,3608,44766
+Adelaide,40202,Playford,wholesale_trade,3324,48423
+Adelaide,40203,Port Adelaide - East,accommodation_food_services,6069,8988
+Adelaide,40203,Port Adelaide - East,administrative_support_services,8492,10768
+Adelaide,40203,Port Adelaide - East,agriculture,491,14438
+Adelaide,40203,Port Adelaide - East,arts_recreation_services,1047,9000
+Adelaide,40203,Port Adelaide - East,construction,2783,42741
+Adelaide,40203,Port Adelaide - East,education_training,4555,38820
+Adelaide,40203,Port Adelaide - East,electricity,483,75712
+Adelaide,40203,Port Adelaide - East,finance_insurance_services,2426,39146
+Adelaide,40203,Port Adelaide - East,health_care_social_assistance,12901,34114
+Adelaide,40203,Port Adelaide - East,information_media_telecommunications,748,43846
+Adelaide,40203,Port Adelaide - East,manufacturing,3970,46444
+Adelaide,40203,Port Adelaide - East,mining,337,103001
+Adelaide,40203,Port Adelaide - East,other_services,2144,23317
+Adelaide,40203,Port Adelaide - East,professional,4680,52074
+Adelaide,40203,Port Adelaide - East,public_administration_safety,4212,61392
+Adelaide,40203,Port Adelaide - East,rental,1060,31120
+Adelaide,40203,Port Adelaide - East,retail_trade,6725,18540
+Adelaide,40203,Port Adelaide - East,total,67689,27554
+Adelaide,40203,Port Adelaide - East,transport,1789,45904
+Adelaide,40203,Port Adelaide - East,wholesale_trade,2124,46522
+Adelaide,40204,Salisbury,accommodation_food_services,8297,8090
+Adelaide,40204,Salisbury,administrative_support_services,13800,12832
+Adelaide,40204,Salisbury,agriculture,1228,19503
+Adelaide,40204,Salisbury,arts_recreation_services,1446,9421
+Adelaide,40204,Salisbury,construction,6104,44980
+Adelaide,40204,Salisbury,education_training,6027,37013
+Adelaide,40204,Salisbury,electricity,1014,71008
+Adelaide,40204,Salisbury,finance_insurance_services,3594,34615
+Adelaide,40204,Salisbury,health_care_social_assistance,18514,32605
+Adelaide,40204,Salisbury,information_media_telecommunications,926,41151
+Adelaide,40204,Salisbury,manufacturing,9773,51056
+Adelaide,40204,Salisbury,mining,495,89537
+Adelaide,40204,Salisbury,other_services,4080,25051
+Adelaide,40204,Salisbury,professional,5351,42011
+Adelaide,40204,Salisbury,public_administration_safety,6435,62647
+Adelaide,40204,Salisbury,rental,1785,27702
+Adelaide,40204,Salisbury,retail_trade,11925,20462
+Adelaide,40204,Salisbury,total,111378,28835
+Adelaide,40204,Salisbury,transport,4780,46842
+Adelaide,40204,Salisbury,wholesale_trade,4747,48895
+Adelaide,40205,Tea Tree Gully,accommodation_food_services,4785,8185
+Adelaide,40205,Tea Tree Gully,administrative_support_services,6176,14592
+Adelaide,40205,Tea Tree Gully,agriculture,323,14406
+Adelaide,40205,Tea Tree Gully,arts_recreation_services,1244,8056
+Adelaide,40205,Tea Tree Gully,construction,4733,53397
+Adelaide,40205,Tea Tree Gully,education_training,7213,44075
+Adelaide,40205,Tea Tree Gully,electricity,639,90789
+Adelaide,40205,Tea Tree Gully,finance_insurance_services,2912,45752
+Adelaide,40205,Tea Tree Gully,health_care_social_assistance,12443,38451
+Adelaide,40205,Tea Tree Gully,information_media_telecommunications,846,50312
+Adelaide,40205,Tea Tree Gully,manufacturing,4686,56445
+Adelaide,40205,Tea Tree Gully,mining,514,108184
+Adelaide,40205,Tea Tree Gully,other_services,2626,27507
+Adelaide,40205,Tea Tree Gully,professional,4910,54451
+Adelaide,40205,Tea Tree Gully,public_administration_safety,5857,70280
+Adelaide,40205,Tea Tree Gully,rental,1302,33164
+Adelaide,40205,Tea Tree Gully,retail_trade,7985,19407
+Adelaide,40205,Tea Tree Gully,total,74718,35896
+Adelaide,40205,Tea Tree Gully,transport,2195,53876
+Adelaide,40205,Tea Tree Gully,wholesale_trade,2794,56393
+Adelaide,40301,Holdfast Bay,accommodation_food_services,2374,7636
+Adelaide,40301,Holdfast Bay,administrative_support_services,2215,14968
+Adelaide,40301,Holdfast Bay,agriculture,148,13906
+Adelaide,40301,Holdfast Bay,arts_recreation_services,804,9446
+Adelaide,40301,Holdfast Bay,construction,1420,53291
+Adelaide,40301,Holdfast Bay,education_training,2873,39742
+Adelaide,40301,Holdfast Bay,electricity,218,112247
+Adelaide,40301,Holdfast Bay,finance_insurance_services,1235,54643
+Adelaide,40301,Holdfast Bay,health_care_social_assistance,4494,40460
+Adelaide,40301,Holdfast Bay,information_media_telecommunications,355,55239
+Adelaide,40301,Holdfast Bay,manufacturing,1229,50727
+Adelaide,40301,Holdfast Bay,mining,304,137654
+Adelaide,40301,Holdfast Bay,other_services,810,24219
+Adelaide,40301,Holdfast Bay,professional,2090,59112
+Adelaide,40301,Holdfast Bay,public_administration_safety,1927,69304
+Adelaide,40301,Holdfast Bay,rental,491,34186
+Adelaide,40301,Holdfast Bay,retail_trade,2189,15056
+Adelaide,40301,Holdfast Bay,total,27090,33203
+Adelaide,40301,Holdfast Bay,transport,714,55324
+Adelaide,40301,Holdfast Bay,wholesale_trade,884,55298
+Adelaide,40302,Marion,accommodation_food_services,7034,8456
+Adelaide,40302,Marion,administrative_support_services,7623,12903
+Adelaide,40302,Marion,agriculture,383,11058
+Adelaide,40302,Marion,arts_recreation_services,1772,9310
+Adelaide,40302,Marion,construction,4252,50686
+Adelaide,40302,Marion,education_training,7099,41285
+Adelaide,40302,Marion,electricity,658,95440
+Adelaide,40302,Marion,finance_insurance_services,3473,48600
+Adelaide,40302,Marion,health_care_social_assistance,17122,39102
+Adelaide,40302,Marion,information_media_telecommunications,872,47682
+Adelaide,40302,Marion,manufacturing,3712,50732
+Adelaide,40302,Marion,mining,665,112580
+Adelaide,40302,Marion,other_services,2502,27108
+Adelaide,40302,Marion,professional,5376,55526
+Adelaide,40302,Marion,public_administration_safety,5360,65265
+Adelaide,40302,Marion,rental,1168,35807
+Adelaide,40302,Marion,retail_trade,7512,18368
+Adelaide,40302,Marion,total,81554,32296
+Adelaide,40302,Marion,transport,2054,54418
+Adelaide,40302,Marion,wholesale_trade,2275,54042
+Adelaide,40303,Mitcham,accommodation_food_services,4414,6764
+Adelaide,40303,Mitcham,administrative_support_services,3732,12501
+Adelaide,40303,Mitcham,agriculture,315,12382
+Adelaide,40303,Mitcham,arts_recreation_services,1353,7394
+Adelaide,40303,Mitcham,construction,2229,53718
+Adelaide,40303,Mitcham,education_training,6275,39803
+Adelaide,40303,Mitcham,electricity,436,114240
+Adelaide,40303,Mitcham,finance_insurance_services,2082,55860
+Adelaide,40303,Mitcham,health_care_social_assistance,9972,41346
+Adelaide,40303,Mitcham,information_media_telecommunications,731,52410
+Adelaide,40303,Mitcham,manufacturing,2238,50432
+Adelaide,40303,Mitcham,mining,438,140894
+Adelaide,40303,Mitcham,other_services,1589,26959
+Adelaide,40303,Mitcham,professional,4675,62128
+Adelaide,40303,Mitcham,public_administration_safety,3844,69280
+Adelaide,40303,Mitcham,rental,765,37766
+Adelaide,40303,Mitcham,retail_trade,4421,14778
+Adelaide,40303,Mitcham,total,52333,33114
+Adelaide,40303,Mitcham,transport,926,51534
+Adelaide,40303,Mitcham,wholesale_trade,1411,57953
+Adelaide,40304,Onkaparinga,accommodation_food_services,9709,8070
+Adelaide,40304,Onkaparinga,administrative_support_services,10579,17149
+Adelaide,40304,Onkaparinga,agriculture,1469,15828
+Adelaide,40304,Onkaparinga,arts_recreation_services,2012,9165
+Adelaide,40304,Onkaparinga,construction,9775,50112
+Adelaide,40304,Onkaparinga,education_training,10737,37566
+Adelaide,40304,Onkaparinga,electricity,1160,88548
+Adelaide,40304,Onkaparinga,finance_insurance_services,5303,40016
+Adelaide,40304,Onkaparinga,health_care_social_assistance,22843,39960
+Adelaide,40304,Onkaparinga,information_media_telecommunications,1140,42274
+Adelaide,40304,Onkaparinga,manufacturing,8875,49216
+Adelaide,40304,Onkaparinga,mining,1190,103456
+Adelaide,40304,Onkaparinga,other_services,4727,29374
+Adelaide,40304,Onkaparinga,professional,7063,48000
+Adelaide,40304,Onkaparinga,public_administration_safety,8386,63409
+Adelaide,40304,Onkaparinga,rental,1934,31329
+Adelaide,40304,Onkaparinga,retail_trade,14675,21162
+Adelaide,40304,Onkaparinga,total,130414,33356
+Adelaide,40304,Onkaparinga,transport,3653,54799
+Adelaide,40304,Onkaparinga,wholesale_trade,4051,53946
+Adelaide,40401,Charles Sturt,accommodation_food_services,8386,8280
+Adelaide,40401,Charles Sturt,administrative_support_services,8916,13170
+Adelaide,40401,Charles Sturt,agriculture,479,14882
+Adelaide,40401,Charles Sturt,arts_recreation_services,2383,9831
+Adelaide,40401,Charles Sturt,construction,5212,50610
+Adelaide,40401,Charles Sturt,education_training,8260,43662
+Adelaide,40401,Charles Sturt,electricity,826,83710
+Adelaide,40401,Charles Sturt,finance_insurance_services,3911,48644
+Adelaide,40401,Charles Sturt,health_care_social_assistance,15342,39104
+Adelaide,40401,Charles Sturt,information_media_telecommunications,1211,46162
+Adelaide,40401,Charles Sturt,manufacturing,5930,52153
+Adelaide,40401,Charles Sturt,mining,725,111280
+Adelaide,40401,Charles Sturt,other_services,3512,25210
+Adelaide,40401,Charles Sturt,professional,6785,53479
+Adelaide,40401,Charles Sturt,public_administration_safety,6937,66817
+Adelaide,40401,Charles Sturt,rental,1711,33394
+Adelaide,40401,Charles Sturt,retail_trade,9708,17483
+Adelaide,40401,Charles Sturt,total,97712,32481
+Adelaide,40401,Charles Sturt,transport,3128,56060
+Adelaide,40401,Charles Sturt,wholesale_trade,3540,52352
+Adelaide,40402,Port Adelaide - West,accommodation_food_services,4545,8892
+Adelaide,40402,Port Adelaide - West,administrative_support_services,5224,13674
+Adelaide,40402,Port Adelaide - West,agriculture,359,12030
+Adelaide,40402,Port Adelaide - West,arts_recreation_services,953,10055
+Adelaide,40402,Port Adelaide - West,construction,2690,47639
+Adelaide,40402,Port Adelaide - West,education_training,3328,42006
+Adelaide,40402,Port Adelaide - West,electricity,441,73646
+Adelaide,40402,Port Adelaide - West,finance_insurance_services,1578,36885
+Adelaide,40402,Port Adelaide - West,health_care_social_assistance,7579,38218
+Adelaide,40402,Port Adelaide - West,information_media_telecommunications,473,36982
+Adelaide,40402,Port Adelaide - West,manufacturing,4057,51476
+Adelaide,40402,Port Adelaide - West,mining,349,94151
+Adelaide,40402,Port Adelaide - West,other_services,2070,22460
+Adelaide,40402,Port Adelaide - West,professional,2699,49546
+Adelaide,40402,Port Adelaide - West,public_administration_safety,3565,68192
+Adelaide,40402,Port Adelaide - West,rental,808,28576
+Adelaide,40402,Port Adelaide - West,retail_trade,4652,18598
+Adelaide,40402,Port Adelaide - West,total,49774,31124
+Adelaide,40402,Port Adelaide - West,transport,2032,58912
+Adelaide,40402,Port Adelaide - West,wholesale_trade,1920,50476
+Adelaide,40403,West Torrens,accommodation_food_services,6230,8297
+Adelaide,40403,West Torrens,administrative_support_services,6323,10575
+Adelaide,40403,West Torrens,agriculture,284,9912
+Adelaide,40403,West Torrens,arts_recreation_services,1572,9174
+Adelaide,40403,West Torrens,construction,2695,45721
+Adelaide,40403,West Torrens,education_training,4868,37124
+Adelaide,40403,West Torrens,electricity,489,89777
+Adelaide,40403,West Torrens,finance_insurance_services,2403,45161
+Adelaide,40403,West Torrens,health_care_social_assistance,11195,34918
+Adelaide,40403,West Torrens,information_media_telecommunications,713,41508
+Adelaide,40403,West Torrens,manufacturing,2800,45500
+Adelaide,40403,West Torrens,mining,397,124512
+Adelaide,40403,West Torrens,other_services,1780,27450
+Adelaide,40403,West Torrens,professional,4394,53800
+Adelaide,40403,West Torrens,public_administration_safety,3821,64269
+Adelaide,40403,West Torrens,rental,994,33588
+Adelaide,40403,West Torrens,retail_trade,5385,17360
+Adelaide,40403,West Torrens,total,60340,27902
+Adelaide,40403,West Torrens,transport,1615,49060
+Adelaide,40403,West Torrens,wholesale_trade,1937,50146
+Brisbane,30101,Capalaba,accommodation_food_services,4505,6287
+Brisbane,30101,Capalaba,administrative_support_services,4800,19350
+Brisbane,30101,Capalaba,agriculture,235,16832
+Brisbane,30101,Capalaba,arts_recreation_services,1007,10170
+Brisbane,30101,Capalaba,construction,5536,51920
+Brisbane,30101,Capalaba,education_training,4712,41059
+Brisbane,30101,Capalaba,electricity,540,90402
+Brisbane,30101,Capalaba,finance_insurance_services,2613,37996
+Brisbane,30101,Capalaba,health_care_social_assistance,8422,39874
+Brisbane,30101,Capalaba,information_media_telecommunications,598,33916
+Brisbane,30101,Capalaba,manufacturing,3862,59066
+Brisbane,30101,Capalaba,mining,440,107311
+Brisbane,30101,Capalaba,other_services,2450,25170
+Brisbane,30101,Capalaba,professional,4242,57594
+Brisbane,30101,Capalaba,public_administration_safety,2755,75967
+Brisbane,30101,Capalaba,rental,1232,35238
+Brisbane,30101,Capalaba,retail_trade,6153,19858
+Brisbane,30101,Capalaba,total,60221,36695
+Brisbane,30101,Capalaba,transport,2661,63460
+Brisbane,30101,Capalaba,wholesale_trade,2815,55796
+Brisbane,30102,Cleveland - Stradbroke,accommodation_food_services,5881,5806
+Brisbane,30102,Cleveland - Stradbroke,administrative_support_services,5703,17946
+Brisbane,30102,Cleveland - Stradbroke,agriculture,377,17584
+Brisbane,30102,Cleveland - Stradbroke,arts_recreation_services,1092,10598
+Brisbane,30102,Cleveland - Stradbroke,construction,6882,49538
+Brisbane,30102,Cleveland - Stradbroke,education_training,5521,42623
+Brisbane,30102,Cleveland - Stradbroke,electricity,734,82211
+Brisbane,30102,Cleveland - Stradbroke,finance_insurance_services,3034,31315
+Brisbane,30102,Cleveland - Stradbroke,health_care_social_assistance,9799,36416
+Brisbane,30102,Cleveland - Stradbroke,information_media_telecommunications,776,36526
+Brisbane,30102,Cleveland - Stradbroke,manufacturing,4554,56894
+Brisbane,30102,Cleveland - Stradbroke,mining,713,102303
+Brisbane,30102,Cleveland - Stradbroke,other_services,2957,26612
+Brisbane,30102,Cleveland - Stradbroke,professional,4856,51001
+Brisbane,30102,Cleveland - Stradbroke,public_administration_safety,3377,73328
+Brisbane,30102,Cleveland - Stradbroke,rental,1823,34574
+Brisbane,30102,Cleveland - Stradbroke,retail_trade,7285,18458
+Brisbane,30102,Cleveland - Stradbroke,total,72409,33441
+Brisbane,30102,Cleveland - Stradbroke,transport,2956,54676
+Brisbane,30102,Cleveland - Stradbroke,wholesale_trade,3102,59246
+Brisbane,30103,Wynnum - Manly,accommodation_food_services,4766,6653
+Brisbane,30103,Wynnum - Manly,administrative_support_services,5612,18366
+Brisbane,30103,Wynnum - Manly,agriculture,404,8830
+Brisbane,30103,Wynnum - Manly,arts_recreation_services,1256,12408
+Brisbane,30103,Wynnum - Manly,construction,4834,58612
+Brisbane,30103,Wynnum - Manly,education_training,5314,41041
+Brisbane,30103,Wynnum - Manly,electricity,594,101783
+Brisbane,30103,Wynnum - Manly,finance_insurance_services,2879,52306
+Brisbane,30103,Wynnum - Manly,health_care_social_assistance,7471,46525
+Brisbane,30103,Wynnum - Manly,information_media_telecommunications,877,46003
+Brisbane,30103,Wynnum - Manly,manufacturing,3939,57940
+Brisbane,30103,Wynnum - Manly,mining,611,139072
+Brisbane,30103,Wynnum - Manly,other_services,2369,29776
+Brisbane,30103,Wynnum - Manly,professional,5468,67625
+Brisbane,30103,Wynnum - Manly,public_administration_safety,2978,79071
+Brisbane,30103,Wynnum - Manly,rental,1392,37069
+Brisbane,30103,Wynnum - Manly,retail_trade,5367,16512
+Brisbane,30103,Wynnum - Manly,total,62722,39349
+Brisbane,30103,Wynnum - Manly,transport,2897,63186
+Brisbane,30103,Wynnum - Manly,wholesale_trade,3005,56289
+Brisbane,30201,Bald Hills - Everton Park,accommodation_food_services,3140,6848
+Brisbane,30201,Bald Hills - Everton Park,administrative_support_services,3305,19813
+Brisbane,30201,Bald Hills - Everton Park,agriculture,101,15910
+Brisbane,30201,Bald Hills - Everton Park,arts_recreation_services,744,12337
+Brisbane,30201,Bald Hills - Everton Park,construction,2307,55668
+Brisbane,30201,Bald Hills - Everton Park,education_training,3504,38777
+Brisbane,30201,Bald Hills - Everton Park,electricity,382,121885
+Brisbane,30201,Bald Hills - Everton Park,finance_insurance_services,1859,48538
+Brisbane,30201,Bald Hills - Everton Park,health_care_social_assistance,6536,47856
+Brisbane,30201,Bald Hills - Everton Park,information_media_telecommunications,581,57772
+Brisbane,30201,Bald Hills - Everton Park,manufacturing,1661,57120
+Brisbane,30201,Bald Hills - Everton Park,mining,390,137233
+Brisbane,30201,Bald Hills - Everton Park,other_services,1353,27483
+Brisbane,30201,Bald Hills - Everton Park,professional,3915,65230
+Brisbane,30201,Bald Hills - Everton Park,public_administration_safety,2805,80778
+Brisbane,30201,Bald Hills - Everton Park,rental,731,39873
+Brisbane,30201,Bald Hills - Everton Park,retail_trade,3862,16227
+Brisbane,30201,Bald Hills - Everton Park,total,40293,39852
+Brisbane,30201,Bald Hills - Everton Park,transport,1314,64992
+Brisbane,30201,Bald Hills - Everton Park,wholesale_trade,1378,53932
+Brisbane,30202,Chermside,accommodation_food_services,5955,7256
+Brisbane,30202,Chermside,administrative_support_services,6264,15646
+Brisbane,30202,Chermside,agriculture,236,14532
+Brisbane,30202,Chermside,arts_recreation_services,1383,10269
+Brisbane,30202,Chermside,construction,4000,56000
+Brisbane,30202,Chermside,education_training,5731,37330
+Brisbane,30202,Chermside,electricity,556,109594
+Brisbane,30202,Chermside,finance_insurance_services,2950,49912
+Brisbane,30202,Chermside,health_care_social_assistance,10280,49805
+Brisbane,30202,Chermside,information_media_telecommunications,962,44691
+Brisbane,30202,Chermside,manufacturing,2626,53841
+Brisbane,30202,Chermside,mining,662,139590
+Brisbane,30202,Chermside,other_services,2222,25666
+Brisbane,30202,Chermside,professional,6109,64340
+Brisbane,30202,Chermside,public_administration_safety,3860,81302
+Brisbane,30202,Chermside,rental,1211,45075
+Brisbane,30202,Chermside,retail_trade,6011,17366
+Brisbane,30202,Chermside,total,66027,37207
+Brisbane,30202,Chermside,transport,2198,63477
+Brisbane,30202,Chermside,wholesale_trade,2212,51282
+Brisbane,30203,Nundah,accommodation_food_services,3894,8555
+Brisbane,30203,Nundah,administrative_support_services,4392,16244
+Brisbane,30203,Nundah,agriculture,171,13903
+Brisbane,30203,Nundah,arts_recreation_services,948,11034
+Brisbane,30203,Nundah,construction,2345,57435
+Brisbane,30203,Nundah,education_training,3131,36408
+Brisbane,30203,Nundah,electricity,433,111601
+Brisbane,30203,Nundah,finance_insurance_services,1915,53636
+Brisbane,30203,Nundah,health_care_social_assistance,5921,41471
+Brisbane,30203,Nundah,information_media_telecommunications,578,41924
+Brisbane,30203,Nundah,manufacturing,2164,54908
+Brisbane,30203,Nundah,mining,406,132192
+Brisbane,30203,Nundah,other_services,1376,28130
+Brisbane,30203,Nundah,professional,4005,65002
+Brisbane,30203,Nundah,public_administration_safety,2431,77914
+Brisbane,30203,Nundah,rental,868,35556
+Brisbane,30203,Nundah,retail_trade,3332,21414
+Brisbane,30203,Nundah,total,42251,37682
+Brisbane,30203,Nundah,transport,2073,67792
+Brisbane,30203,Nundah,wholesale_trade,1537,52518
+Brisbane,30204,Sandgate,accommodation_food_services,4321,7384
+Brisbane,30204,Sandgate,administrative_support_services,5276,14570
+Brisbane,30204,Sandgate,agriculture,169,15630
+Brisbane,30204,Sandgate,arts_recreation_services,1005,10941
+Brisbane,30204,Sandgate,construction,3223,49369
+Brisbane,30204,Sandgate,education_training,4084,37810
+Brisbane,30204,Sandgate,electricity,472,109232
+Brisbane,30204,Sandgate,finance_insurance_services,1963,37814
+Brisbane,30204,Sandgate,health_care_social_assistance,8378,41564
+Brisbane,30204,Sandgate,information_media_telecommunications,616,40828
+Brisbane,30204,Sandgate,manufacturing,2930,55938
+Brisbane,30204,Sandgate,mining,363,118888
+Brisbane,30204,Sandgate,other_services,1798,26049
+Brisbane,30204,Sandgate,professional,3773,61004
+Brisbane,30204,Sandgate,public_administration_safety,3077,76888
+Brisbane,30204,Sandgate,rental,933,36010
+Brisbane,30204,Sandgate,retail_trade,4636,19198
+Brisbane,30204,Sandgate,total,51656,34868
+Brisbane,30204,Sandgate,transport,2261,62632
+Brisbane,30204,Sandgate,wholesale_trade,1922,53651
+Brisbane,30301,Carindale,accommodation_food_services,3941,6367
+Brisbane,30301,Carindale,administrative_support_services,3931,20569
+Brisbane,30301,Carindale,agriculture,184,7883
+Brisbane,30301,Carindale,arts_recreation_services,1065,11276
+Brisbane,30301,Carindale,construction,2839,58891
+Brisbane,30301,Carindale,education_training,4735,40468
+Brisbane,30301,Carindale,electricity,412,120861
+Brisbane,30301,Carindale,finance_insurance_services,2399,64471
+Brisbane,30301,Carindale,health_care_social_assistance,6645,53923
+Brisbane,30301,Carindale,information_media_telecommunications,837,41914
+Brisbane,30301,Carindale,manufacturing,2094,58779
+Brisbane,30301,Carindale,mining,537,157330
+Brisbane,30301,Carindale,other_services,1462,28802
+Brisbane,30301,Carindale,professional,5205,67233
+Brisbane,30301,Carindale,public_administration_safety,2529,82494
+Brisbane,30301,Carindale,rental,1032,37963
+Brisbane,30301,Carindale,retail_trade,4319,15409
+Brisbane,30301,Carindale,total,47763,40092
+Brisbane,30301,Carindale,transport,1212,64887
+Brisbane,30301,Carindale,wholesale_trade,1806,60420
+Brisbane,30302,Holland Park - Yeronga,accommodation_food_services,9127,6494
+Brisbane,30302,Holland Park - Yeronga,administrative_support_services,8551,13229
+Brisbane,30302,Holland Park - Yeronga,agriculture,448,10776
+Brisbane,30302,Holland Park - Yeronga,arts_recreation_services,1986,10878
+Brisbane,30302,Holland Park - Yeronga,construction,3700,50750
+Brisbane,30302,Holland Park - Yeronga,education_training,8753,30450
+Brisbane,30302,Holland Park - Yeronga,electricity,522,93506
+Brisbane,30302,Holland Park - Yeronga,finance_insurance_services,3417,53246
+Brisbane,30302,Holland Park - Yeronga,health_care_social_assistance,12367,50074
+Brisbane,30302,Holland Park - Yeronga,information_media_telecommunications,1427,31233
+Brisbane,30302,Holland Park - Yeronga,manufacturing,3050,40673
+Brisbane,30302,Holland Park - Yeronga,mining,686,133380
+Brisbane,30302,Holland Park - Yeronga,other_services,2355,23485
+Brisbane,30302,Holland Park - Yeronga,professional,8692,59034
+Brisbane,30302,Holland Park - Yeronga,public_administration_safety,4154,77080
+Brisbane,30302,Holland Park - Yeronga,rental,1556,31711
+Brisbane,30302,Holland Park - Yeronga,retail_trade,6549,14975
+Brisbane,30302,Holland Park - Yeronga,total,82047,29411
+Brisbane,30302,Holland Park - Yeronga,transport,1600,45642
+Brisbane,30302,Holland Park - Yeronga,wholesale_trade,2354,40898
+Brisbane,30303,Mt Gravatt,accommodation_food_services,7784,7350
+Brisbane,30303,Mt Gravatt,administrative_support_services,7019,13208
+Brisbane,30303,Mt Gravatt,agriculture,372,13439
+Brisbane,30303,Mt Gravatt,arts_recreation_services,1280,12000
+Brisbane,30303,Mt Gravatt,construction,3470,50248
+Brisbane,30303,Mt Gravatt,education_training,6299,37877
+Brisbane,30303,Mt Gravatt,electricity,467,89224
+Brisbane,30303,Mt Gravatt,finance_insurance_services,2754,45980
+Brisbane,30303,Mt Gravatt,health_care_social_assistance,9958,41278
+Brisbane,30303,Mt Gravatt,information_media_telecommunications,906,37609
+Brisbane,30303,Mt Gravatt,manufacturing,3329,49892
+Brisbane,30303,Mt Gravatt,mining,472,124129
+Brisbane,30303,Mt Gravatt,other_services,2447,23422
+Brisbane,30303,Mt Gravatt,professional,6232,57009
+Brisbane,30303,Mt Gravatt,public_administration_safety,3101,78707
+Brisbane,30303,Mt Gravatt,rental,1433,31002
+Brisbane,30303,Mt Gravatt,retail_trade,6983,14460
+Brisbane,30303,Mt Gravatt,total,69915,28805
+Brisbane,30303,Mt Gravatt,transport,1836,47921
+Brisbane,30303,Mt Gravatt,wholesale_trade,2828,43726
+Brisbane,30304,Nathan,accommodation_food_services,3684,6426
+Brisbane,30304,Nathan,administrative_support_services,4060,12944
+Brisbane,30304,Nathan,agriculture,165,10664
+Brisbane,30304,Nathan,arts_recreation_services,719,10019
+Brisbane,30304,Nathan,construction,1750,51097
+Brisbane,30304,Nathan,education_training,3946,40462
+Brisbane,30304,Nathan,electricity,301,101489
+Brisbane,30304,Nathan,finance_insurance_services,1451,48326
+Brisbane,30304,Nathan,health_care_social_assistance,5408,47790
+Brisbane,30304,Nathan,information_media_telecommunications,578,43176
+Brisbane,30304,Nathan,manufacturing,1813,45246
+Brisbane,30304,Nathan,mining,269,137936
+Brisbane,30304,Nathan,other_services,1342,22439
+Brisbane,30304,Nathan,professional,3381,61656
+Brisbane,30304,Nathan,public_administration_safety,1954,78593
+Brisbane,30304,Nathan,rental,703,31163
+Brisbane,30304,Nathan,retail_trade,3041,16410
+Brisbane,30304,Nathan,total,37316,30947
+Brisbane,30304,Nathan,transport,948,46776
+Brisbane,30304,Nathan,wholesale_trade,1404,41723
+Brisbane,30305,Rocklea - Acacia Ridge,accommodation_food_services,5174,8240
+Brisbane,30305,Rocklea - Acacia Ridge,administrative_support_services,7060,12007
+Brisbane,30305,Rocklea - Acacia Ridge,agriculture,240,11590
+Brisbane,30305,Rocklea - Acacia Ridge,arts_recreation_services,934,13614
+Brisbane,30305,Rocklea - Acacia Ridge,construction,2788,43607
+Brisbane,30305,Rocklea - Acacia Ridge,education_training,4069,39564
+Brisbane,30305,Rocklea - Acacia Ridge,electricity,416,81971
+Brisbane,30305,Rocklea - Acacia Ridge,finance_insurance_services,2217,44122
+Brisbane,30305,Rocklea - Acacia Ridge,health_care_social_assistance,9533,40244
+Brisbane,30305,Rocklea - Acacia Ridge,information_media_telecommunications,658,28595
+Brisbane,30305,Rocklea - Acacia Ridge,manufacturing,3919,51473
+Brisbane,30305,Rocklea - Acacia Ridge,mining,286,102424
+Brisbane,30305,Rocklea - Acacia Ridge,other_services,2133,23763
+Brisbane,30305,Rocklea - Acacia Ridge,professional,4303,55129
+Brisbane,30305,Rocklea - Acacia Ridge,public_administration_safety,2516,75559
+Brisbane,30305,Rocklea - Acacia Ridge,rental,1241,29070
+Brisbane,30305,Rocklea - Acacia Ridge,retail_trade,6007,19468
+Brisbane,30305,Rocklea - Acacia Ridge,total,59611,30500
+Brisbane,30305,Rocklea - Acacia Ridge,transport,2200,45000
+Brisbane,30305,Rocklea - Acacia Ridge,wholesale_trade,3041,48750
+Brisbane,30306,Sunnybank,accommodation_food_services,5332,8446
+Brisbane,30306,Sunnybank,administrative_support_services,5459,10100
+Brisbane,30306,Sunnybank,agriculture,319,7526
+Brisbane,30306,Sunnybank,arts_recreation_services,682,12907
+Brisbane,30306,Sunnybank,construction,1867,36128
+Brisbane,30306,Sunnybank,education_training,2836,31715
+Brisbane,30306,Sunnybank,electricity,249,71996
+Brisbane,30306,Sunnybank,finance_insurance_services,1450,37720
+Brisbane,30306,Sunnybank,health_care_social_assistance,6147,34284
+Brisbane,30306,Sunnybank,information_media_telecommunications,444,35191
+Brisbane,30306,Sunnybank,manufacturing,2677,43858
+Brisbane,30306,Sunnybank,mining,196,94934
+Brisbane,30306,Sunnybank,other_services,1495,18947
+Brisbane,30306,Sunnybank,professional,3241,46214
+Brisbane,30306,Sunnybank,public_administration_safety,1657,71230
+Brisbane,30306,Sunnybank,rental,1015,22162
+Brisbane,30306,Sunnybank,retail_trade,4084,16635
+Brisbane,30306,Sunnybank,total,43086,23000
+Brisbane,30306,Sunnybank,transport,1303,39824
+Brisbane,30306,Sunnybank,wholesale_trade,1929,35609
+Brisbane,30401,Centenary,accommodation_food_services,1985,5845
+Brisbane,30401,Centenary,administrative_support_services,1860,23792
+Brisbane,30401,Centenary,agriculture,92,21811
+Brisbane,30401,Centenary,arts_recreation_services,508,9222
+Brisbane,30401,Centenary,construction,1397,60240
+Brisbane,30401,Centenary,education_training,3149,42772
+Brisbane,30401,Centenary,electricity,227,120514
+Brisbane,30401,Centenary,finance_insurance_services,1185,50805
+Brisbane,30401,Centenary,health_care_social_assistance,3575,50602
+Brisbane,30401,Centenary,information_media_telecommunications,418,44256
+Brisbane,30401,Centenary,manufacturing,1449,64641
+Brisbane,30401,Centenary,mining,272,145671
+Brisbane,30401,Centenary,other_services,938,23552
+Brisbane,30401,Centenary,professional,2593,69051
+Brisbane,30401,Centenary,public_administration_safety,1510,89638
+Brisbane,30401,Centenary,rental,479,49193
+Brisbane,30401,Centenary,retail_trade,2428,15363
+Brisbane,30401,Centenary,total,26055,40933
+Brisbane,30401,Centenary,transport,632,64642
+Brisbane,30401,Centenary,wholesale_trade,1014,64075
+Brisbane,30402,Kenmore - Brookfield - Moggill,accommodation_food_services,2782,4975
+Brisbane,30402,Kenmore - Brookfield - Moggill,administrative_support_services,2567,25312
+Brisbane,30402,Kenmore - Brookfield - Moggill,agriculture,229,20531
+Brisbane,30402,Kenmore - Brookfield - Moggill,arts_recreation_services,775,8217
+Brisbane,30402,Kenmore - Brookfield - Moggill,construction,1840,57813
+Brisbane,30402,Kenmore - Brookfield - Moggill,education_training,5250,37650
+Brisbane,30402,Kenmore - Brookfield - Moggill,electricity,353,123697
+Brisbane,30402,Kenmore - Brookfield - Moggill,finance_insurance_services,1701,62225
+Brisbane,30402,Kenmore - Brookfield - Moggill,health_care_social_assistance,4945,48869
+Brisbane,30402,Kenmore - Brookfield - Moggill,information_media_telecommunications,635,61471
+Brisbane,30402,Kenmore - Brookfield - Moggill,manufacturing,1342,66008
+Brisbane,30402,Kenmore - Brookfield - Moggill,mining,560,179972
+Brisbane,30402,Kenmore - Brookfield - Moggill,other_services,1146,25827
+Brisbane,30402,Kenmore - Brookfield - Moggill,professional,5177,73976
+Brisbane,30402,Kenmore - Brookfield - Moggill,public_administration_safety,1864,85088
+Brisbane,30402,Kenmore - Brookfield - Moggill,rental,820,38916
+Brisbane,30402,Kenmore - Brookfield - Moggill,retail_trade,2989,13000
+Brisbane,30402,Kenmore - Brookfield - Moggill,total,37522,40665
+Brisbane,30402,Kenmore - Brookfield - Moggill,transport,753,72655
+Brisbane,30402,Kenmore - Brookfield - Moggill,wholesale_trade,1227,59924
+Brisbane,30403,Sherwood - Indooroopilly,accommodation_food_services,4944,5477
+Brisbane,30403,Sherwood - Indooroopilly,administrative_support_services,3986,14835
+Brisbane,30403,Sherwood - Indooroopilly,agriculture,268,11096
+Brisbane,30403,Sherwood - Indooroopilly,arts_recreation_services,955,9644
+Brisbane,30403,Sherwood - Indooroopilly,construction,1525,53351
+Brisbane,30403,Sherwood - Indooroopilly,education_training,7200,23600
+Brisbane,30403,Sherwood - Indooroopilly,electricity,346,118439
+Brisbane,30403,Sherwood - Indooroopilly,finance_insurance_services,2063,57713
+Brisbane,30403,Sherwood - Indooroopilly,health_care_social_assistance,5614,41941
+Brisbane,30403,Sherwood - Indooroopilly,information_media_telecommunications,763,33900
+Brisbane,30403,Sherwood - Indooroopilly,manufacturing,1572,46064
+Brisbane,30403,Sherwood - Indooroopilly,mining,637,162559
+Brisbane,30403,Sherwood - Indooroopilly,other_services,1244,18860
+Brisbane,30403,Sherwood - Indooroopilly,professional,6346,60433
+Brisbane,30403,Sherwood - Indooroopilly,public_administration_safety,2129,79522
+Brisbane,30403,Sherwood - Indooroopilly,rental,894,31895
+Brisbane,30403,Sherwood - Indooroopilly,retail_trade,4017,12009
+Brisbane,30403,Sherwood - Indooroopilly,total,47152,27311
+Brisbane,30403,Sherwood - Indooroopilly,transport,760,52425
+Brisbane,30403,Sherwood - Indooroopilly,wholesale_trade,1334,45404
+Brisbane,30404,The Gap - Enoggera,accommodation_food_services,3421,6638
+Brisbane,30404,The Gap - Enoggera,administrative_support_services,3293,23012
+Brisbane,30404,The Gap - Enoggera,agriculture,173,13054
+Brisbane,30404,The Gap - Enoggera,arts_recreation_services,951,11548
+Brisbane,30404,The Gap - Enoggera,construction,2267,55222
+Brisbane,30404,The Gap - Enoggera,education_training,4932,41398
+Brisbane,30404,The Gap - Enoggera,electricity,357,123251
+Brisbane,30404,The Gap - Enoggera,finance_insurance_services,2088,62162
+Brisbane,30404,The Gap - Enoggera,health_care_social_assistance,6172,46887
+Brisbane,30404,The Gap - Enoggera,information_media_telecommunications,803,56330
+Brisbane,30404,The Gap - Enoggera,manufacturing,1409,55506
+Brisbane,30404,The Gap - Enoggera,mining,543,152706
+Brisbane,30404,The Gap - Enoggera,other_services,1455,23348
+Brisbane,30404,The Gap - Enoggera,professional,5170,74789
+Brisbane,30404,The Gap - Enoggera,public_administration_safety,4481,85178
+Brisbane,30404,The Gap - Enoggera,rental,786,39931
+Brisbane,30404,The Gap - Enoggera,retail_trade,3683,15206
+Brisbane,30404,The Gap - Enoggera,total,44580,43102
+Brisbane,30404,The Gap - Enoggera,transport,1069,62917
+Brisbane,30404,The Gap - Enoggera,wholesale_trade,1151,55222
+Brisbane,30501,Brisbane Inner,accommodation_food_services,21399,6257
+Brisbane,30501,Brisbane Inner,administrative_support_services,16413,9151
+Brisbane,30501,Brisbane Inner,agriculture,1472,4504
+Brisbane,30501,Brisbane Inner,arts_recreation_services,2834,10364
+Brisbane,30501,Brisbane Inner,construction,3887,39872
+Brisbane,30501,Brisbane Inner,education_training,7466,23069
+Brisbane,30501,Brisbane Inner,electricity,564,89356
+Brisbane,30501,Brisbane Inner,finance_insurance_services,4605,47420
+Brisbane,30501,Brisbane Inner,health_care_social_assistance,10994,42324
+Brisbane,30501,Brisbane Inner,information_media_telecommunications,1763,31359
+Brisbane,30501,Brisbane Inner,manufacturing,3433,26972
+Brisbane,30501,Brisbane Inner,mining,1254,131832
+Brisbane,30501,Brisbane Inner,other_services,2906,21312
+Brisbane,30501,Brisbane Inner,professional,12771,59480
+Brisbane,30501,Brisbane Inner,public_administration_safety,4195,75098
+Brisbane,30501,Brisbane Inner,rental,2714,24329
+Brisbane,30501,Brisbane Inner,retail_trade,7831,12732
+Brisbane,30501,Brisbane Inner,total,113107,19491
+Brisbane,30501,Brisbane Inner,transport,2234,35599
+Brisbane,30501,Brisbane Inner,wholesale_trade,3255,30583
+Brisbane,30502,Brisbane Inner - East,accommodation_food_services,4216,5992
+Brisbane,30502,Brisbane Inner - East,administrative_support_services,4250,17753
+Brisbane,30502,Brisbane Inner - East,agriculture,190,11832
+Brisbane,30502,Brisbane Inner - East,arts_recreation_services,1013,12207
+Brisbane,30502,Brisbane Inner - East,construction,2510,58822
+Brisbane,30502,Brisbane Inner - East,education_training,3664,34006
+Brisbane,30502,Brisbane Inner - East,electricity,373,116174
+Brisbane,30502,Brisbane Inner - East,finance_insurance_services,2230,72050
+Brisbane,30502,Brisbane Inner - East,health_care_social_assistance,5384,49115
+Brisbane,30502,Brisbane Inner - East,information_media_telecommunications,853,41965
+Brisbane,30502,Brisbane Inner - East,manufacturing,1791,48983
+Brisbane,30502,Brisbane Inner - East,mining,627,155604
+Brisbane,30502,Brisbane Inner - East,other_services,1240,26617
+Brisbane,30502,Brisbane Inner - East,professional,5465,68793
+Brisbane,30502,Brisbane Inner - East,public_administration_safety,2060,80355
+Brisbane,30502,Brisbane Inner - East,rental,1123,43866
+Brisbane,30502,Brisbane Inner - East,retail_trade,3277,16270
+Brisbane,30502,Brisbane Inner - East,total,43658,37750
+Brisbane,30502,Brisbane Inner - East,transport,1218,65071
+Brisbane,30502,Brisbane Inner - East,wholesale_trade,1674,53846
+Brisbane,30503,Brisbane Inner - North,accommodation_food_services,11472,7167
+Brisbane,30503,Brisbane Inner - North,administrative_support_services,10997,13864
+Brisbane,30503,Brisbane Inner - North,agriculture,471,11412
+Brisbane,30503,Brisbane Inner - North,arts_recreation_services,2696,10493
+Brisbane,30503,Brisbane Inner - North,construction,4455,54378
+Brisbane,30503,Brisbane Inner - North,education_training,8251,26480
+Brisbane,30503,Brisbane Inner - North,electricity,785,111968
+Brisbane,30503,Brisbane Inner - North,finance_insurance_services,4974,63173
+Brisbane,30503,Brisbane Inner - North,health_care_social_assistance,13968,48381
+Brisbane,30503,Brisbane Inner - North,information_media_telecommunications,1948,34117
+Brisbane,30503,Brisbane Inner - North,manufacturing,3306,45752
+Brisbane,30503,Brisbane Inner - North,mining,1351,151782
+Brisbane,30503,Brisbane Inner - North,other_services,2858,25112
+Brisbane,30503,Brisbane Inner - North,professional,13058,64936
+Brisbane,30503,Brisbane Inner - North,public_administration_safety,4900,80076
+Brisbane,30503,Brisbane Inner - North,rental,2695,40000
+Brisbane,30503,Brisbane Inner - North,retail_trade,8203,16926
+Brisbane,30503,Brisbane Inner - North,total,103519,32913
+Brisbane,30503,Brisbane Inner - North,transport,2902,62472
+Brisbane,30503,Brisbane Inner - North,wholesale_trade,3193,48184
+Brisbane,30504,Brisbane Inner - West,accommodation_food_services,6138,5513
+Brisbane,30504,Brisbane Inner - West,administrative_support_services,5511,16760
+Brisbane,30504,Brisbane Inner - West,agriculture,292,11300
+Brisbane,30504,Brisbane Inner - West,arts_recreation_services,1469,10494
+Brisbane,30504,Brisbane Inner - West,construction,2392,54415
+Brisbane,30504,Brisbane Inner - West,education_training,6697,26142
+Brisbane,30504,Brisbane Inner - West,electricity,436,123430
+Brisbane,30504,Brisbane Inner - West,finance_insurance_services,2828,65623
+Brisbane,30504,Brisbane Inner - West,health_care_social_assistance,7363,45380
+Brisbane,30504,Brisbane Inner - West,information_media_telecommunications,1209,32688
+Brisbane,30504,Brisbane Inner - West,manufacturing,1699,43736
+Brisbane,30504,Brisbane Inner - West,mining,836,174491
+Brisbane,30504,Brisbane Inner - West,other_services,1567,22938
+Brisbane,30504,Brisbane Inner - West,professional,8241,64994
+Brisbane,30504,Brisbane Inner - West,public_administration_safety,2998,82644
+Brisbane,30504,Brisbane Inner - West,rental,1299,45000
+Brisbane,30504,Brisbane Inner - West,retail_trade,4431,12787
+Brisbane,30504,Brisbane Inner - West,total,58714,31852
+Brisbane,30504,Brisbane Inner - West,transport,1052,53690
+Brisbane,30504,Brisbane Inner - West,wholesale_trade,1602,53397
+Melbourne,20601,Brunswick - Coburg,accommodation_food_services,10246,7266
+Melbourne,20601,Brunswick - Coburg,administrative_support_services,8285,12168
+Melbourne,20601,Brunswick - Coburg,agriculture,358,7704
+Melbourne,20601,Brunswick - Coburg,arts_recreation_services,3126,11006
+Melbourne,20601,Brunswick - Coburg,construction,3271,55569
+Melbourne,20601,Brunswick - Coburg,education_training,11513,28678
+Melbourne,20601,Brunswick - Coburg,electricity,539,82166
+Melbourne,20601,Brunswick - Coburg,finance_insurance_services,4132,67998
+Melbourne,20601,Brunswick - Coburg,health_care_social_assistance,11712,47886
+Melbourne,20601,Brunswick - Coburg,information_media_telecommunications,3422,27636
+Melbourne,20601,Brunswick - Coburg,manufacturing,3008,47525
+Melbourne,20601,Brunswick - Coburg,mining,120,109506
+Melbourne,20601,Brunswick - Coburg,other_services,2642,36798
+Melbourne,20601,Brunswick - Coburg,professional,10732,66685
+Melbourne,20601,Brunswick - Coburg,public_administration_safety,6164,74014
+Melbourne,20601,Brunswick - Coburg,rental,1269,38536
+Melbourne,20601,Brunswick - Coburg,retail_trade,7399,17422
+Melbourne,20601,Brunswick - Coburg,total,93008,31500
+Melbourne,20601,Brunswick - Coburg,transport,1750,67897
+Melbourne,20601,Brunswick - Coburg,wholesale_trade,2516,56935
+Melbourne,20602,Darebin - South,accommodation_food_services,4654,6264
+Melbourne,20602,Darebin - South,administrative_support_services,3778,13810
+Melbourne,20602,Darebin - South,agriculture,145,15428
+Melbourne,20602,Darebin - South,arts_recreation_services,1598,12958
+Melbourne,20602,Darebin - South,construction,1772,59456
+Melbourne,20602,Darebin - South,education_training,6429,27340
+Melbourne,20602,Darebin - South,electricity,372,90609
+Melbourne,20602,Darebin - South,finance_insurance_services,2345,78508
+Melbourne,20602,Darebin - South,health_care_social_assistance,6949,54174
+Melbourne,20602,Darebin - South,information_media_telecommunications,1847,43096
+Melbourne,20602,Darebin - South,manufacturing,1588,53028
+Melbourne,20602,Darebin - South,mining,60,97816
+Melbourne,20602,Darebin - South,other_services,1382,36012
+Melbourne,20602,Darebin - South,professional,5955,71037
+Melbourne,20602,Darebin - South,public_administration_safety,3571,76852
+Melbourne,20602,Darebin - South,rental,675,50802
+Melbourne,20602,Darebin - South,retail_trade,3925,18751
+Melbourne,20602,Darebin - South,total,49578,37068
+Melbourne,20602,Darebin - South,transport,835,71310
+Melbourne,20602,Darebin - South,wholesale_trade,1315,56952
+Melbourne,20603,Essendon,accommodation_food_services,6614,7104
+Melbourne,20603,Essendon,administrative_support_services,6761,12261
+Melbourne,20603,Essendon,agriculture,208,12500
+Melbourne,20603,Essendon,arts_recreation_services,2288,10168
+Melbourne,20603,Essendon,construction,2984,57708
+Melbourne,20603,Essendon,education_training,6058,33063
+Melbourne,20603,Essendon,electricity,434,83508
+Melbourne,20603,Essendon,finance_insurance_services,3529,69904
+Melbourne,20603,Essendon,health_care_social_assistance,8271,45140
+Melbourne,20603,Essendon,information_media_telecommunications,1693,51715
+Melbourne,20603,Essendon,manufacturing,2332,53136
+Melbourne,20603,Essendon,mining,78,103069
+Melbourne,20603,Essendon,other_services,1660,30410
+Melbourne,20603,Essendon,professional,6968,67265
+Melbourne,20603,Essendon,public_administration_safety,4208,72235
+Melbourne,20603,Essendon,rental,1188,50583
+Melbourne,20603,Essendon,retail_trade,5727,16900
+Melbourne,20603,Essendon,total,65615,33404
+Melbourne,20603,Essendon,transport,2038,70966
+Melbourne,20603,Essendon,wholesale_trade,1911,63153
+Melbourne,20604,Melbourne City,accommodation_food_services,51677,6102
+Melbourne,20604,Melbourne City,administrative_support_services,27957,7400
+Melbourne,20604,Melbourne City,agriculture,1856,5265
+Melbourne,20604,Melbourne City,arts_recreation_services,5200,12975
+Melbourne,20604,Melbourne City,construction,4787,37553
+Melbourne,20604,Melbourne City,education_training,14766,14044
+Melbourne,20604,Melbourne City,electricity,1025,65560
+Melbourne,20604,Melbourne City,finance_insurance_services,9385,58948
+Melbourne,20604,Melbourne City,health_care_social_assistance,17088,34727
+Melbourne,20604,Melbourne City,information_media_telecommunications,4842,41823
+Melbourne,20604,Melbourne City,manufacturing,5201,24758
+Melbourne,20604,Melbourne City,mining,284,79225
+Melbourne,20604,Melbourne City,other_services,4542,18056
+Melbourne,20604,Melbourne City,professional,25947,58313
+Melbourne,20604,Melbourne City,public_administration_safety,6380,64394
+Melbourne,20604,Melbourne City,rental,3780,16841
+Melbourne,20604,Melbourne City,retail_trade,16893,13604
+Melbourne,20604,Melbourne City,total,211606,15977
+Melbourne,20604,Melbourne City,transport,2996,42334
+Melbourne,20604,Melbourne City,wholesale_trade,4960,32971
+Melbourne,20605,Port Phillip,accommodation_food_services,14761,6536
+Melbourne,20605,Port Phillip,administrative_support_services,13935,11278
+Melbourne,20605,Port Phillip,agriculture,946,5670
+Melbourne,20605,Port Phillip,arts_recreation_services,3543,13096
+Melbourne,20605,Port Phillip,construction,4878,54073
+Melbourne,20605,Port Phillip,education_training,8436,25546
+Melbourne,20605,Port Phillip,electricity,741,84532
+Melbourne,20605,Port Phillip,finance_insurance_services,6304,73279
+Melbourne,20605,Port Phillip,health_care_social_assistance,11181,42594
+Melbourne,20605,Port Phillip,information_media_telecommunications,3985,36426
+Melbourne,20605,Port Phillip,manufacturing,3358,54731
+Melbourne,20605,Port Phillip,mining,213,120350
+Melbourne,20605,Port Phillip,other_services,2965,29575
+Melbourne,20605,Port Phillip,professional,13952,69325
+Melbourne,20605,Port Phillip,public_administration_safety,4899,71702
+Melbourne,20605,Port Phillip,rental,2532,39898
+Melbourne,20605,Port Phillip,retail_trade,8394,21624
+Melbourne,20605,Port Phillip,total,112199,29101
+Melbourne,20605,Port Phillip,transport,2179,62775
+Melbourne,20605,Port Phillip,wholesale_trade,3666,65000
+Melbourne,20606,Stonnington - West,accommodation_food_services,7766,6745
+Melbourne,20606,Stonnington - West,administrative_support_services,6671,15021
+Melbourne,20606,Stonnington - West,agriculture,409,6528
+Melbourne,20606,Stonnington - West,arts_recreation_services,1890,14008
+Melbourne,20606,Stonnington - West,construction,2246,58692
+Melbourne,20606,Stonnington - West,education_training,4865,22906
+Melbourne,20606,Stonnington - West,electricity,403,83465
+Melbourne,20606,Stonnington - West,finance_insurance_services,4103,81057
+Melbourne,20606,Stonnington - West,health_care_social_assistance,7095,48396
+Melbourne,20606,Stonnington - West,information_media_telecommunications,2240,51630
+Melbourne,20606,Stonnington - West,manufacturing,1774,57538
+Melbourne,20606,Stonnington - West,mining,129,122830
+Melbourne,20606,Stonnington - West,other_services,1493,29363
+Melbourne,20606,Stonnington - West,professional,9515,67615
+Melbourne,20606,Stonnington - West,public_administration_safety,2484,64989
+Melbourne,20606,Stonnington - West,rental,1702,50400
+Melbourne,20606,Stonnington - West,retail_trade,5767,24038
+Melbourne,20606,Stonnington - West,total,64435,33990
+Melbourne,20606,Stonnington - West,transport,981,59786
+Melbourne,20606,Stonnington - West,wholesale_trade,2087,66350
+Melbourne,20607,Yarra,accommodation_food_services,11124,7106
+Melbourne,20607,Yarra,administrative_support_services,9086,14600
+Melbourne,20607,Yarra,agriculture,442,6802
+Melbourne,20607,Yarra,arts_recreation_services,2984,16723
+Melbourne,20607,Yarra,construction,3098,63426
+Melbourne,20607,Yarra,education_training,9184,26112
+Melbourne,20607,Yarra,electricity,654,90644
+Melbourne,20607,Yarra,finance_insurance_services,4868,80110
+Melbourne,20607,Yarra,health_care_social_assistance,12320,50980
+Melbourne,20607,Yarra,information_media_telecommunications,3698,48251
+Melbourne,20607,Yarra,manufacturing,2836,49847
+Melbourne,20607,Yarra,mining,134,106245
+Melbourne,20607,Yarra,other_services,2390,33471
+Melbourne,20607,Yarra,professional,13843,71770
+Melbourne,20607,Yarra,public_administration_safety,5511,75002
+Melbourne,20607,Yarra,rental,1473,46658
+Melbourne,20607,Yarra,retail_trade,7186,23170
+Melbourne,20607,Yarra,total,95735,36618
+Melbourne,20607,Yarra,transport,1486,61553
+Melbourne,20607,Yarra,wholesale_trade,2573,64899
+Melbourne,20701,Boroondara,accommodation_food_services,13932,5140
+Melbourne,20701,Boroondara,administrative_support_services,9895,15595
+Melbourne,20701,Boroondara,agriculture,346,11190
+Melbourne,20701,Boroondara,arts_recreation_services,3873,7961
+Melbourne,20701,Boroondara,construction,4632,58084
+Melbourne,20701,Boroondara,education_training,14843,20538
+Melbourne,20701,Boroondara,electricity,734,110827
+Melbourne,20701,Boroondara,finance_insurance_services,8850,84991
+Melbourne,20701,Boroondara,health_care_social_assistance,19261,46736
+Melbourne,20701,Boroondara,information_media_telecommunications,3709,58550
+Melbourne,20701,Boroondara,manufacturing,4540,59630
+Melbourne,20701,Boroondara,mining,240,191520
+Melbourne,20701,Boroondara,other_services,3244,29217
+Melbourne,20701,Boroondara,professional,17755,66180
+Melbourne,20701,Boroondara,public_administration_safety,6152,65963
+Melbourne,20701,Boroondara,rental,3001,45592
+Melbourne,20701,Boroondara,retail_trade,14006,17307
+Melbourne,20701,Boroondara,total,138529,32761
+Melbourne,20701,Boroondara,transport,2104,66870
+Melbourne,20701,Boroondara,wholesale_trade,5100,63462
+Melbourne,20702,Manningham - West,accommodation_food_services,6323,8755
+Melbourne,20702,Manningham - West,administrative_support_services,4990,18636
+Melbourne,20702,Manningham - West,agriculture,126,19286
+Melbourne,20702,Manningham - West,arts_recreation_services,1459,9732
+Melbourne,20702,Manningham - West,construction,3353,52000
+Melbourne,20702,Manningham - West,education_training,6203,22612
+Melbourne,20702,Manningham - West,electricity,416,86923
+Melbourne,20702,Manningham - West,finance_insurance_services,4508,64386
+Melbourne,20702,Manningham - West,health_care_social_assistance,10462,38458
+Melbourne,20702,Manningham - West,information_media_telecommunications,1676,65398
+Melbourne,20702,Manningham - West,manufacturing,2949,57704
+Melbourne,20702,Manningham - West,mining,67,109006
+Melbourne,20702,Manningham - West,other_services,2173,28660
+Melbourne,20702,Manningham - West,professional,7526,62282
+Melbourne,20702,Manningham - West,public_administration_safety,3080,61868
+Melbourne,20702,Manningham - West,rental,1552,40000
+Melbourne,20702,Manningham - West,retail_trade,8566,19371
+Melbourne,20702,Manningham - West,total,71473,33500
+Melbourne,20702,Manningham - West,transport,1472,64896
+Melbourne,20702,Manningham - West,wholesale_trade,3195,59300
+Melbourne,20703,Whitehorse - West,accommodation_food_services,10699,6606
+Melbourne,20703,Whitehorse - West,administrative_support_services,7779,12757
+Melbourne,20703,Whitehorse - West,agriculture,233,9080
+Melbourne,20703,Whitehorse - West,arts_recreation_services,1930,8000
+Melbourne,20703,Whitehorse - West,construction,3423,49818
+Melbourne,20703,Whitehorse - West,education_training,8892,23514
+Melbourne,20703,Whitehorse - West,electricity,469,87125
+Melbourne,20703,Whitehorse - West,finance_insurance_services,5057,64923
+Melbourne,20703,Whitehorse - West,health_care_social_assistance,13093,37088
+Melbourne,20703,Whitehorse - West,information_media_telecommunications,2039,60595
+Melbourne,20703,Whitehorse - West,manufacturing,3409,52818
+Melbourne,20703,Whitehorse - West,mining,87,133414
+Melbourne,20703,Whitehorse - West,other_services,2849,24733
+Melbourne,20703,Whitehorse - West,professional,9535,61862
+Melbourne,20703,Whitehorse - West,public_administration_safety,3879,62760
+Melbourne,20703,Whitehorse - West,rental,1583,38353
+Melbourne,20703,Whitehorse - West,retail_trade,9656,16814
+Melbourne,20703,Whitehorse - West,total,91071,27647
+Melbourne,20703,Whitehorse - West,transport,1499,58318
+Melbourne,20703,Whitehorse - West,wholesale_trade,3639,53179
+Melbourne,20801,Bayside,accommodation_food_services,7172,4750
+Melbourne,20801,Bayside,administrative_support_services,5381,20800
+Melbourne,20801,Bayside,agriculture,193,9728
+Melbourne,20801,Bayside,arts_recreation_services,2444,10032
+Melbourne,20801,Bayside,construction,3796,62803
+Melbourne,20801,Bayside,education_training,7430,24571
+Melbourne,20801,Bayside,electricity,492,126110
+Melbourne,20801,Bayside,finance_insurance_services,5034,84285
+Melbourne,20801,Bayside,health_care_social_assistance,8457,42632
+Melbourne,20801,Bayside,information_media_telecommunications,2291,64744
+Melbourne,20801,Bayside,manufacturing,3123,67689
+Melbourne,20801,Bayside,mining,199,187751
+Melbourne,20801,Bayside,other_services,1872,31907
+Melbourne,20801,Bayside,professional,10119,72532
+Melbourne,20801,Bayside,public_administration_safety,3515,65620
+Melbourne,20801,Bayside,rental,1892,58755
+Melbourne,20801,Bayside,retail_trade,7831,17701
+Melbourne,20801,Bayside,total,77497,36666
+Melbourne,20801,Bayside,transport,1429,72236
+Melbourne,20801,Bayside,wholesale_trade,3473,74732
+Melbourne,20802,Glen Eira,accommodation_food_services,13209,5925
+Melbourne,20802,Glen Eira,administrative_support_services,11616,15548
+Melbourne,20802,Glen Eira,agriculture,356,9750
+Melbourne,20802,Glen Eira,arts_recreation_services,3205,11031
+Melbourne,20802,Glen Eira,construction,5471,57360
+Melbourne,20802,Glen Eira,education_training,13966,28253
+Melbourne,20802,Glen Eira,electricity,838,92786
+Melbourne,20802,Glen Eira,finance_insurance_services,7994,76590
+Melbourne,20802,Glen Eira,health_care_social_assistance,17300,41021
+Melbourne,20802,Glen Eira,information_media_telecommunications,3851,59344
+Melbourne,20802,Glen Eira,manufacturing,4973,57816
+Melbourne,20802,Glen Eira,mining,165,172724
+Melbourne,20802,Glen Eira,other_services,3766,27517
+Melbourne,20802,Glen Eira,professional,16441,68922
+Melbourne,20802,Glen Eira,public_administration_safety,6384,65033
+Melbourne,20802,Glen Eira,rental,2561,48568
+Melbourne,20802,Glen Eira,retail_trade,13533,18748
+Melbourne,20802,Glen Eira,total,135085,34200
+Melbourne,20802,Glen Eira,transport,2240,68291
+Melbourne,20802,Glen Eira,wholesale_trade,5440,60288
+Melbourne,20803,Kingston,accommodation_food_services,7496,6649
+Melbourne,20803,Kingston,administrative_support_services,7263,20136
+Melbourne,20803,Kingston,agriculture,225,17651
+Melbourne,20803,Kingston,arts_recreation_services,2604,10400
+Melbourne,20803,Kingston,construction,6804,61382
+Melbourne,20803,Kingston,education_training,9180,41688
+Melbourne,20803,Kingston,electricity,736,86942
+Melbourne,20803,Kingston,finance_insurance_services,5476,60659
+Melbourne,20803,Kingston,health_care_social_assistance,12559,43353
+Melbourne,20803,Kingston,information_media_telecommunications,2282,64992
+Melbourne,20803,Kingston,manufacturing,5909,62806
+Melbourne,20803,Kingston,mining,103,140243
+Melbourne,20803,Kingston,other_services,2745,34148
+Melbourne,20803,Kingston,professional,9192,67692
+Melbourne,20803,Kingston,public_administration_safety,5703,71693
+Melbourne,20803,Kingston,rental,1919,48145
+Melbourne,20803,Kingston,retail_trade,10290,19730
+Melbourne,20803,Kingston,total,98817,40614
+Melbourne,20803,Kingston,transport,2098,68822
+Melbourne,20803,Kingston,wholesale_trade,5082,65640
+Melbourne,20804,Stonnington - East,accommodation_food_services,4037,5187
+Melbourne,20804,Stonnington - East,administrative_support_services,3079,14610
+Melbourne,20804,Stonnington - East,agriculture,147,8920
+Melbourne,20804,Stonnington - East,arts_recreation_services,1053,12706
+Melbourne,20804,Stonnington - East,construction,1291,58902
+Melbourne,20804,Stonnington - East,education_training,3603,20846
+Melbourne,20804,Stonnington - East,electricity,222,84006
+Melbourne,20804,Stonnington - East,finance_insurance_services,2458,86211
+Melbourne,20804,Stonnington - East,health_care_social_assistance,4963,46573
+Melbourne,20804,Stonnington - East,information_media_telecommunications,958,54380
+Melbourne,20804,Stonnington - East,manufacturing,1326,55459
+Melbourne,20804,Stonnington - East,mining,68,147562
+Melbourne,20804,Stonnington - East,other_services,854,29337
+Melbourne,20804,Stonnington - East,professional,4884,67494
+Melbourne,20804,Stonnington - East,public_administration_safety,1548,62717
+Melbourne,20804,Stonnington - East,rental,881,54467
+Melbourne,20804,Stonnington - East,retail_trade,3818,18018
+Melbourne,20804,Stonnington - East,total,37690,32532
+Melbourne,20804,Stonnington - East,transport,580,66595
+Melbourne,20804,Stonnington - East,wholesale_trade,1413,65140
+Melbourne,20901,Banyule,accommodation_food_services,7203,6477
+Melbourne,20901,Banyule,administrative_support_services,7138,16935
+Melbourne,20901,Banyule,agriculture,224,19754
+Melbourne,20901,Banyule,arts_recreation_services,2530,10660
+Melbourne,20901,Banyule,construction,6078,60676
+Melbourne,20901,Banyule,education_training,11663,32218
+Melbourne,20901,Banyule,electricity,639,95214
+Melbourne,20901,Banyule,finance_insurance_services,5375,62396
+Melbourne,20901,Banyule,health_care_social_assistance,15310,47164
+Melbourne,20901,Banyule,information_media_telecommunications,2371,58478
+Melbourne,20901,Banyule,manufacturing,4147,61550
+Melbourne,20901,Banyule,mining,114,117454
+Melbourne,20901,Banyule,other_services,2728,37000
+Melbourne,20901,Banyule,professional,9766,69637
+Melbourne,20901,Banyule,public_administration_safety,6872,75283
+Melbourne,20901,Banyule,rental,1573,52293
+Melbourne,20901,Banyule,retail_trade,8910,18573
+Melbourne,20901,Banyule,total,99674,39904
+Melbourne,20901,Banyule,transport,2366,71563
+Melbourne,20901,Banyule,wholesale_trade,3557,61892
+Melbourne,20902,Darebin - North,accommodation_food_services,8110,8530
+Melbourne,20902,Darebin - North,administrative_support_services,8619,12272
+Melbourne,20902,Darebin - North,agriculture,285,12798
+Melbourne,20902,Darebin - North,arts_recreation_services,1996,11093
+Melbourne,20902,Darebin - North,construction,4058,52500
+Melbourne,20902,Darebin - North,education_training,8028,33491
+Melbourne,20902,Darebin - North,electricity,529,75656
+Melbourne,20902,Darebin - North,finance_insurance_services,3698,55292
+Melbourne,20902,Darebin - North,health_care_social_assistance,11661,40149
+Melbourne,20902,Darebin - North,information_media_telecommunications,2168,41787
+Melbourne,20902,Darebin - North,manufacturing,3938,50240
+Melbourne,20902,Darebin - North,mining,52,79138
+Melbourne,20902,Darebin - North,other_services,2598,28936
+Melbourne,20902,Darebin - North,professional,7072,59864
+Melbourne,20902,Darebin - North,public_administration_safety,5137,67274
+Melbourne,20902,Darebin - North,rental,1284,37440
+Melbourne,20902,Darebin - North,retail_trade,8174,17766
+Melbourne,20902,Darebin - North,total,83284,31012
+Melbourne,20902,Darebin - North,transport,2005,62510
+Melbourne,20902,Darebin - North,wholesale_trade,3030,52171
+Melbourne,20903,Nillumbik - Kinglake,accommodation_food_services,3610,6175
+Melbourne,20903,Nillumbik - Kinglake,administrative_support_services,3024,23454
+Melbourne,20903,Nillumbik - Kinglake,agriculture,269,20527
+Melbourne,20903,Nillumbik - Kinglake,arts_recreation_services,1686,9468
+Melbourne,20903,Nillumbik - Kinglake,construction,5234,60000
+Melbourne,20903,Nillumbik - Kinglake,education_training,6268,30418
+Melbourne,20903,Nillumbik - Kinglake,electricity,340,103499
+Melbourne,20903,Nillumbik - Kinglake,finance_insurance_services,2543,44026
+Melbourne,20903,Nillumbik - Kinglake,health_care_social_assistance,6628,45158
+Melbourne,20903,Nillumbik - Kinglake,information_media_telecommunications,1125,53370
+Melbourne,20903,Nillumbik - Kinglake,manufacturing,2533,66172
+Melbourne,20903,Nillumbik - Kinglake,mining,66,117418
+Melbourne,20903,Nillumbik - Kinglake,other_services,1768,35011
+Melbourne,20903,Nillumbik - Kinglake,professional,4521,65537
+Melbourne,20903,Nillumbik - Kinglake,public_administration_safety,3339,75291
+Melbourne,20903,Nillumbik - Kinglake,rental,916,45013
+Melbourne,20903,Nillumbik - Kinglake,retail_trade,4886,18631
+Melbourne,20903,Nillumbik - Kinglake,total,52948,38412
+Melbourne,20903,Nillumbik - Kinglake,transport,1326,69936
+Melbourne,20903,Nillumbik - Kinglake,wholesale_trade,2158,75090
+Melbourne,20904,Whittlesea - Wallan,accommodation_food_services,15980,8391
+Melbourne,20904,Whittlesea - Wallan,administrative_support_services,23008,13396
+Melbourne,20904,Whittlesea - Wallan,agriculture,570,21413
+Melbourne,20904,Whittlesea - Wallan,arts_recreation_services,3634,9397
+Melbourne,20904,Whittlesea - Wallan,construction,15862,52282
+Melbourne,20904,Whittlesea - Wallan,education_training,13877,35858
+Melbourne,20904,Whittlesea - Wallan,electricity,1493,69103
+Melbourne,20904,Whittlesea - Wallan,finance_insurance_services,9819,40685
+Melbourne,20904,Whittlesea - Wallan,health_care_social_assistance,34181,35740
+Melbourne,20904,Whittlesea - Wallan,information_media_telecommunications,2847,52504
+Melbourne,20904,Whittlesea - Wallan,manufacturing,14034,54808
+Melbourne,20904,Whittlesea - Wallan,mining,201,84465
+Melbourne,20904,Whittlesea - Wallan,other_services,6525,31446
+Melbourne,20904,Whittlesea - Wallan,professional,12366,52375
+Melbourne,20904,Whittlesea - Wallan,public_administration_safety,11232,58333
+Melbourne,20904,Whittlesea - Wallan,rental,3274,35806
+Melbourne,20904,Whittlesea - Wallan,retail_trade,22828,19289
+Melbourne,20904,Whittlesea - Wallan,total,211396,31886
+Melbourne,20904,Whittlesea - Wallan,transport,8581,61782
+Melbourne,20904,Whittlesea - Wallan,wholesale_trade,8606,52515
+Melbourne,21001,Keilor,accommodation_food_services,3359,6898
+Melbourne,21001,Keilor,administrative_support_services,4017,17946
+Melbourne,21001,Keilor,agriculture,92,22986
+Melbourne,21001,Keilor,arts_recreation_services,1591,7393
+Melbourne,21001,Keilor,construction,3601,60103
+Melbourne,21001,Keilor,education_training,4234,39207
+Melbourne,21001,Keilor,electricity,288,85532
+Melbourne,21001,Keilor,finance_insurance_services,2901,54913
+Melbourne,21001,Keilor,health_care_social_assistance,5295,46178
+Melbourne,21001,Keilor,information_media_telecommunications,901,66718
+Melbourne,21001,Keilor,manufacturing,2278,63828
+Melbourne,21001,Keilor,mining,50,88130
+Melbourne,21001,Keilor,other_services,1305,37600
+Melbourne,21001,Keilor,professional,3861,65611
+Melbourne,21001,Keilor,public_administration_safety,3065,70504
+Melbourne,21001,Keilor,rental,898,45550
+Melbourne,21001,Keilor,retail_trade,4950,17738
+Melbourne,21001,Keilor,total,47518,39201
+Melbourne,21001,Keilor,transport,2237,70710
+Melbourne,21001,Keilor,wholesale_trade,1979,63122
+Melbourne,21002,Macedon Ranges,accommodation_food_services,1920,5653
+Melbourne,21002,Macedon Ranges,administrative_support_services,1550,23589
+Melbourne,21002,Macedon Ranges,agriculture,339,20300
+Melbourne,21002,Macedon Ranges,arts_recreation_services,604,15399
+Melbourne,21002,Macedon Ranges,construction,2738,59061
+Melbourne,21002,Macedon Ranges,education_training,2563,36851
+Melbourne,21002,Macedon Ranges,electricity,238,106675
+Melbourne,21002,Macedon Ranges,finance_insurance_services,1176,41654
+Melbourne,21002,Macedon Ranges,health_care_social_assistance,2901,34553
+Melbourne,21002,Macedon Ranges,information_media_telecommunications,389,46102
+Melbourne,21002,Macedon Ranges,manufacturing,1357,56146
+Melbourne,21002,Macedon Ranges,mining,88,78941
+Melbourne,21002,Macedon Ranges,other_services,797,36222
+Melbourne,21002,Macedon Ranges,professional,1650,66284
+Melbourne,21002,Macedon Ranges,public_administration_safety,1999,72917
+Melbourne,21002,Macedon Ranges,rental,551,31250
+Melbourne,21002,Macedon Ranges,retail_trade,2032,16424
+Melbourne,21002,Macedon Ranges,total,25390,37741
+Melbourne,21002,Macedon Ranges,transport,1377,77938
+Melbourne,21002,Macedon Ranges,wholesale_trade,859,64862
+Melbourne,21003,Moreland - North,accommodation_food_services,7441,8882
+Melbourne,21003,Moreland - North,administrative_support_services,8283,11613
+Melbourne,21003,Moreland - North,agriculture,144,9825
+Melbourne,21003,Moreland - North,arts_recreation_services,1574,10724
+Melbourne,21003,Moreland - North,construction,3881,53164
+Melbourne,21003,Moreland - North,education_training,5845,36621
+Melbourne,21003,Moreland - North,electricity,465,80500
+Melbourne,21003,Moreland - North,finance_insurance_services,3469,53015
+Melbourne,21003,Moreland - North,health_care_social_assistance,9744,35823
+Melbourne,21003,Moreland - North,information_media_telecommunications,1455,56190
+Melbourne,21003,Moreland - North,manufacturing,3146,48373
+Melbourne,21003,Moreland - North,mining,43,93960
+Melbourne,21003,Moreland - North,other_services,1858,33822
+Melbourne,21003,Moreland - North,professional,5741,62536
+Melbourne,21003,Moreland - North,public_administration_safety,4407,61518
+Melbourne,21003,Moreland - North,rental,993,37854
+Melbourne,21003,Moreland - North,retail_trade,6398,18366
+Melbourne,21003,Moreland - North,total,70290,30271
+Melbourne,21003,Moreland - North,transport,2296,62080
+Melbourne,21003,Moreland - North,wholesale_trade,2376,49917
+Melbourne,21004,Sunbury,accommodation_food_services,3008,5632
+Melbourne,21004,Sunbury,administrative_support_services,3222,19234
+Melbourne,21004,Sunbury,agriculture,199,16838
+Melbourne,21004,Sunbury,arts_recreation_services,738,12076
+Melbourne,21004,Sunbury,construction,3636,53955
+Melbourne,21004,Sunbury,education_training,2943,42153
+Melbourne,21004,Sunbury,electricity,342,78276
+Melbourne,21004,Sunbury,finance_insurance_services,1794,35862
+Melbourne,21004,Sunbury,health_care_social_assistance,4779,38976
+Melbourne,21004,Sunbury,information_media_telecommunications,502,50606
+Melbourne,21004,Sunbury,manufacturing,1975,60544
+Melbourne,21004,Sunbury,mining,50,75988
+Melbourne,21004,Sunbury,other_services,1261,35531
+Melbourne,21004,Sunbury,professional,2209,59366
+Melbourne,21004,Sunbury,public_administration_safety,2653,72292
+Melbourne,21004,Sunbury,rental,674,48392
+Melbourne,21004,Sunbury,retail_trade,3677,20923
+Melbourne,21004,Sunbury,total,38027,38078
+Melbourne,21004,Sunbury,transport,2542,69922
+Melbourne,21004,Sunbury,wholesale_trade,1440,59256
+Melbourne,21005,Tullamarine - Broadmeadows,accommodation_food_services,13060,8238
+Melbourne,21005,Tullamarine - Broadmeadows,administrative_support_services,21554,10762
+Melbourne,21005,Tullamarine - Broadmeadows,agriculture,291,16540
+Melbourne,21005,Tullamarine - Broadmeadows,arts_recreation_services,1922,11588
+Melbourne,21005,Tullamarine - Broadmeadows,construction,9980,46317
+Melbourne,21005,Tullamarine - Broadmeadows,education_training,8769,34829
+Melbourne,21005,Tullamarine - Broadmeadows,electricity,1088,66408
+Melbourne,21005,Tullamarine - Broadmeadows,finance_insurance_services,6872,38876
+Melbourne,21005,Tullamarine - Broadmeadows,health_care_social_assistance,21885,30082
+Melbourne,21005,Tullamarine - Broadmeadows,information_media_telecommunications,2009,44532
+Melbourne,21005,Tullamarine - Broadmeadows,manufacturing,11597,50356
+Melbourne,21005,Tullamarine - Broadmeadows,mining,114,77615
+Melbourne,21005,Tullamarine - Broadmeadows,other_services,4414,27896
+Melbourne,21005,Tullamarine - Broadmeadows,professional,8429,51124
+Melbourne,21005,Tullamarine - Broadmeadows,public_administration_safety,8643,42686
+Melbourne,21005,Tullamarine - Broadmeadows,rental,2487,31638
+Melbourne,21005,Tullamarine - Broadmeadows,retail_trade,16134,18047
+Melbourne,21005,Tullamarine - Broadmeadows,total,156313,27270
+Melbourne,21005,Tullamarine - Broadmeadows,transport,8905,56760
+Melbourne,21005,Tullamarine - Broadmeadows,wholesale_trade,5954,49554
+Melbourne,21101,Knox,accommodation_food_services,8792,7898
+Melbourne,21101,Knox,administrative_support_services,10570,16534
+Melbourne,21101,Knox,agriculture,352,15060
+Melbourne,21101,Knox,arts_recreation_services,2462,9368
+Melbourne,21101,Knox,construction,9010,56350
+Melbourne,21101,Knox,education_training,10415,33058
+Melbourne,21101,Knox,electricity,891,79622
+Melbourne,21101,Knox,finance_insurance_services,6305,49651
+Melbourne,21101,Knox,health_care_social_assistance,17699,38387
+Melbourne,21101,Knox,information_media_telecommunications,2475,57919
+Melbourne,21101,Knox,manufacturing,9522,60162
+Melbourne,21101,Knox,mining,108,94677
+Melbourne,21101,Knox,other_services,4535,33474
+Melbourne,21101,Knox,professional,10108,61044
+Melbourne,21101,Knox,public_administration_safety,5967,59636
+Melbourne,21101,Knox,rental,2254,44075
+Melbourne,21101,Knox,retail_trade,14702,21152
+Melbourne,21101,Knox,total,128389,36733
+Melbourne,21101,Knox,transport,2961,60271
+Melbourne,21101,Knox,wholesale_trade,7889,60201
+Melbourne,21102,Manningham - East,accommodation_food_services,1539,5973
+Melbourne,21102,Manningham - East,administrative_support_services,1147,20267
+Melbourne,21102,Manningham - East,agriculture,101,7500
+Melbourne,21102,Manningham - East,arts_recreation_services,496,7840
+Melbourne,21102,Manningham - East,construction,1643,55668
+Melbourne,21102,Manningham - East,education_training,2096,24822
+Melbourne,21102,Manningham - East,electricity,111,100150
+Melbourne,21102,Manningham - East,finance_insurance_services,1111,56326
+Melbourne,21102,Manningham - East,health_care_social_assistance,2523,39281
+Melbourne,21102,Manningham - East,information_media_telecommunications,421,60234
+Melbourne,21102,Manningham - East,manufacturing,941,60156
+Melbourne,21102,Manningham - East,mining,27,146667
+Melbourne,21102,Manningham - East,other_services,607,31782
+Melbourne,21102,Manningham - East,professional,2101,60470
+Melbourne,21102,Manningham - East,public_administration_safety,957,60721
+Melbourne,21102,Manningham - East,rental,399,45400
+Melbourne,21102,Manningham - East,retail_trade,2417,16239
+Melbourne,21102,Manningham - East,total,20284,33115
+Melbourne,21102,Manningham - East,transport,339,63333
+Melbourne,21102,Manningham - East,wholesale_trade,928,63337
+Melbourne,21103,Maroondah,accommodation_food_services,6411,6963
+Melbourne,21103,Maroondah,administrative_support_services,6586,18105
+Melbourne,21103,Maroondah,agriculture,341,13580
+Melbourne,21103,Maroondah,arts_recreation_services,1833,9346
+Melbourne,21103,Maroondah,construction,6645,55233
+Melbourne,21103,Maroondah,education_training,9116,35260
+Melbourne,21103,Maroondah,electricity,671,85612
+Melbourne,21103,Maroondah,finance_insurance_services,4444,51996
+Melbourne,21103,Maroondah,health_care_social_assistance,13216,40248
+Melbourne,21103,Maroondah,information_media_telecommunications,1893,60214
+Melbourne,21103,Maroondah,manufacturing,6050,55894
+Melbourne,21103,Maroondah,mining,99,96438
+Melbourne,21103,Maroondah,other_services,3209,32961
+Melbourne,21103,Maroondah,professional,7758,65752
+Melbourne,21103,Maroondah,public_administration_safety,5095,66292
+Melbourne,21103,Maroondah,rental,1530,44668
+Melbourne,21103,Maroondah,retail_trade,9550,20796
+Melbourne,21103,Maroondah,total,91572,37324
+Melbourne,21103,Maroondah,transport,1790,62400
+Melbourne,21103,Maroondah,wholesale_trade,4362,58790
+Melbourne,21104,Whitehorse - East,accommodation_food_services,4035,6848
+Melbourne,21104,Whitehorse - East,administrative_support_services,3640,18226
+Melbourne,21104,Whitehorse - East,agriculture,121,16432
+Melbourne,21104,Whitehorse - East,arts_recreation_services,1098,9090
+Melbourne,21104,Whitehorse - East,construction,2294,52470
+Melbourne,21104,Whitehorse - East,education_training,4814,32025
+Melbourne,21104,Whitehorse - East,electricity,380,100650
+Melbourne,21104,Whitehorse - East,finance_insurance_services,2956,72277
+Melbourne,21104,Whitehorse - East,health_care_social_assistance,6945,36234
+Melbourne,21104,Whitehorse - East,information_media_telecommunications,1349,68812
+Melbourne,21104,Whitehorse - East,manufacturing,2452,59125
+Melbourne,21104,Whitehorse - East,mining,39,129728
+Melbourne,21104,Whitehorse - East,other_services,1514,30194
+Melbourne,21104,Whitehorse - East,professional,5234,65750
+Melbourne,21104,Whitehorse - East,public_administration_safety,2602,59637
+Melbourne,21104,Whitehorse - East,rental,849,40896
+Melbourne,21104,Whitehorse - East,retail_trade,5194,18992
+Melbourne,21104,Whitehorse - East,total,49268,35634
+Melbourne,21104,Whitehorse - East,transport,903,65520
+Melbourne,21104,Whitehorse - East,wholesale_trade,2305,59140
+Melbourne,21105,Yarra Ranges,accommodation_food_services,9144,6549
+Melbourne,21105,Yarra Ranges,administrative_support_services,8026,18389
+Melbourne,21105,Yarra Ranges,agriculture,2118,18358
+Melbourne,21105,Yarra Ranges,arts_recreation_services,2691,10109
+Melbourne,21105,Yarra Ranges,construction,12534,56083
+Melbourne,21105,Yarra Ranges,education_training,11609,32262
+Melbourne,21105,Yarra Ranges,electricity,958,81178
+Melbourne,21105,Yarra Ranges,finance_insurance_services,4853,28083
+Melbourne,21105,Yarra Ranges,health_care_social_assistance,15542,38241
+Melbourne,21105,Yarra Ranges,information_media_telecommunications,1924,50091
+Melbourne,21105,Yarra Ranges,manufacturing,8768,54670
+Melbourne,21105,Yarra Ranges,mining,205,85262
+Melbourne,21105,Yarra Ranges,other_services,4956,33083
+Melbourne,21105,Yarra Ranges,professional,7657,57404
+Melbourne,21105,Yarra Ranges,public_administration_safety,6347,68791
+Melbourne,21105,Yarra Ranges,rental,2029,42807
+Melbourne,21105,Yarra Ranges,retail_trade,11959,21826
+Melbourne,21105,Yarra Ranges,total,121165,34936
+Melbourne,21105,Yarra Ranges,transport,2714,58262
+Melbourne,21105,Yarra Ranges,wholesale_trade,5836,57352
+Melbourne,21201,Cardinia,accommodation_food_services,7179,7117
+Melbourne,21201,Cardinia,administrative_support_services,9883,14614
+Melbourne,21201,Cardinia,agriculture,1577,16608
+Melbourne,21201,Cardinia,arts_recreation_services,2063,10201
+Melbourne,21201,Cardinia,construction,9453,52266
+Melbourne,21201,Cardinia,education_training,7069,38158
+Melbourne,21201,Cardinia,electricity,831,73502
+Melbourne,21201,Cardinia,finance_insurance_services,3934,31426
+Melbourne,21201,Cardinia,health_care_social_assistance,14916,31806
+Melbourne,21201,Cardinia,information_media_telecommunications,1250,51890
+Melbourne,21201,Cardinia,manufacturing,8592,52158
+Melbourne,21201,Cardinia,mining,228,56925
+Melbourne,21201,Cardinia,other_services,3612,29776
+Melbourne,21201,Cardinia,professional,5464,51310
+Melbourne,21201,Cardinia,public_administration_safety,4389,59540
+Melbourne,21201,Cardinia,rental,1689,41998
+Melbourne,21201,Cardinia,retail_trade,10426,21852
+Melbourne,21201,Cardinia,total,102174,31743
+Melbourne,21201,Cardinia,transport,3299,51257
+Melbourne,21201,Cardinia,wholesale_trade,5156,57382
+Melbourne,21202,Casey - North,accommodation_food_services,7372,6861
+Melbourne,21202,Casey - North,administrative_support_services,12114,12685
+Melbourne,21202,Casey - North,agriculture,396,14349
+Melbourne,21202,Casey - North,arts_recreation_services,1841,9394
+Melbourne,21202,Casey - North,construction,7514,51398
+Melbourne,21202,Casey - North,education_training,7506,35658
+Melbourne,21202,Casey - North,electricity,819,72701
+Melbourne,21202,Casey - North,finance_insurance_services,4936,42771
+Melbourne,21202,Casey - North,health_care_social_assistance,15425,35720
+Melbourne,21202,Casey - North,information_media_telecommunications,1702,52706
+Melbourne,21202,Casey - North,manufacturing,9644,54875
+Melbourne,21202,Casey - North,mining,124,60976
+Melbourne,21202,Casey - North,other_services,3514,31406
+Melbourne,21202,Casey - North,professional,7053,55323
+Melbourne,21202,Casey - North,public_administration_safety,4549,51412
+Melbourne,21202,Casey - North,rental,1686,39875
+Melbourne,21202,Casey - North,retail_trade,12084,19953
+Melbourne,21202,Casey - North,total,109081,31932
+Melbourne,21202,Casey - North,transport,3069,53366
+Melbourne,21202,Casey - North,wholesale_trade,6178,56706
+Melbourne,21203,Casey - South,accommodation_food_services,13674,7565
+Melbourne,21203,Casey - South,administrative_support_services,26362,10270
+Melbourne,21203,Casey - South,agriculture,1173,27204
+Melbourne,21203,Casey - South,arts_recreation_services,3030,10927
+Melbourne,21203,Casey - South,construction,13411,49800
+Melbourne,21203,Casey - South,education_training,9963,36206
+Melbourne,21203,Casey - South,electricity,1780,66042
+Melbourne,21203,Casey - South,finance_insurance_services,8154,37366
+Melbourne,21203,Casey - South,health_care_social_assistance,36017,31402
+Melbourne,21203,Casey - South,information_media_telecommunications,2391,50688
+Melbourne,21203,Casey - South,manufacturing,19563,55044
+Melbourne,21203,Casey - South,mining,248,59862
+Melbourne,21203,Casey - South,other_services,6254,30880
+Melbourne,21203,Casey - South,professional,10410,51419
+Melbourne,21203,Casey - South,public_administration_safety,7023,50182
+Melbourne,21203,Casey - South,rental,2798,42533
+Melbourne,21203,Casey - South,retail_trade,21555,19916
+Melbourne,21203,Casey - South,total,204175,29911
+Melbourne,21203,Casey - South,transport,6866,48025
+Melbourne,21203,Casey - South,wholesale_trade,10902,55920
+Melbourne,21204,Dandenong,accommodation_food_services,13328,8723
+Melbourne,21204,Dandenong,administrative_support_services,25676,9934
+Melbourne,21204,Dandenong,agriculture,1819,17100
+Melbourne,21204,Dandenong,arts_recreation_services,1871,10798
+Melbourne,21204,Dandenong,construction,6949,44253
+Melbourne,21204,Dandenong,education_training,7435,31840
+Melbourne,21204,Dandenong,electricity,1221,57453
+Melbourne,21204,Dandenong,finance_insurance_services,6456,40441
+Melbourne,21204,Dandenong,health_care_social_assistance,21111,31250
+Melbourne,21204,Dandenong,information_media_telecommunications,1860,45326
+Melbourne,21204,Dandenong,manufacturing,18633,48632
+Melbourne,21204,Dandenong,mining,117,67325
+Melbourne,21204,Dandenong,other_services,5635,22911
+Melbourne,21204,Dandenong,professional,9596,49935
+Melbourne,21204,Dandenong,public_administration_safety,4969,42408
+Melbourne,21204,Dandenong,rental,1944,34008
+Melbourne,21204,Dandenong,retail_trade,16383,19130
+Melbourne,21204,Dandenong,total,159992,25239
+Melbourne,21204,Dandenong,transport,3999,45847
+Melbourne,21204,Dandenong,wholesale_trade,8854,46186
+Melbourne,21205,Monash,accommodation_food_services,15316,6636
+Melbourne,21205,Monash,administrative_support_services,15174,11864
+Melbourne,21205,Monash,agriculture,316,8413
+Melbourne,21205,Monash,arts_recreation_services,2711,9049
+Melbourne,21205,Monash,construction,5927,52351
+Melbourne,21205,Monash,education_training,13915,23091
+Melbourne,21205,Monash,electricity,886,82202
+Melbourne,21205,Monash,finance_insurance_services,8137,63653
+Melbourne,21205,Monash,health_care_social_assistance,20513,36289
+Melbourne,21205,Monash,information_media_telecommunications,3293,62160
+Melbourne,21205,Monash,manufacturing,8069,53834
+Melbourne,21205,Monash,mining,149,90478
+Melbourne,21205,Monash,other_services,4044,26314
+Melbourne,21205,Monash,professional,15920,62672
+Melbourne,21205,Monash,public_administration_safety,5773,58038
+Melbourne,21205,Monash,rental,2503,35726
+Melbourne,21205,Monash,retail_trade,16731,17540
+Melbourne,21205,Monash,total,152098,28987
+Melbourne,21205,Monash,transport,2933,55048
+Melbourne,21205,Monash,wholesale_trade,7478,54500
+Melbourne,21301,Brimbank,accommodation_food_services,14080,8858
+Melbourne,21301,Brimbank,administrative_support_services,23989,10990
+Melbourne,21301,Brimbank,agriculture,815,11940
+Melbourne,21301,Brimbank,arts_recreation_services,2592,10526
+Melbourne,21301,Brimbank,construction,7762,44877
+Melbourne,21301,Brimbank,education_training,7126,31452
+Melbourne,21301,Brimbank,electricity,954,66120
+Melbourne,21301,Brimbank,finance_insurance_services,6753,45322
+Melbourne,21301,Brimbank,health_care_social_assistance,17075,34668
+Melbourne,21301,Brimbank,information_media_telecommunications,1827,38448
+Melbourne,21301,Brimbank,manufacturing,11339,51924
+Melbourne,21301,Brimbank,mining,100,66658
+Melbourne,21301,Brimbank,other_services,5661,20812
+Melbourne,21301,Brimbank,professional,8076,49846
+Melbourne,21301,Brimbank,public_administration_safety,6610,52066
+Melbourne,21301,Brimbank,rental,2201,37770
+Melbourne,21301,Brimbank,retail_trade,15733,18364
+Melbourne,21301,Brimbank,total,148559,26169
+Melbourne,21301,Brimbank,transport,7767,57236
+Melbourne,21301,Brimbank,wholesale_trade,6201,48407
+Melbourne,21302,Hobsons Bay,accommodation_food_services,5341,6342
+Melbourne,21302,Hobsons Bay,administrative_support_services,7166,16119
+Melbourne,21302,Hobsons Bay,agriculture,213,19028
+Melbourne,21302,Hobsons Bay,arts_recreation_services,1894,13828
+Melbourne,21302,Hobsons Bay,construction,4739,62436
+Melbourne,21302,Hobsons Bay,education_training,5991,43220
+Melbourne,21302,Hobsons Bay,electricity,655,88597
+Melbourne,21302,Hobsons Bay,finance_insurance_services,4156,63736
+Melbourne,21302,Hobsons Bay,health_care_social_assistance,7302,44524
+Melbourne,21302,Hobsons Bay,information_media_telecommunications,1829,55966
+Melbourne,21302,Hobsons Bay,manufacturing,3132,67586
+Melbourne,21302,Hobsons Bay,mining,133,118052
+Melbourne,21302,Hobsons Bay,other_services,2032,36462
+Melbourne,21302,Hobsons Bay,professional,6473,70728
+Melbourne,21302,Hobsons Bay,public_administration_safety,4619,76119
+Melbourne,21302,Hobsons Bay,rental,1479,49332
+Melbourne,21302,Hobsons Bay,retail_trade,6287,21000
+Melbourne,21302,Hobsons Bay,total,70027,40984
+Melbourne,21302,Hobsons Bay,transport,2998,70312
+Melbourne,21302,Hobsons Bay,wholesale_trade,2830,67428
+Melbourne,21303,Maribyrnong,accommodation_food_services,10106,7380
+Melbourne,21303,Maribyrnong,administrative_support_services,11599,11170
+Melbourne,21303,Maribyrnong,agriculture,360,8462
+Melbourne,21303,Maribyrnong,arts_recreation_services,2326,16342
+Melbourne,21303,Maribyrnong,construction,3519,57573
+Melbourne,21303,Maribyrnong,education_training,6896,35547
+Melbourne,21303,Maribyrnong,electricity,661,85540
+Melbourne,21303,Maribyrnong,finance_insurance_services,4520,64338
+Melbourne,21303,Maribyrnong,health_care_social_assistance,10203,42230
+Melbourne,21303,Maribyrnong,information_media_telecommunications,2468,45685
+Melbourne,21303,Maribyrnong,manufacturing,3699,50523
+Melbourne,21303,Maribyrnong,mining,100,109441
+Melbourne,21303,Maribyrnong,other_services,2583,31611
+Melbourne,21303,Maribyrnong,professional,8098,66753
+Melbourne,21303,Maribyrnong,public_administration_safety,5057,75054
+Melbourne,21303,Maribyrnong,rental,1439,34112
+Melbourne,21303,Maribyrnong,retail_trade,8000,18572
+Melbourne,21303,Maribyrnong,total,87983,29976
+Melbourne,21303,Maribyrnong,transport,2733,62802
+Melbourne,21303,Maribyrnong,wholesale_trade,2810,49643
+Melbourne,21304,Melton - Bacchus Marsh,accommodation_food_services,13009,7260
+Melbourne,21304,Melton - Bacchus Marsh,administrative_support_services,24198,11812
+Melbourne,21304,Melton - Bacchus Marsh,agriculture,634,20900
+Melbourne,21304,Melton - Bacchus Marsh,arts_recreation_services,3017,11046
+Melbourne,21304,Melton - Bacchus Marsh,construction,12738,50000
+Melbourne,21304,Melton - Bacchus Marsh,education_training,10155,40775
+Melbourne,21304,Melton - Bacchus Marsh,electricity,1537,73063
+Melbourne,21304,Melton - Bacchus Marsh,finance_insurance_services,8339,45305
+Melbourne,21304,Melton - Bacchus Marsh,health_care_social_assistance,24848,32076
+Melbourne,21304,Melton - Bacchus Marsh,information_media_telecommunications,2296,54506
+Melbourne,21304,Melton - Bacchus Marsh,manufacturing,9496,59378
+Melbourne,21304,Melton - Bacchus Marsh,mining,213,82574
+Melbourne,21304,Melton - Bacchus Marsh,other_services,5067,30397
+Melbourne,21304,Melton - Bacchus Marsh,professional,9881,56826
+Melbourne,21304,Melton - Bacchus Marsh,public_administration_safety,9175,60848
+Melbourne,21304,Melton - Bacchus Marsh,rental,3025,39598
+Melbourne,21304,Melton - Bacchus Marsh,retail_trade,18769,18908
+Melbourne,21304,Melton - Bacchus Marsh,total,176273,30781
+Melbourne,21304,Melton - Bacchus Marsh,transport,11382,59611
+Melbourne,21304,Melton - Bacchus Marsh,wholesale_trade,6338,58184
+Melbourne,21305,Wyndham,accommodation_food_services,21554,8203
+Melbourne,21305,Wyndham,administrative_support_services,46255,10073
+Melbourne,21305,Wyndham,agriculture,1382,21468
+Melbourne,21305,Wyndham,arts_recreation_services,4307,16755
+Melbourne,21305,Wyndham,construction,13777,48485
+Melbourne,21305,Wyndham,education_training,14217,32328
+Melbourne,21305,Wyndham,electricity,2427,72230
+Melbourne,21305,Wyndham,finance_insurance_services,14731,58988
+Melbourne,21305,Wyndham,health_care_social_assistance,36076,29865
+Melbourne,21305,Wyndham,information_media_telecommunications,5144,66248
+Melbourne,21305,Wyndham,manufacturing,13562,54488
+Melbourne,21305,Wyndham,mining,335,78860
+Melbourne,21305,Wyndham,other_services,6569,27757
+Melbourne,21305,Wyndham,professional,22730,64166
+Melbourne,21305,Wyndham,public_administration_safety,12842,54367
+Melbourne,21305,Wyndham,rental,4744,35984
+Melbourne,21305,Wyndham,retail_trade,27058,19404
+Melbourne,21305,Wyndham,total,275973,29140
+Melbourne,21305,Wyndham,transport,14726,56497
+Melbourne,21305,Wyndham,wholesale_trade,10040,54854
+Perth,50301,Cottesloe - Claremont,accommodation_food_services,6113,4719
+Perth,50301,Cottesloe - Claremont,administrative_support_services,3690,15023
+Perth,50301,Cottesloe - Claremont,agriculture,509,13216
+Perth,50301,Cottesloe - Claremont,arts_recreation_services,1704,5441
+Perth,50301,Cottesloe - Claremont,construction,2116,55220
+Perth,50301,Cottesloe - Claremont,education_training,6233,18835
+Perth,50301,Cottesloe - Claremont,electricity,325,96355
+Perth,50301,Cottesloe - Claremont,finance_insurance_services,2245,66062
+Perth,50301,Cottesloe - Claremont,health_care_social_assistance,9604,49558
+Perth,50301,Cottesloe - Claremont,information_media_telecommunications,661,42307
+Perth,50301,Cottesloe - Claremont,manufacturing,1574,33000
+Perth,50301,Cottesloe - Claremont,mining,3440,153466
+Perth,50301,Cottesloe - Claremont,other_services,1217,19077
+Perth,50301,Cottesloe - Claremont,professional,7214,60673
+Perth,50301,Cottesloe - Claremont,public_administration_safety,2335,68755
+Perth,50301,Cottesloe - Claremont,rental,1484,30566
+Perth,50301,Cottesloe - Claremont,retail_trade,4757,9360
+Perth,50301,Cottesloe - Claremont,total,58415,29004
+Perth,50301,Cottesloe - Claremont,transport,933,48222
+Perth,50301,Cottesloe - Claremont,wholesale_trade,1302,42210
+Perth,50302,Perth City,accommodation_food_services,17955,6383
+Perth,50302,Perth City,administrative_support_services,17314,11730
+Perth,50302,Perth City,agriculture,2023,4648
+Perth,50302,Perth City,arts_recreation_services,3317,7682
+Perth,50302,Perth City,construction,6347,38401
+Perth,50302,Perth City,education_training,8562,33969
+Perth,50302,Perth City,electricity,901,101742
+Perth,50302,Perth City,finance_insurance_services,4084,51923
+Perth,50302,Perth City,health_care_social_assistance,16613,41719
+Perth,50302,Perth City,information_media_telecommunications,1494,42878
+Perth,50302,Perth City,manufacturing,3855,28955
+Perth,50302,Perth City,mining,7201,133770
+Perth,50302,Perth City,other_services,2987,25317
+Perth,50302,Perth City,professional,14146,65208
+Perth,50302,Perth City,public_administration_safety,5254,65386
+Perth,50302,Perth City,rental,2417,26224
+Perth,50302,Perth City,retail_trade,9448,11838
+Perth,50302,Perth City,total,130495,25175
+Perth,50302,Perth City,transport,2287,48277
+Perth,50302,Perth City,wholesale_trade,3018,36967
+Perth,50401,Bayswater - Bassendean,accommodation_food_services,7984,8441
+Perth,50401,Bayswater - Bassendean,administrative_support_services,8416,13876
+Perth,50401,Bayswater - Bassendean,agriculture,542,8446
+Perth,50401,Bayswater - Bassendean,arts_recreation_services,2046,8701
+Perth,50401,Bayswater - Bassendean,construction,4945,46508
+Perth,50401,Bayswater - Bassendean,education_training,6045,41117
+Perth,50401,Bayswater - Bassendean,electricity,639,90166
+Perth,50401,Bayswater - Bassendean,finance_insurance_services,2560,44199
+Perth,50401,Bayswater - Bassendean,health_care_social_assistance,10448,38138
+Perth,50401,Bayswater - Bassendean,information_media_telecommunications,855,43728
+Perth,50401,Bayswater - Bassendean,manufacturing,3763,45970
+Perth,50401,Bayswater - Bassendean,mining,3755,119484
+Perth,50401,Bayswater - Bassendean,other_services,2664,28201
+Perth,50401,Bayswater - Bassendean,professional,6718,60955
+Perth,50401,Bayswater - Bassendean,public_administration_safety,4357,69078
+Perth,50401,Bayswater - Bassendean,rental,1484,32087
+Perth,50401,Bayswater - Bassendean,retail_trade,7537,15716
+Perth,50401,Bayswater - Bassendean,total,80591,31224
+Perth,50401,Bayswater - Bassendean,transport,2474,51978
+Perth,50401,Bayswater - Bassendean,wholesale_trade,2635,45873
+Perth,50402,Mundaring,accommodation_food_services,2362,6704
+Perth,50402,Mundaring,administrative_support_services,2717,22614
+Perth,50402,Mundaring,agriculture,363,11541
+Perth,50402,Mundaring,arts_recreation_services,576,6526
+Perth,50402,Mundaring,construction,2524,50269
+Perth,50402,Mundaring,education_training,2940,39832
+Perth,50402,Mundaring,electricity,251,94479
+Perth,50402,Mundaring,finance_insurance_services,847,28920
+Perth,50402,Mundaring,health_care_social_assistance,3814,37763
+Perth,50402,Mundaring,information_media_telecommunications,277,27922
+Perth,50402,Mundaring,manufacturing,2120,53850
+Perth,50402,Mundaring,mining,2583,129746
+Perth,50402,Mundaring,other_services,1532,32342
+Perth,50402,Mundaring,professional,2223,53087
+Perth,50402,Mundaring,public_administration_safety,2031,74086
+Perth,50402,Mundaring,rental,804,37239
+Perth,50402,Mundaring,retail_trade,3390,15631
+Perth,50402,Mundaring,total,34635,37514
+Perth,50402,Mundaring,transport,1505,57135
+Perth,50402,Mundaring,wholesale_trade,1396,58442
+Perth,50403,Swan,accommodation_food_services,11318,8214
+Perth,50403,Swan,administrative_support_services,14159,15540
+Perth,50403,Swan,agriculture,1067,15395
+Perth,50403,Swan,arts_recreation_services,2465,8209
+Perth,50403,Swan,construction,10173,50475
+Perth,50403,Swan,education_training,7873,43087
+Perth,50403,Swan,electricity,1086,79096
+Perth,50403,Swan,finance_insurance_services,3764,37379
+Perth,50403,Swan,health_care_social_assistance,18890,34481
+Perth,50403,Swan,information_media_telecommunications,889,37665
+Perth,50403,Swan,manufacturing,8834,52713
+Perth,50403,Swan,mining,8128,118296
+Perth,50403,Swan,other_services,5586,31109
+Perth,50403,Swan,professional,8141,48076
+Perth,50403,Swan,public_administration_safety,6507,63990
+Perth,50403,Swan,rental,2907,34463
+Perth,50403,Swan,retail_trade,15018,18000
+Perth,50403,Swan,total,139929,33169
+Perth,50403,Swan,transport,6027,54767
+Perth,50403,Swan,wholesale_trade,5897,52978
+Perth,50501,Joondalup,accommodation_food_services,10188,6304
+Perth,50501,Joondalup,administrative_support_services,10272,20710
+Perth,50501,Joondalup,agriculture,759,12026
+Perth,50501,Joondalup,arts_recreation_services,3331,7097
+Perth,50501,Joondalup,construction,11904,56229
+Perth,50501,Joondalup,education_training,13585,46190
+Perth,50501,Joondalup,electricity,1318,108798
+Perth,50501,Joondalup,finance_insurance_services,5231,45638
+Perth,50501,Joondalup,health_care_social_assistance,17446,40399
+Perth,50501,Joondalup,information_media_telecommunications,1415,39017
+Perth,50501,Joondalup,manufacturing,5298,54520
+Perth,50501,Joondalup,mining,7350,133413
+Perth,50501,Joondalup,other_services,4182,28226
+Perth,50501,Joondalup,professional,11727,60269
+Perth,50501,Joondalup,public_administration_safety,7053,75009
+Perth,50501,Joondalup,rental,2560,38907
+Perth,50501,Joondalup,retail_trade,12941,14979
+Perth,50501,Joondalup,total,135490,37732
+Perth,50501,Joondalup,transport,3142,59449
+Perth,50501,Joondalup,wholesale_trade,4297,57370
+Perth,50502,Stirling,accommodation_food_services,18390,7219
+Perth,50502,Stirling,administrative_support_services,21270,13286
+Perth,50502,Stirling,agriculture,1304,8859
+Perth,50502,Stirling,arts_recreation_services,4744,7915
+Perth,50502,Stirling,construction,13234,49362
+Perth,50502,Stirling,education_training,14565,39562
+Perth,50502,Stirling,electricity,1544,93206
+Perth,50502,Stirling,finance_insurance_services,6414,49095
+Perth,50502,Stirling,health_care_social_assistance,28194,35693
+Perth,50502,Stirling,information_media_telecommunications,1917,43350
+Perth,50502,Stirling,manufacturing,7848,44072
+Perth,50502,Stirling,mining,9274,123642
+Perth,50502,Stirling,other_services,6096,25007
+Perth,50502,Stirling,professional,17138,57760
+Perth,50502,Stirling,public_administration_safety,8782,65804
+Perth,50502,Stirling,rental,3802,36278
+Perth,50502,Stirling,retail_trade,18532,14256
+Perth,50502,Stirling,total,195056,29864
+Perth,50502,Stirling,transport,4380,51776
+Perth,50502,Stirling,wholesale_trade,5703,44999
+Perth,50503,Wanneroo,accommodation_food_services,15018,7880
+Perth,50503,Wanneroo,administrative_support_services,17543,18749
+Perth,50503,Wanneroo,agriculture,1646,18720
+Perth,50503,Wanneroo,arts_recreation_services,3275,7159
+Perth,50503,Wanneroo,construction,16958,50254
+Perth,50503,Wanneroo,education_training,12033,43990
+Perth,50503,Wanneroo,electricity,1600,88242
+Perth,50503,Wanneroo,finance_insurance_services,6099,36601
+Perth,50503,Wanneroo,health_care_social_assistance,25655,35716
+Perth,50503,Wanneroo,information_media_telecommunications,1355,37786
+Perth,50503,Wanneroo,manufacturing,9261,53460
+Perth,50503,Wanneroo,mining,10320,122186
+Perth,50503,Wanneroo,other_services,6954,27955
+Perth,50503,Wanneroo,professional,11765,49835
+Perth,50503,Wanneroo,public_administration_safety,7974,69464
+Perth,50503,Wanneroo,rental,3559,34997
+Perth,50503,Wanneroo,retail_trade,20806,17820
+Perth,50503,Wanneroo,total,185286,33589
+Perth,50503,Wanneroo,transport,5138,52834
+Perth,50503,Wanneroo,wholesale_trade,6564,49542
+Perth,50601,Armadale,accommodation_food_services,6175,7240
+Perth,50601,Armadale,administrative_support_services,8854,14582
+Perth,50601,Armadale,agriculture,645,17003
+Perth,50601,Armadale,arts_recreation_services,1150,7618
+Perth,50601,Armadale,construction,6323,48023
+Perth,50601,Armadale,education_training,5218,44180
+Perth,50601,Armadale,electricity,755,88000
+Perth,50601,Armadale,finance_insurance_services,2185,35308
+Perth,50601,Armadale,health_care_social_assistance,12852,34740
+Perth,50601,Armadale,information_media_telecommunications,519,33786
+Perth,50601,Armadale,manufacturing,5578,54001
+Perth,50601,Armadale,mining,4167,114348
+Perth,50601,Armadale,other_services,2932,31812
+Perth,50601,Armadale,professional,5110,52122
+Perth,50601,Armadale,public_administration_safety,3621,63489
+Perth,50601,Armadale,rental,1750,33036
+Perth,50601,Armadale,retail_trade,8070,18856
+Perth,50601,Armadale,total,84162,33854
+Perth,50601,Armadale,transport,3810,52015
+Perth,50601,Armadale,wholesale_trade,3726,52800
+Perth,50602,Belmont - Victoria Park,accommodation_food_services,9313,8445
+Perth,50602,Belmont - Victoria Park,administrative_support_services,10997,12290
+Perth,50602,Belmont - Victoria Park,agriculture,574,9302
+Perth,50602,Belmont - Victoria Park,arts_recreation_services,2350,9629
+Perth,50602,Belmont - Victoria Park,construction,5199,45674
+Perth,50602,Belmont - Victoria Park,education_training,4803,37547
+Perth,50602,Belmont - Victoria Park,electricity,600,84769
+Perth,50602,Belmont - Victoria Park,finance_insurance_services,2166,44937
+Perth,50602,Belmont - Victoria Park,health_care_social_assistance,10726,33217
+Perth,50602,Belmont - Victoria Park,information_media_telecommunications,748,34600
+Perth,50602,Belmont - Victoria Park,manufacturing,3601,47471
+Perth,50602,Belmont - Victoria Park,mining,4753,114804
+Perth,50602,Belmont - Victoria Park,other_services,2682,30000
+Perth,50602,Belmont - Victoria Park,professional,6834,57150
+Perth,50602,Belmont - Victoria Park,public_administration_safety,3504,63289
+Perth,50602,Belmont - Victoria Park,rental,1667,35578
+Perth,50602,Belmont - Victoria Park,retail_trade,6686,15460
+Perth,50602,Belmont - Victoria Park,total,83219,28919
+Perth,50602,Belmont - Victoria Park,transport,2758,47690
+Perth,50602,Belmont - Victoria Park,wholesale_trade,2605,45460
+Perth,50603,Canning,accommodation_food_services,11312,7428
+Perth,50603,Canning,administrative_support_services,12144,10656
+Perth,50603,Canning,agriculture,587,16044
+Perth,50603,Canning,arts_recreation_services,2041,6716
+Perth,50603,Canning,construction,5001,44356
+Perth,50603,Canning,education_training,6800,35143
+Perth,50603,Canning,electricity,766,100489
+Perth,50603,Canning,finance_insurance_services,2420,40835
+Perth,50603,Canning,health_care_social_assistance,14765,31402
+Perth,50603,Canning,information_media_telecommunications,733,29688
+Perth,50603,Canning,manufacturing,4608,43482
+Perth,50603,Canning,mining,3518,116467
+Perth,50603,Canning,other_services,2952,22801
+Perth,50603,Canning,professional,7920,51308
+Perth,50603,Canning,public_administration_safety,4188,51659
+Perth,50603,Canning,rental,1702,22895
+Perth,50603,Canning,retail_trade,9551,14745
+Perth,50603,Canning,total,98547,24416
+Perth,50603,Canning,transport,3069,44540
+Perth,50603,Canning,wholesale_trade,3448,40000
+Perth,50604,Gosnells,accommodation_food_services,9836,7637
+Perth,50604,Gosnells,administrative_support_services,13465,11974
+Perth,50604,Gosnells,agriculture,683,16800
+Perth,50604,Gosnells,arts_recreation_services,1812,7845
+Perth,50604,Gosnells,construction,7458,45337
+Perth,50604,Gosnells,education_training,6375,39522
+Perth,50604,Gosnells,electricity,929,82854
+Perth,50604,Gosnells,finance_insurance_services,2736,34592
+Perth,50604,Gosnells,health_care_social_assistance,15554,33035
+Perth,50604,Gosnells,information_media_telecommunications,681,34083
+Perth,50604,Gosnells,manufacturing,7301,50715
+Perth,50604,Gosnells,mining,4475,109909
+Perth,50604,Gosnells,other_services,4150,29694
+Perth,50604,Gosnells,professional,7016,46986
+Perth,50604,Gosnells,public_administration_safety,4839,57092
+Perth,50604,Gosnells,rental,1941,31080
+Perth,50604,Gosnells,retail_trade,11579,17302
+Perth,50604,Gosnells,total,111839,28740
+Perth,50604,Gosnells,transport,4944,48598
+Perth,50604,Gosnells,wholesale_trade,4916,47621
+Perth,50605,Kalamunda,accommodation_food_services,3351,6541
+Perth,50605,Kalamunda,administrative_support_services,4255,17580
+Perth,50605,Kalamunda,agriculture,527,10652
+Perth,50605,Kalamunda,arts_recreation_services,1002,7442
+Perth,50605,Kalamunda,construction,3650,52026
+Perth,50605,Kalamunda,education_training,3892,43730
+Perth,50605,Kalamunda,electricity,400,93779
+Perth,50605,Kalamunda,finance_insurance_services,1364,27776
+Perth,50605,Kalamunda,health_care_social_assistance,5522,38002
+Perth,50605,Kalamunda,information_media_telecommunications,326,35144
+Perth,50605,Kalamunda,manufacturing,2872,56113
+Perth,50605,Kalamunda,mining,3109,123984
+Perth,50605,Kalamunda,other_services,2006,33617
+Perth,50605,Kalamunda,professional,3235,53259
+Perth,50605,Kalamunda,public_administration_safety,2255,71228
+Perth,50605,Kalamunda,rental,1096,44708
+Perth,50605,Kalamunda,retail_trade,4601,18452
+Perth,50605,Kalamunda,total,48949,37200
+Perth,50605,Kalamunda,transport,2745,55968
+Perth,50605,Kalamunda,wholesale_trade,2250,59509
+Perth,50606,Serpentine - Jarrahdale,accommodation_food_services,1790,6612
+Perth,50606,Serpentine - Jarrahdale,administrative_support_services,2525,19046
+Perth,50606,Serpentine - Jarrahdale,agriculture,479,16915
+Perth,50606,Serpentine - Jarrahdale,arts_recreation_services,389,7808
+Perth,50606,Serpentine - Jarrahdale,construction,2727,51574
+Perth,50606,Serpentine - Jarrahdale,education_training,1699,44609
+Perth,50606,Serpentine - Jarrahdale,electricity,254,86554
+Perth,50606,Serpentine - Jarrahdale,finance_insurance_services,726,26957
+Perth,50606,Serpentine - Jarrahdale,health_care_social_assistance,3607,34014
+Perth,50606,Serpentine - Jarrahdale,information_media_telecommunications,109,19422
+Perth,50606,Serpentine - Jarrahdale,manufacturing,1919,58904
+Perth,50606,Serpentine - Jarrahdale,mining,2149,119810
+Perth,50606,Serpentine - Jarrahdale,other_services,1260,32954
+Perth,50606,Serpentine - Jarrahdale,professional,1507,45000
+Perth,50606,Serpentine - Jarrahdale,public_administration_safety,1333,68608
+Perth,50606,Serpentine - Jarrahdale,rental,644,43351
+Perth,50606,Serpentine - Jarrahdale,retail_trade,2690,20176
+Perth,50606,Serpentine - Jarrahdale,total,28805,37041
+Perth,50606,Serpentine - Jarrahdale,transport,1338,56538
+Perth,50606,Serpentine - Jarrahdale,wholesale_trade,1376,56268
+Perth,50607,South Perth,accommodation_food_services,3798,6568
+Perth,50607,South Perth,administrative_support_services,3785,13909
+Perth,50607,South Perth,agriculture,303,10896
+Perth,50607,South Perth,arts_recreation_services,1065,5668
+Perth,50607,South Perth,construction,1948,47500
+Perth,50607,South Perth,education_training,3736,33241
+Perth,50607,South Perth,electricity,318,95846
+Perth,50607,South Perth,finance_insurance_services,1354,57041
+Perth,50607,South Perth,health_care_social_assistance,5404,38350
+Perth,50607,South Perth,information_media_telecommunications,414,29790
+Perth,50607,South Perth,manufacturing,1293,51074
+Perth,50607,South Perth,mining,2087,132502
+Perth,50607,South Perth,other_services,1007,26611
+Perth,50607,South Perth,professional,4431,61164
+Perth,50607,South Perth,public_administration_safety,1723,66778
+Perth,50607,South Perth,rental,873,34312
+Perth,50607,South Perth,retail_trade,3254,13027
+Perth,50607,South Perth,total,39309,30593
+Perth,50607,South Perth,transport,936,48009
+Perth,50607,South Perth,wholesale_trade,1085,48599
+Perth,50701,Cockburn,accommodation_food_services,8659,7258
+Perth,50701,Cockburn,administrative_support_services,9464,17650
+Perth,50701,Cockburn,agriculture,900,16045
+Perth,50701,Cockburn,arts_recreation_services,2155,7953
+Perth,50701,Cockburn,construction,8996,53076
+Perth,50701,Cockburn,education_training,8484,43344
+Perth,50701,Cockburn,electricity,950,103528
+Perth,50701,Cockburn,finance_insurance_services,3236,40247
+Perth,50701,Cockburn,health_care_social_assistance,15146,37846
+Perth,50701,Cockburn,information_media_telecommunications,680,37668
+Perth,50701,Cockburn,manufacturing,6984,57636
+Perth,50701,Cockburn,mining,5607,119901
+Perth,50701,Cockburn,other_services,3891,29648
+Perth,50701,Cockburn,professional,8176,52370
+Perth,50701,Cockburn,public_administration_safety,5107,69694
+Perth,50701,Cockburn,rental,2156,34810
+Perth,50701,Cockburn,retail_trade,9904,17344
+Perth,50701,Cockburn,total,109571,35644
+Perth,50701,Cockburn,transport,3901,64042
+Perth,50701,Cockburn,wholesale_trade,4263,51692
+Perth,50702,Fremantle,accommodation_food_services,4754,5612
+Perth,50702,Fremantle,administrative_support_services,3591,10590
+Perth,50702,Fremantle,agriculture,684,5339
+Perth,50702,Fremantle,arts_recreation_services,929,6381
+Perth,50702,Fremantle,construction,2230,43137
+Perth,50702,Fremantle,education_training,3990,37096
+Perth,50702,Fremantle,electricity,262,101110
+Perth,50702,Fremantle,finance_insurance_services,961,39959
+Perth,50702,Fremantle,health_care_social_assistance,4765,43802
+Perth,50702,Fremantle,information_media_telecommunications,409,24490
+Perth,50702,Fremantle,manufacturing,1640,33600
+Perth,50702,Fremantle,mining,1691,133118
+Perth,50702,Fremantle,other_services,994,26954
+Perth,50702,Fremantle,professional,3757,57960
+Perth,50702,Fremantle,public_administration_safety,1943,65196
+Perth,50702,Fremantle,rental,866,21288
+Perth,50702,Fremantle,retail_trade,2747,11708
+Perth,50702,Fremantle,total,38568,25961
+Perth,50702,Fremantle,transport,1012,52000
+Perth,50702,Fremantle,wholesale_trade,973,37877
+Perth,50703,Kwinana,accommodation_food_services,3502,7752
+Perth,50703,Kwinana,administrative_support_services,5164,15827
+Perth,50703,Kwinana,agriculture,449,17794
+Perth,50703,Kwinana,arts_recreation_services,564,7700
+Perth,50703,Kwinana,construction,3911,46169
+Perth,50703,Kwinana,education_training,2125,40048
+Perth,50703,Kwinana,electricity,426,81824
+Perth,50703,Kwinana,finance_insurance_services,1203,29534
+Perth,50703,Kwinana,health_care_social_assistance,6361,30423
+Perth,50703,Kwinana,information_media_telecommunications,257,36542
+Perth,50703,Kwinana,manufacturing,3055,57757
+Perth,50703,Kwinana,mining,2244,101966
+Perth,50703,Kwinana,other_services,1568,30428
+Perth,50703,Kwinana,professional,2500,51021
+Perth,50703,Kwinana,public_administration_safety,1997,67488
+Perth,50703,Kwinana,rental,809,28714
+Perth,50703,Kwinana,retail_trade,4268,18846
+Perth,50703,Kwinana,total,44060,31936
+Perth,50703,Kwinana,transport,1816,52768
+Perth,50703,Kwinana,wholesale_trade,1511,52940
+Perth,50704,Melville,accommodation_food_services,7794,5516
+Perth,50704,Melville,administrative_support_services,6450,16563
+Perth,50704,Melville,agriculture,626,14368
+Perth,50704,Melville,arts_recreation_services,2177,6664
+Perth,50704,Melville,construction,5173,55745
+Perth,50704,Melville,education_training,9251,40385
+Perth,50704,Melville,electricity,735,110918
+Perth,50704,Melville,finance_insurance_services,2854,49992
+Perth,50704,Melville,health_care_social_assistance,12309,43392
+Perth,50704,Melville,information_media_telecommunications,798,34956
+Perth,50704,Melville,manufacturing,3797,51838
+Perth,50704,Melville,mining,4506,139810
+Perth,50704,Melville,other_services,2472,25992
+Perth,50704,Melville,professional,8597,61812
+Perth,50704,Melville,public_administration_safety,4052,71114
+Perth,50704,Melville,rental,1952,39000
+Perth,50704,Melville,retail_trade,8015,13656
+Perth,50704,Melville,total,87783,34682
+Perth,50704,Melville,transport,2428,58778
+Perth,50704,Melville,wholesale_trade,2803,50000
+Perth,50705,Rockingham,accommodation_food_services,8787,7222
+Perth,50705,Rockingham,administrative_support_services,11529,18056
+Perth,50705,Rockingham,agriculture,1128,15552
+Perth,50705,Rockingham,arts_recreation_services,1796,5986
+Perth,50705,Rockingham,construction,12063,47121
+Perth,50705,Rockingham,education_training,7530,45004
+Perth,50705,Rockingham,electricity,1122,83263
+Perth,50705,Rockingham,finance_insurance_services,3121,26667
+Perth,50705,Rockingham,health_care_social_assistance,14611,32782
+Perth,50705,Rockingham,information_media_telecommunications,627,25542
+Perth,50705,Rockingham,manufacturing,7499,67847
+Perth,50705,Rockingham,mining,8317,118512
+Perth,50705,Rockingham,other_services,4068,26152
+Perth,50705,Rockingham,professional,6120,46410
+Perth,50705,Rockingham,public_administration_safety,7462,78400
+Perth,50705,Rockingham,rental,2282,31675
+Perth,50705,Rockingham,retail_trade,11876,16870
+Perth,50705,Rockingham,total,118507,35000
+Perth,50705,Rockingham,transport,4123,52343
+Perth,50705,Rockingham,wholesale_trade,3549,55561
+Sydney,11501,Baulkham Hills,accommodation_food_services,7578,7152
+Sydney,11501,Baulkham Hills,administrative_support_services,8113,26396
+Sydney,11501,Baulkham Hills,agriculture,246,22104
+Sydney,11501,Baulkham Hills,arts_recreation_services,1832,7057
+Sydney,11501,Baulkham Hills,construction,7010,58035
+Sydney,11501,Baulkham Hills,education_training,11875,33962
+Sydney,11501,Baulkham Hills,electricity,728,129905
+Sydney,11501,Baulkham Hills,finance_insurance_services,10516,86296
+Sydney,11501,Baulkham Hills,health_care_social_assistance,14796,42313
+Sydney,11501,Baulkham Hills,information_media_telecommunications,3521,90224
+Sydney,11501,Baulkham Hills,manufacturing,5299,77271
+Sydney,11501,Baulkham Hills,mining,114,90000
+Sydney,11501,Baulkham Hills,other_services,3125,31938
+Sydney,11501,Baulkham Hills,professional,15159,71760
+Sydney,11501,Baulkham Hills,public_administration_safety,6148,69384
+Sydney,11501,Baulkham Hills,rental,2485,45321
+Sydney,11501,Baulkham Hills,retail_trade,11317,19671
+Sydney,11501,Baulkham Hills,total,121384,45000
+Sydney,11501,Baulkham Hills,transport,2502,61444
+Sydney,11501,Baulkham Hills,wholesale_trade,6770,77609
+Sydney,11502,Dural - Wisemans Ferry,accommodation_food_services,1358,6189
+Sydney,11502,Dural - Wisemans Ferry,administrative_support_services,1231,23868
+Sydney,11502,Dural - Wisemans Ferry,agriculture,247,27364
+Sydney,11502,Dural - Wisemans Ferry,arts_recreation_services,345,7823
+Sydney,11502,Dural - Wisemans Ferry,construction,2356,58084
+Sydney,11502,Dural - Wisemans Ferry,education_training,2012,34518
+Sydney,11502,Dural - Wisemans Ferry,electricity,98,107616
+Sydney,11502,Dural - Wisemans Ferry,finance_insurance_services,1062,61379
+Sydney,11502,Dural - Wisemans Ferry,health_care_social_assistance,2009,36951
+Sydney,11502,Dural - Wisemans Ferry,information_media_telecommunications,419,45126
+Sydney,11502,Dural - Wisemans Ferry,manufacturing,878,61869
+Sydney,11502,Dural - Wisemans Ferry,mining,67,77478
+Sydney,11502,Dural - Wisemans Ferry,other_services,844,27603
+Sydney,11502,Dural - Wisemans Ferry,professional,1926,61498
+Sydney,11502,Dural - Wisemans Ferry,public_administration_safety,867,56581
+Sydney,11502,Dural - Wisemans Ferry,rental,560,48852
+Sydney,11502,Dural - Wisemans Ferry,retail_trade,2068,19421
+Sydney,11502,Dural - Wisemans Ferry,total,20496,38009
+Sydney,11502,Dural - Wisemans Ferry,transport,435,57514
+Sydney,11502,Dural - Wisemans Ferry,wholesale_trade,1131,64661
+Sydney,11503,Hawkesbury,accommodation_food_services,1339,6852
+Sydney,11503,Hawkesbury,administrative_support_services,1122,26800
+Sydney,11503,Hawkesbury,agriculture,557,20466
+Sydney,11503,Hawkesbury,arts_recreation_services,392,8512
+Sydney,11503,Hawkesbury,construction,2639,50780
+Sydney,11503,Hawkesbury,education_training,1881,48070
+Sydney,11503,Hawkesbury,electricity,160,106933
+Sydney,11503,Hawkesbury,finance_insurance_services,744,40808
+Sydney,11503,Hawkesbury,health_care_social_assistance,1989,37999
+Sydney,11503,Hawkesbury,information_media_telecommunications,265,22656
+Sydney,11503,Hawkesbury,manufacturing,1344,59838
+Sydney,11503,Hawkesbury,mining,62,93911
+Sydney,11503,Hawkesbury,other_services,848,35037
+Sydney,11503,Hawkesbury,professional,1097,45980
+Sydney,11503,Hawkesbury,public_administration_safety,1248,55896
+Sydney,11503,Hawkesbury,rental,389,36939
+Sydney,11503,Hawkesbury,retail_trade,1648,22640
+Sydney,11503,Hawkesbury,total,19537,37686
+Sydney,11503,Hawkesbury,transport,609,53458
+Sydney,11503,Hawkesbury,wholesale_trade,847,61016
+Sydney,11504,Rouse Hill - McGraths Hill,accommodation_food_services,3321,7282
+Sydney,11504,Rouse Hill - McGraths Hill,administrative_support_services,3716,27944
+Sydney,11504,Rouse Hill - McGraths Hill,agriculture,191,21800
+Sydney,11504,Rouse Hill - McGraths Hill,arts_recreation_services,703,10292
+Sydney,11504,Rouse Hill - McGraths Hill,construction,4443,59516
+Sydney,11504,Rouse Hill - McGraths Hill,education_training,4610,39750
+Sydney,11504,Rouse Hill - McGraths Hill,electricity,374,118865
+Sydney,11504,Rouse Hill - McGraths Hill,finance_insurance_services,3936,78629
+Sydney,11504,Rouse Hill - McGraths Hill,health_care_social_assistance,6466,40070
+Sydney,11504,Rouse Hill - McGraths Hill,information_media_telecommunications,1355,84880
+Sydney,11504,Rouse Hill - McGraths Hill,manufacturing,2434,74206
+Sydney,11504,Rouse Hill - McGraths Hill,mining,63,100504
+Sydney,11504,Rouse Hill - McGraths Hill,other_services,1590,32677
+Sydney,11504,Rouse Hill - McGraths Hill,professional,5312,72000
+Sydney,11504,Rouse Hill - McGraths Hill,public_administration_safety,2705,77644
+Sydney,11504,Rouse Hill - McGraths Hill,rental,1146,53347
+Sydney,11504,Rouse Hill - McGraths Hill,retail_trade,5006,21480
+Sydney,11504,Rouse Hill - McGraths Hill,total,52559,46280
+Sydney,11504,Rouse Hill - McGraths Hill,transport,1476,67360
+Sydney,11504,Rouse Hill - McGraths Hill,wholesale_trade,2880,72616
+Sydney,11601,Blacktown,accommodation_food_services,9384,8376
+Sydney,11601,Blacktown,administrative_support_services,18602,10802
+Sydney,11601,Blacktown,agriculture,306,15182
+Sydney,11601,Blacktown,arts_recreation_services,1616,8058
+Sydney,11601,Blacktown,construction,7081,47004
+Sydney,11601,Blacktown,education_training,7132,37447
+Sydney,11601,Blacktown,electricity,841,88512
+Sydney,11601,Blacktown,finance_insurance_services,7049,50929
+Sydney,11601,Blacktown,health_care_social_assistance,17217,36133
+Sydney,11601,Blacktown,information_media_telecommunications,1845,54504
+Sydney,11601,Blacktown,manufacturing,7556,56130
+Sydney,11601,Blacktown,mining,79,75758
+Sydney,11601,Blacktown,other_services,2949,30126
+Sydney,11601,Blacktown,professional,8653,53625
+Sydney,11601,Blacktown,public_administration_safety,6111,57627
+Sydney,11601,Blacktown,rental,1926,35000
+Sydney,11601,Blacktown,retail_trade,11879,20874
+Sydney,11601,Blacktown,total,123647,30265
+Sydney,11601,Blacktown,transport,5694,55767
+Sydney,11601,Blacktown,wholesale_trade,6170,56786
+Sydney,11602,Blacktown - North,accommodation_food_services,8128,7660
+Sydney,11602,Blacktown - North,administrative_support_services,13833,18701
+Sydney,11602,Blacktown - North,agriculture,325,27990
+Sydney,11602,Blacktown - North,arts_recreation_services,1662,8878
+Sydney,11602,Blacktown - North,construction,7667,56708
+Sydney,11602,Blacktown - North,education_training,9320,41531
+Sydney,11602,Blacktown - North,electricity,928,106886
+Sydney,11602,Blacktown - North,finance_insurance_services,11222,77392
+Sydney,11602,Blacktown - North,health_care_social_assistance,18770,40172
+Sydney,11602,Blacktown - North,information_media_telecommunications,3451,86667
+Sydney,11602,Blacktown - North,manufacturing,6539,66523
+Sydney,11602,Blacktown - North,mining,109,75996
+Sydney,11602,Blacktown - North,other_services,3092,32955
+Sydney,11602,Blacktown - North,professional,14196,72364
+Sydney,11602,Blacktown - North,public_administration_safety,7247,71850
+Sydney,11602,Blacktown - North,rental,2233,43422
+Sydney,11602,Blacktown - North,retail_trade,12667,22275
+Sydney,11602,Blacktown - North,total,134896,44548
+Sydney,11602,Blacktown - North,transport,5127,65396
+Sydney,11602,Blacktown - North,wholesale_trade,6666,69229
+Sydney,11603,Mount Druitt,accommodation_food_services,6778,7394
+Sydney,11603,Mount Druitt,administrative_support_services,16604,9555
+Sydney,11603,Mount Druitt,agriculture,313,19114
+Sydney,11603,Mount Druitt,arts_recreation_services,1289,9206
+Sydney,11603,Mount Druitt,construction,5763,41404
+Sydney,11603,Mount Druitt,education_training,4497,35920
+Sydney,11603,Mount Druitt,electricity,866,69336
+Sydney,11603,Mount Druitt,finance_insurance_services,4613,39764
+Sydney,11603,Mount Druitt,health_care_social_assistance,12073,34998
+Sydney,11603,Mount Druitt,information_media_telecommunications,945,53549
+Sydney,11603,Mount Druitt,manufacturing,6456,57576
+Sydney,11603,Mount Druitt,mining,73,74736
+Sydney,11603,Mount Druitt,other_services,2176,31118
+Sydney,11603,Mount Druitt,professional,4455,43859
+Sydney,11603,Mount Druitt,public_administration_safety,4369,48374
+Sydney,11603,Mount Druitt,rental,1362,35772
+Sydney,11603,Mount Druitt,retail_trade,9580,22453
+Sydney,11603,Mount Druitt,total,93619,27761
+Sydney,11603,Mount Druitt,transport,5636,56060
+Sydney,11603,Mount Druitt,wholesale_trade,4794,54441
+Sydney,11701,Botany,accommodation_food_services,7422,10000
+Sydney,11701,Botany,administrative_support_services,6060,14238
+Sydney,11701,Botany,agriculture,226,5940
+Sydney,11701,Botany,arts_recreation_services,1250,12000
+Sydney,11701,Botany,construction,3458,48932
+Sydney,11701,Botany,education_training,3725,37556
+Sydney,11701,Botany,electricity,233,84218
+Sydney,11701,Botany,finance_insurance_services,3129,69996
+Sydney,11701,Botany,health_care_social_assistance,5285,38750
+Sydney,11701,Botany,information_media_telecommunications,1500,43787
+Sydney,11701,Botany,manufacturing,1856,48932
+Sydney,11701,Botany,mining,35,66578
+Sydney,11701,Botany,other_services,1578,37590
+Sydney,11701,Botany,professional,5248,57086
+Sydney,11701,Botany,public_administration_safety,3107,71283
+Sydney,11701,Botany,rental,1209,36308
+Sydney,11701,Botany,retail_trade,5497,18906
+Sydney,11701,Botany,total,56351,31243
+Sydney,11701,Botany,transport,2657,68190
+Sydney,11701,Botany,wholesale_trade,2114,53856
+Sydney,11702,Marrickville - Sydenham - Petersham,accommodation_food_services,6175,8536
+Sydney,11702,Marrickville - Sydenham - Petersham,administrative_support_services,4879,15415
+Sydney,11702,Marrickville - Sydenham - Petersham,agriculture,187,6800
+Sydney,11702,Marrickville - Sydenham - Petersham,arts_recreation_services,1881,14440
+Sydney,11702,Marrickville - Sydenham - Petersham,construction,2002,56368
+Sydney,11702,Marrickville - Sydenham - Petersham,education_training,5385,43444
+Sydney,11702,Marrickville - Sydenham - Petersham,electricity,221,105831
+Sydney,11702,Marrickville - Sydenham - Petersham,finance_insurance_services,3221,88399
+Sydney,11702,Marrickville - Sydenham - Petersham,health_care_social_assistance,5102,47809
+Sydney,11702,Marrickville - Sydenham - Petersham,information_media_telecommunications,3703,37399
+Sydney,11702,Marrickville - Sydenham - Petersham,manufacturing,1872,46281
+Sydney,11702,Marrickville - Sydenham - Petersham,mining,40,120000
+Sydney,11702,Marrickville - Sydenham - Petersham,other_services,1751,37982
+Sydney,11702,Marrickville - Sydenham - Petersham,professional,6956,68653
+Sydney,11702,Marrickville - Sydenham - Petersham,public_administration_safety,3315,75244
+Sydney,11702,Marrickville - Sydenham - Petersham,rental,786,43591
+Sydney,11702,Marrickville - Sydenham - Petersham,retail_trade,3985,21248
+Sydney,11702,Marrickville - Sydenham - Petersham,total,54953,36583
+Sydney,11702,Marrickville - Sydenham - Petersham,transport,1251,66270
+Sydney,11702,Marrickville - Sydenham - Petersham,wholesale_trade,1721,56558
+Sydney,11703,Sydney Inner City,accommodation_food_services,48943,8000
+Sydney,11703,Sydney Inner City,administrative_support_services,30911,10558
+Sydney,11703,Sydney Inner City,agriculture,2838,4428
+Sydney,11703,Sydney Inner City,arts_recreation_services,7477,13864
+Sydney,11703,Sydney Inner City,construction,7992,43426
+Sydney,11703,Sydney Inner City,education_training,17292,26662
+Sydney,11703,Sydney Inner City,electricity,796,90694
+Sydney,11703,Sydney Inner City,finance_insurance_services,17665,90861
+Sydney,11703,Sydney Inner City,health_care_social_assistance,17940,40286
+Sydney,11703,Sydney Inner City,information_media_telecommunications,12100,48441
+Sydney,11703,Sydney Inner City,manufacturing,5971,34618
+Sydney,11703,Sydney Inner City,mining,310,100884
+Sydney,11703,Sydney Inner City,other_services,6131,27153
+Sydney,11703,Sydney Inner City,professional,35048,66923
+Sydney,11703,Sydney Inner City,public_administration_safety,10602,74182
+Sydney,11703,Sydney Inner City,rental,4980,32145
+Sydney,11703,Sydney Inner City,retail_trade,18540,16726
+Sydney,11703,Sydney Inner City,total,260570,24913
+Sydney,11703,Sydney Inner City,transport,4585,58891
+Sydney,11703,Sydney Inner City,wholesale_trade,7578,50000
+Sydney,11801,Eastern Suburbs - North,accommodation_food_services,14628,6262
+Sydney,11801,Eastern Suburbs - North,administrative_support_services,12863,13533
+Sydney,11801,Eastern Suburbs - North,agriculture,981,5146
+Sydney,11801,Eastern Suburbs - North,arts_recreation_services,2864,12833
+Sydney,11801,Eastern Suburbs - North,construction,4663,52188
+Sydney,11801,Eastern Suburbs - North,education_training,8409,21731
+Sydney,11801,Eastern Suburbs - North,electricity,415,100360
+Sydney,11801,Eastern Suburbs - North,finance_insurance_services,10894,115069
+Sydney,11801,Eastern Suburbs - North,health_care_social_assistance,9287,38981
+Sydney,11801,Eastern Suburbs - North,information_media_telecommunications,6427,46234
+Sydney,11801,Eastern Suburbs - North,manufacturing,2663,53000
+Sydney,11801,Eastern Suburbs - North,mining,180,79711
+Sydney,11801,Eastern Suburbs - North,other_services,2927,26695
+Sydney,11801,Eastern Suburbs - North,professional,19403,71690
+Sydney,11801,Eastern Suburbs - North,public_administration_safety,4202,57857
+Sydney,11801,Eastern Suburbs - North,rental,3422,54838
+Sydney,11801,Eastern Suburbs - North,retail_trade,8694,19298
+Sydney,11801,Eastern Suburbs - North,total,120996,33578
+Sydney,11801,Eastern Suburbs - North,transport,1777,62099
+Sydney,11801,Eastern Suburbs - North,wholesale_trade,3891,67849
+Sydney,11802,Eastern Suburbs - South,accommodation_food_services,13401,6923
+Sydney,11802,Eastern Suburbs - South,administrative_support_services,13454,13750
+Sydney,11802,Eastern Suburbs - South,agriculture,1025,5626
+Sydney,11802,Eastern Suburbs - South,arts_recreation_services,3669,12150
+Sydney,11802,Eastern Suburbs - South,construction,7397,50769
+Sydney,11802,Eastern Suburbs - South,education_training,12573,29068
+Sydney,11802,Eastern Suburbs - South,electricity,487,105492
+Sydney,11802,Eastern Suburbs - South,finance_insurance_services,8032,91279
+Sydney,11802,Eastern Suburbs - South,health_care_social_assistance,14084,39808
+Sydney,11802,Eastern Suburbs - South,information_media_telecommunications,5160,46558
+Sydney,11802,Eastern Suburbs - South,manufacturing,3041,55179
+Sydney,11802,Eastern Suburbs - South,mining,150,69076
+Sydney,11802,Eastern Suburbs - South,other_services,3303,28141
+Sydney,11802,Eastern Suburbs - South,professional,15117,64066
+Sydney,11802,Eastern Suburbs - South,public_administration_safety,6543,59482
+Sydney,11802,Eastern Suburbs - South,rental,2640,45801
+Sydney,11802,Eastern Suburbs - South,retail_trade,8808,16650
+Sydney,11802,Eastern Suburbs - South,total,127776,31488
+Sydney,11802,Eastern Suburbs - South,transport,3233,71687
+Sydney,11802,Eastern Suburbs - South,wholesale_trade,3815,62016
+Sydney,11901,Bankstown,accommodation_food_services,9699,10000
+Sydney,11901,Bankstown,administrative_support_services,12861,13856
+Sydney,11901,Bankstown,agriculture,244,14214
+Sydney,11901,Bankstown,arts_recreation_services,1896,11053
+Sydney,11901,Bankstown,construction,9211,42372
+Sydney,11901,Bankstown,education_training,9631,39321
+Sydney,11901,Bankstown,electricity,644,83564
+Sydney,11901,Bankstown,finance_insurance_services,7536,54106
+Sydney,11901,Bankstown,health_care_social_assistance,15250,31797
+Sydney,11901,Bankstown,information_media_telecommunications,2129,50284
+Sydney,11901,Bankstown,manufacturing,7088,51756
+Sydney,11901,Bankstown,mining,79,86568
+Sydney,11901,Bankstown,other_services,4827,21977
+Sydney,11901,Bankstown,professional,9231,50549
+Sydney,11901,Bankstown,public_administration_safety,7029,46809
+Sydney,11901,Bankstown,rental,2211,42500
+Sydney,11901,Bankstown,retail_trade,13142,18824
+Sydney,11901,Bankstown,total,127344,30789
+Sydney,11901,Bankstown,transport,6066,58888
+Sydney,11901,Bankstown,wholesale_trade,5707,49188
+Sydney,11902,Canterbury,accommodation_food_services,11150,10998
+Sydney,11902,Canterbury,administrative_support_services,12395,12950
+Sydney,11902,Canterbury,agriculture,228,11733
+Sydney,11902,Canterbury,arts_recreation_services,1711,13852
+Sydney,11902,Canterbury,construction,6397,43198
+Sydney,11902,Canterbury,education_training,6546,37227
+Sydney,11902,Canterbury,electricity,389,68084
+Sydney,11902,Canterbury,finance_insurance_services,5682,56579
+Sydney,11902,Canterbury,health_care_social_assistance,13091,31275
+Sydney,11902,Canterbury,information_media_telecommunications,2078,43720
+Sydney,11902,Canterbury,manufacturing,4531,44363
+Sydney,11902,Canterbury,mining,61,74730
+Sydney,11902,Canterbury,other_services,3541,26610
+Sydney,11902,Canterbury,professional,7572,46153
+Sydney,11902,Canterbury,public_administration_safety,5456,40217
+Sydney,11902,Canterbury,rental,1838,38955
+Sydney,11902,Canterbury,retail_trade,12060,17954
+Sydney,11902,Canterbury,total,105109,27291
+Sydney,11902,Canterbury,transport,4053,58050
+Sydney,11902,Canterbury,wholesale_trade,4220,47026
+Sydney,11903,Hurstville,accommodation_food_services,13237,10997
+Sydney,11903,Hurstville,administrative_support_services,11434,14586
+Sydney,11903,Hurstville,agriculture,179,11260
+Sydney,11903,Hurstville,arts_recreation_services,1936,11413
+Sydney,11903,Hurstville,construction,5571,48392
+Sydney,11903,Hurstville,education_training,7145,40896
+Sydney,11903,Hurstville,electricity,459,94262
+Sydney,11903,Hurstville,finance_insurance_services,7180,74405
+Sydney,11903,Hurstville,health_care_social_assistance,15811,31244
+Sydney,11903,Hurstville,information_media_telecommunications,2190,59374
+Sydney,11903,Hurstville,manufacturing,4448,47190
+Sydney,11903,Hurstville,mining,85,79626
+Sydney,11903,Hurstville,other_services,2969,28498
+Sydney,11903,Hurstville,professional,9750,56394
+Sydney,11903,Hurstville,public_administration_safety,5020,56890
+Sydney,11903,Hurstville,rental,2156,45000
+Sydney,11903,Hurstville,retail_trade,11751,18670
+Sydney,11903,Hurstville,total,111970,30862
+Sydney,11903,Hurstville,transport,4269,64204
+Sydney,11903,Hurstville,wholesale_trade,4534,52653
+Sydney,11904,Kogarah - Rockdale,accommodation_food_services,16409,10476
+Sydney,11904,Kogarah - Rockdale,administrative_support_services,15357,13860
+Sydney,11904,Kogarah - Rockdale,agriculture,237,6944
+Sydney,11904,Kogarah - Rockdale,arts_recreation_services,2225,13630
+Sydney,11904,Kogarah - Rockdale,construction,6852,49674
+Sydney,11904,Kogarah - Rockdale,education_training,7838,37518
+Sydney,11904,Kogarah - Rockdale,electricity,536,87331
+Sydney,11904,Kogarah - Rockdale,finance_insurance_services,7999,69814
+Sydney,11904,Kogarah - Rockdale,health_care_social_assistance,16551,34400
+Sydney,11904,Kogarah - Rockdale,information_media_telecommunications,2856,52325
+Sydney,11904,Kogarah - Rockdale,manufacturing,4610,48155
+Sydney,11904,Kogarah - Rockdale,mining,87,82982
+Sydney,11904,Kogarah - Rockdale,other_services,3737,30992
+Sydney,11904,Kogarah - Rockdale,professional,11769,59172
+Sydney,11904,Kogarah - Rockdale,public_administration_safety,6257,57391
+Sydney,11904,Kogarah - Rockdale,rental,2511,42006
+Sydney,11904,Kogarah - Rockdale,retail_trade,13252,19890
+Sydney,11904,Kogarah - Rockdale,total,131741,30626
+Sydney,11904,Kogarah - Rockdale,transport,5885,64951
+Sydney,11904,Kogarah - Rockdale,wholesale_trade,4814,50486
+Sydney,12001,Canada Bay,accommodation_food_services,6032,9360
+Sydney,12001,Canada Bay,administrative_support_services,5531,23400
+Sydney,12001,Canada Bay,agriculture,129,8202
+Sydney,12001,Canada Bay,arts_recreation_services,1518,12174
+Sydney,12001,Canada Bay,construction,3804,64720
+Sydney,12001,Canada Bay,education_training,6210,40655
+Sydney,12001,Canada Bay,electricity,291,118865
+Sydney,12001,Canada Bay,finance_insurance_services,6070,88665
+Sydney,12001,Canada Bay,health_care_social_assistance,7574,44838
+Sydney,12001,Canada Bay,information_media_telecommunications,2471,65616
+Sydney,12001,Canada Bay,manufacturing,2326,68532
+Sydney,12001,Canada Bay,mining,67,123426
+Sydney,12001,Canada Bay,other_services,1996,33360
+Sydney,12001,Canada Bay,professional,8745,68489
+Sydney,12001,Canada Bay,public_administration_safety,3847,69172
+Sydney,12001,Canada Bay,rental,1866,55358
+Sydney,12001,Canada Bay,retail_trade,5929,20490
+Sydney,12001,Canada Bay,total,70663,43945
+Sydney,12001,Canada Bay,transport,1640,70000
+Sydney,12001,Canada Bay,wholesale_trade,3313,69411
+Sydney,12002,Leichhardt,accommodation_food_services,4060,7645
+Sydney,12002,Leichhardt,administrative_support_services,3526,29704
+Sydney,12002,Leichhardt,agriculture,123,9688
+Sydney,12002,Leichhardt,arts_recreation_services,1370,16388
+Sydney,12002,Leichhardt,construction,2120,70037
+Sydney,12002,Leichhardt,education_training,4767,43340
+Sydney,12002,Leichhardt,electricity,217,128431
+Sydney,12002,Leichhardt,finance_insurance_services,4188,122900
+Sydney,12002,Leichhardt,health_care_social_assistance,4536,55040
+Sydney,12002,Leichhardt,information_media_telecommunications,3056,62343
+Sydney,12002,Leichhardt,manufacturing,1381,69426
+Sydney,12002,Leichhardt,mining,75,113846
+Sydney,12002,Leichhardt,other_services,1284,42606
+Sydney,12002,Leichhardt,professional,7350,83950
+Sydney,12002,Leichhardt,public_administration_safety,2692,78544
+Sydney,12002,Leichhardt,rental,1026,64532
+Sydney,12002,Leichhardt,retail_trade,3315,20349
+Sydney,12002,Leichhardt,total,48403,52283
+Sydney,12002,Leichhardt,transport,918,74248
+Sydney,12002,Leichhardt,wholesale_trade,1691,87598
+Sydney,12003,Strathfield - Burwood - Ashfield,accommodation_food_services,22351,9789
+Sydney,12003,Strathfield - Burwood - Ashfield,administrative_support_services,18962,12266
+Sydney,12003,Strathfield - Burwood - Ashfield,agriculture,421,7646
+Sydney,12003,Strathfield - Burwood - Ashfield,arts_recreation_services,3398,13108
+Sydney,12003,Strathfield - Burwood - Ashfield,construction,6141,47884
+Sydney,12003,Strathfield - Burwood - Ashfield,education_training,12205,34203
+Sydney,12003,Strathfield - Burwood - Ashfield,electricity,511,99256
+Sydney,12003,Strathfield - Burwood - Ashfield,finance_insurance_services,9146,78270
+Sydney,12003,Strathfield - Burwood - Ashfield,health_care_social_assistance,19897,34765
+Sydney,12003,Strathfield - Burwood - Ashfield,information_media_telecommunications,5145,50654
+Sydney,12003,Strathfield - Burwood - Ashfield,manufacturing,5113,42000
+Sydney,12003,Strathfield - Burwood - Ashfield,mining,83,84595
+Sydney,12003,Strathfield - Burwood - Ashfield,other_services,4118,26756
+Sydney,12003,Strathfield - Burwood - Ashfield,professional,16712,60000
+Sydney,12003,Strathfield - Burwood - Ashfield,public_administration_safety,7514,65479
+Sydney,12003,Strathfield - Burwood - Ashfield,rental,2849,37414
+Sydney,12003,Strathfield - Burwood - Ashfield,retail_trade,14958,17717
+Sydney,12003,Strathfield - Burwood - Ashfield,total,160864,28064
+Sydney,12003,Strathfield - Burwood - Ashfield,transport,3430,60000
+Sydney,12003,Strathfield - Burwood - Ashfield,wholesale_trade,5642,49155
+Sydney,12101,Chatswood - Lane Cove,accommodation_food_services,9428,8185
+Sydney,12101,Chatswood - Lane Cove,administrative_support_services,7208,26002
+Sydney,12101,Chatswood - Lane Cove,agriculture,257,9761
+Sydney,12101,Chatswood - Lane Cove,arts_recreation_services,1870,10712
+Sydney,12101,Chatswood - Lane Cove,construction,3247,64520
+Sydney,12101,Chatswood - Lane Cove,education_training,7882,23166
+Sydney,12101,Chatswood - Lane Cove,electricity,368,122251
+Sydney,12101,Chatswood - Lane Cove,finance_insurance_services,10109,113741
+Sydney,12101,Chatswood - Lane Cove,health_care_social_assistance,10839,42223
+Sydney,12101,Chatswood - Lane Cove,information_media_telecommunications,4249,79666
+Sydney,12101,Chatswood - Lane Cove,manufacturing,2676,65098
+Sydney,12101,Chatswood - Lane Cove,mining,164,136363
+Sydney,12101,Chatswood - Lane Cove,other_services,2438,32292
+Sydney,12101,Chatswood - Lane Cove,professional,15475,77763
+Sydney,12101,Chatswood - Lane Cove,public_administration_safety,3922,64740
+Sydney,12101,Chatswood - Lane Cove,rental,2235,57702
+Sydney,12101,Chatswood - Lane Cove,retail_trade,7753,18145
+Sydney,12101,Chatswood - Lane Cove,total,97735,44936
+Sydney,12101,Chatswood - Lane Cove,transport,1603,67793
+Sydney,12101,Chatswood - Lane Cove,wholesale_trade,4296,77995
+Sydney,12102,Hornsby,accommodation_food_services,5315,8579
+Sydney,12102,Hornsby,administrative_support_services,5040,26163
+Sydney,12102,Hornsby,agriculture,179,13903
+Sydney,12102,Hornsby,arts_recreation_services,1152,11574
+Sydney,12102,Hornsby,construction,3177,55274
+Sydney,12102,Hornsby,education_training,7368,36334
+Sydney,12102,Hornsby,electricity,337,124470
+Sydney,12102,Hornsby,finance_insurance_services,5149,86372
+Sydney,12102,Hornsby,health_care_social_assistance,11566,38018
+Sydney,12102,Hornsby,information_media_telecommunications,2521,84923
+Sydney,12102,Hornsby,manufacturing,2814,57097
+Sydney,12102,Hornsby,mining,76,93538
+Sydney,12102,Hornsby,other_services,2058,30558
+Sydney,12102,Hornsby,professional,8704,75727
+Sydney,12102,Hornsby,public_administration_safety,3745,66033
+Sydney,12102,Hornsby,rental,1342,45583
+Sydney,12102,Hornsby,retail_trade,6447,19496
+Sydney,12102,Hornsby,total,72544,41667
+Sydney,12102,Hornsby,transport,1508,64348
+Sydney,12102,Hornsby,wholesale_trade,3165,72165
+Sydney,12103,Ku-ring-gai,accommodation_food_services,6551,6559
+Sydney,12103,Ku-ring-gai,administrative_support_services,5272,31462
+Sydney,12103,Ku-ring-gai,agriculture,260,8645
+Sydney,12103,Ku-ring-gai,arts_recreation_services,1585,7937
+Sydney,12103,Ku-ring-gai,construction,3204,60610
+Sydney,12103,Ku-ring-gai,education_training,9428,20595
+Sydney,12103,Ku-ring-gai,electricity,369,134642
+Sydney,12103,Ku-ring-gai,finance_insurance_services,9130,107704
+Sydney,12103,Ku-ring-gai,health_care_social_assistance,11394,36788
+Sydney,12103,Ku-ring-gai,information_media_telecommunications,3508,86250
+Sydney,12103,Ku-ring-gai,manufacturing,2687,71590
+Sydney,12103,Ku-ring-gai,mining,161,130829
+Sydney,12103,Ku-ring-gai,other_services,2416,25989
+Sydney,12103,Ku-ring-gai,professional,13653,73448
+Sydney,12103,Ku-ring-gai,public_administration_safety,3868,61825
+Sydney,12103,Ku-ring-gai,rental,2124,51643
+Sydney,12103,Ku-ring-gai,retail_trade,7516,14651
+Sydney,12103,Ku-ring-gai,total,90968,42222
+Sydney,12103,Ku-ring-gai,transport,1428,63501
+Sydney,12103,Ku-ring-gai,wholesale_trade,4353,84214
+Sydney,12104,North Sydney - Mosman,accommodation_food_services,7250,7748
+Sydney,12104,North Sydney - Mosman,administrative_support_services,6291,28765
+Sydney,12104,North Sydney - Mosman,agriculture,270,9838
+Sydney,12104,North Sydney - Mosman,arts_recreation_services,1821,12269
+Sydney,12104,North Sydney - Mosman,construction,2664,74172
+Sydney,12104,North Sydney - Mosman,education_training,6486,26895
+Sydney,12104,North Sydney - Mosman,electricity,335,121948
+Sydney,12104,North Sydney - Mosman,finance_insurance_services,9125,119568
+Sydney,12104,North Sydney - Mosman,health_care_social_assistance,7608,44425
+Sydney,12104,North Sydney - Mosman,information_media_telecommunications,4218,70461
+Sydney,12104,North Sydney - Mosman,manufacturing,2047,74191
+Sydney,12104,North Sydney - Mosman,mining,169,120938
+Sydney,12104,North Sydney - Mosman,other_services,1886,32597
+Sydney,12104,North Sydney - Mosman,professional,14636,79902
+Sydney,12104,North Sydney - Mosman,public_administration_safety,3906,75692
+Sydney,12104,North Sydney - Mosman,rental,2064,64802
+Sydney,12104,North Sydney - Mosman,retail_trade,5637,19826
+Sydney,12104,North Sydney - Mosman,total,82243,50492
+Sydney,12104,North Sydney - Mosman,transport,1303,74348
+Sydney,12104,North Sydney - Mosman,wholesale_trade,3057,82690
+Sydney,12201,Manly,accommodation_food_services,4516,5786
+Sydney,12201,Manly,administrative_support_services,3112,20911
+Sydney,12201,Manly,agriculture,246,6047
+Sydney,12201,Manly,arts_recreation_services,820,9216
+Sydney,12201,Manly,construction,1669,56049
+Sydney,12201,Manly,education_training,2938,25531
+Sydney,12201,Manly,electricity,198,109430
+Sydney,12201,Manly,finance_insurance_services,3540,125170
+Sydney,12201,Manly,health_care_social_assistance,3264,35081
+Sydney,12201,Manly,information_media_telecommunications,1638,66844
+Sydney,12201,Manly,manufacturing,1117,61220
+Sydney,12201,Manly,mining,74,111236
+Sydney,12201,Manly,other_services,905,26302
+Sydney,12201,Manly,professional,6481,80000
+Sydney,12201,Manly,public_administration_safety,1382,52586
+Sydney,12201,Manly,rental,911,57243
+Sydney,12201,Manly,retail_trade,3052,14604
+Sydney,12201,Manly,total,38644,37754
+Sydney,12201,Manly,transport,618,62000
+Sydney,12201,Manly,wholesale_trade,1521,75398
+Sydney,12202,Pittwater,accommodation_food_services,4995,6069
+Sydney,12202,Pittwater,administrative_support_services,2666,28262
+Sydney,12202,Pittwater,agriculture,228,9780
+Sydney,12202,Pittwater,arts_recreation_services,1173,8396
+Sydney,12202,Pittwater,construction,4031,53366
+Sydney,12202,Pittwater,education_training,4343,36676
+Sydney,12202,Pittwater,electricity,210,102852
+Sydney,12202,Pittwater,finance_insurance_services,2582,69993
+Sydney,12202,Pittwater,health_care_social_assistance,5137,32994
+Sydney,12202,Pittwater,information_media_telecommunications,2164,33444
+Sydney,12202,Pittwater,manufacturing,2165,58052
+Sydney,12202,Pittwater,mining,59,91998
+Sydney,12202,Pittwater,other_services,1672,27263
+Sydney,12202,Pittwater,professional,6111,60000
+Sydney,12202,Pittwater,public_administration_safety,2157,43297
+Sydney,12202,Pittwater,rental,1193,46000
+Sydney,12202,Pittwater,retail_trade,4676,17092
+Sydney,12202,Pittwater,total,50261,33463
+Sydney,12202,Pittwater,transport,1076,55634
+Sydney,12202,Pittwater,wholesale_trade,2565,70290
+Sydney,12203,Warringah,accommodation_food_services,13502,7484
+Sydney,12203,Warringah,administrative_support_services,8589,26000
+Sydney,12203,Warringah,agriculture,440,8628
+Sydney,12203,Warringah,arts_recreation_services,2858,9597
+Sydney,12203,Warringah,construction,8655,57460
+Sydney,12203,Warringah,education_training,10857,33798
+Sydney,12203,Warringah,electricity,601,91654
+Sydney,12203,Warringah,finance_insurance_services,8964,89060
+Sydney,12203,Warringah,health_care_social_assistance,15118,36133
+Sydney,12203,Warringah,information_media_telecommunications,4795,63552
+Sydney,12203,Warringah,manufacturing,5319,55678
+Sydney,12203,Warringah,mining,126,90865
+Sydney,12203,Warringah,other_services,4303,29781
+Sydney,12203,Warringah,professional,15813,72052
+Sydney,12203,Warringah,public_administration_safety,6211,55367
+Sydney,12203,Warringah,rental,2775,54489
+Sydney,12203,Warringah,retail_trade,13613,18116
+Sydney,12203,Warringah,total,133702,37720
+Sydney,12203,Warringah,transport,2785,58415
+Sydney,12203,Warringah,wholesale_trade,6491,71359
+Sydney,12301,Camden,accommodation_food_services,4660,7312
+Sydney,12301,Camden,administrative_support_services,4419,19515
+Sydney,12301,Camden,agriculture,191,13514
+Sydney,12301,Camden,arts_recreation_services,965,9010
+Sydney,12301,Camden,construction,6253,56910
+Sydney,12301,Camden,education_training,5760,55287
+Sydney,12301,Camden,electricity,509,94461
+Sydney,12301,Camden,finance_insurance_services,2993,42568
+Sydney,12301,Camden,health_care_social_assistance,7360,40900
+Sydney,12301,Camden,information_media_telecommunications,757,29738
+Sydney,12301,Camden,manufacturing,3681,69738
+Sydney,12301,Camden,mining,96,95366
+Sydney,12301,Camden,other_services,1908,35100
+Sydney,12301,Camden,professional,3538,53162
+Sydney,12301,Camden,public_administration_safety,4247,74718
+Sydney,12301,Camden,rental,1342,48064
+Sydney,12301,Camden,retail_trade,6375,22238
+Sydney,12301,Camden,total,61604,40936
+Sydney,12301,Camden,transport,2836,65765
+Sydney,12301,Camden,wholesale_trade,2895,66063
+Sydney,12302,Campbelltown (NSW),accommodation_food_services,10786,8924
+Sydney,12302,Campbelltown (NSW),administrative_support_services,18107,12009
+Sydney,12302,Campbelltown (NSW),agriculture,347,15804
+Sydney,12302,Campbelltown (NSW),arts_recreation_services,1889,9540
+Sydney,12302,Campbelltown (NSW),construction,9315,46274
+Sydney,12302,Campbelltown (NSW),education_training,8516,45276
+Sydney,12302,Campbelltown (NSW),electricity,917,86076
+Sydney,12302,Campbelltown (NSW),finance_insurance_services,7011,47857
+Sydney,12302,Campbelltown (NSW),health_care_social_assistance,21091,36631
+Sydney,12302,Campbelltown (NSW),information_media_telecommunications,1872,50130
+Sydney,12302,Campbelltown (NSW),manufacturing,10297,57098
+Sydney,12302,Campbelltown (NSW),mining,154,81030
+Sydney,12302,Campbelltown (NSW),other_services,4136,29150
+Sydney,12302,Campbelltown (NSW),professional,8289,49016
+Sydney,12302,Campbelltown (NSW),public_administration_safety,8359,55991
+Sydney,12302,Campbelltown (NSW),rental,2345,36852
+Sydney,12302,Campbelltown (NSW),retail_trade,14502,22254
+Sydney,12302,Campbelltown (NSW),total,143426,32440
+Sydney,12302,Campbelltown (NSW),transport,7499,60852
+Sydney,12302,Campbelltown (NSW),wholesale_trade,6285,55268
+Sydney,12303,Wollondilly,accommodation_food_services,2607,6960
+Sydney,12303,Wollondilly,administrative_support_services,2220,22270
+Sydney,12303,Wollondilly,agriculture,397,19446
+Sydney,12303,Wollondilly,arts_recreation_services,618,8626
+Sydney,12303,Wollondilly,construction,4804,54309
+Sydney,12303,Wollondilly,education_training,3077,49248
+Sydney,12303,Wollondilly,electricity,372,100661
+Sydney,12303,Wollondilly,finance_insurance_services,1512,31749
+Sydney,12303,Wollondilly,health_care_social_assistance,4045,36534
+Sydney,12303,Wollondilly,information_media_telecommunications,371,21658
+Sydney,12303,Wollondilly,manufacturing,2688,65923
+Sydney,12303,Wollondilly,mining,184,107167
+Sydney,12303,Wollondilly,other_services,1254,38558
+Sydney,12303,Wollondilly,professional,2007,50302
+Sydney,12303,Wollondilly,public_administration_safety,2397,66626
+Sydney,12303,Wollondilly,rental,743,48572
+Sydney,12303,Wollondilly,retail_trade,3349,22059
+Sydney,12303,Wollondilly,total,36468,39396
+Sydney,12303,Wollondilly,transport,1688,64854
+Sydney,12303,Wollondilly,wholesale_trade,1511,61500
+Sydney,12401,Blue Mountains,accommodation_food_services,5761,8080
+Sydney,12401,Blue Mountains,administrative_support_services,3191,17146
+Sydney,12401,Blue Mountains,agriculture,424,16654
+Sydney,12401,Blue Mountains,arts_recreation_services,1270,11172
+Sydney,12401,Blue Mountains,construction,3668,50460
+Sydney,12401,Blue Mountains,education_training,8543,48184
+Sydney,12401,Blue Mountains,electricity,473,120226
+Sydney,12401,Blue Mountains,finance_insurance_services,2472,40449
+Sydney,12401,Blue Mountains,health_care_social_assistance,7872,42716
+Sydney,12401,Blue Mountains,information_media_telecommunications,1197,37198
+Sydney,12401,Blue Mountains,manufacturing,2489,61313
+Sydney,12401,Blue Mountains,mining,148,104320
+Sydney,12401,Blue Mountains,other_services,1776,29692
+Sydney,12401,Blue Mountains,professional,3998,54751
+Sydney,12401,Blue Mountains,public_administration_safety,5340,67617
+Sydney,12401,Blue Mountains,rental,1011,42000
+Sydney,12401,Blue Mountains,retail_trade,4653,17950
+Sydney,12401,Blue Mountains,total,58088,35985
+Sydney,12401,Blue Mountains,transport,1458,65894
+Sydney,12401,Blue Mountains,wholesale_trade,1630,67084
+Sydney,12402,Blue Mountains - South,accommodation_food_services,0,0
+Sydney,12402,Blue Mountains - South,administrative_support_services,0,0
+Sydney,12402,Blue Mountains - South,agriculture,0,0
+Sydney,12402,Blue Mountains - South,arts_recreation_services,0,0
+Sydney,12402,Blue Mountains - South,construction,0,0
+Sydney,12402,Blue Mountains - South,education_training,0,0
+Sydney,12402,Blue Mountains - South,electricity,0,0
+Sydney,12402,Blue Mountains - South,finance_insurance_services,0,0
+Sydney,12402,Blue Mountains - South,health_care_social_assistance,0,0
+Sydney,12402,Blue Mountains - South,information_media_telecommunications,0,0
+Sydney,12402,Blue Mountains - South,manufacturing,0,0
+Sydney,12402,Blue Mountains - South,mining,0,0
+Sydney,12402,Blue Mountains - South,other_services,0,0
+Sydney,12402,Blue Mountains - South,professional,0,0
+Sydney,12402,Blue Mountains - South,public_administration_safety,0,0
+Sydney,12402,Blue Mountains - South,rental,0,0
+Sydney,12402,Blue Mountains - South,retail_trade,0,0
+Sydney,12402,Blue Mountains - South,total,3,92136
+Sydney,12402,Blue Mountains - South,transport,0,0
+Sydney,12402,Blue Mountains - South,wholesale_trade,0,0
+Sydney,12403,Penrith,accommodation_food_services,10418,7608
+Sydney,12403,Penrith,administrative_support_services,12560,16203
+Sydney,12403,Penrith,agriculture,612,26702
+Sydney,12403,Penrith,arts_recreation_services,2415,9574
+Sydney,12403,Penrith,construction,12616,54224
+Sydney,12403,Penrith,education_training,10648,47056
+Sydney,12403,Penrith,electricity,1370,88519
+Sydney,12403,Penrith,finance_insurance_services,6903,47365
+Sydney,12403,Penrith,health_care_social_assistance,16639,40548
+Sydney,12403,Penrith,information_media_telecommunications,1457,49967
+Sydney,12403,Penrith,manufacturing,7892,62864
+Sydney,12403,Penrith,mining,198,95950
+Sydney,12403,Penrith,other_services,3743,35494
+Sydney,12403,Penrith,professional,7241,50555
+Sydney,12403,Penrith,public_administration_safety,8986,71052
+Sydney,12403,Penrith,rental,2665,47501
+Sydney,12403,Penrith,retail_trade,12949,23648
+Sydney,12403,Penrith,total,133120,38246
+Sydney,12403,Penrith,transport,6051,64318
+Sydney,12403,Penrith,wholesale_trade,6339,59946
+Sydney,12404,Richmond - Windsor,accommodation_food_services,2388,9413
+Sydney,12404,Richmond - Windsor,administrative_support_services,2287,16516
+Sydney,12404,Richmond - Windsor,agriculture,418,30784
+Sydney,12404,Richmond - Windsor,arts_recreation_services,568,11935
+Sydney,12404,Richmond - Windsor,construction,3467,49670
+Sydney,12404,Richmond - Windsor,education_training,2318,42626
+Sydney,12404,Richmond - Windsor,electricity,254,93768
+Sydney,12404,Richmond - Windsor,finance_insurance_services,1237,33112
+Sydney,12404,Richmond - Windsor,health_care_social_assistance,3588,35959
+Sydney,12404,Richmond - Windsor,information_media_telecommunications,322,18352
+Sydney,12404,Richmond - Windsor,manufacturing,1987,57693
+Sydney,12404,Richmond - Windsor,mining,78,55641
+Sydney,12404,Richmond - Windsor,other_services,1075,29837
+Sydney,12404,Richmond - Windsor,professional,1415,41472
+Sydney,12404,Richmond - Windsor,public_administration_safety,1949,71675
+Sydney,12404,Richmond - Windsor,rental,531,37553
+Sydney,12404,Richmond - Windsor,retail_trade,2878,25144
+Sydney,12404,Richmond - Windsor,total,29720,35022
+Sydney,12404,Richmond - Windsor,transport,1194,52364
+Sydney,12404,Richmond - Windsor,wholesale_trade,1327,57160
+Sydney,12405,St Marys,accommodation_food_services,3296,8191
+Sydney,12405,St Marys,administrative_support_services,7284,10946
+Sydney,12405,St Marys,agriculture,199,17745
+Sydney,12405,St Marys,arts_recreation_services,724,9316
+Sydney,12405,St Marys,construction,3827,48324
+Sydney,12405,St Marys,education_training,2519,40832
+Sydney,12405,St Marys,electricity,586,74015
+Sydney,12405,St Marys,finance_insurance_services,2449,40326
+Sydney,12405,St Marys,health_care_social_assistance,5524,36467
+Sydney,12405,St Marys,information_media_telecommunications,494,31912
+Sydney,12405,St Marys,manufacturing,3144,59304
+Sydney,12405,St Marys,mining,37,83849
+Sydney,12405,St Marys,other_services,1270,35714
+Sydney,12405,St Marys,professional,2286,43352
+Sydney,12405,St Marys,public_administration_safety,2490,54112
+Sydney,12405,St Marys,rental,859,44346
+Sydney,12405,St Marys,retail_trade,4714,26204
+Sydney,12405,St Marys,total,47870,32212
+Sydney,12405,St Marys,transport,2978,60866
+Sydney,12405,St Marys,wholesale_trade,2690,58196
+Sydney,12501,Auburn,accommodation_food_services,12881,10747
+Sydney,12501,Auburn,administrative_support_services,15124,10578
+Sydney,12501,Auburn,agriculture,402,10440
+Sydney,12501,Auburn,arts_recreation_services,1432,11590
+Sydney,12501,Auburn,construction,4301,38032
+Sydney,12501,Auburn,education_training,4561,29039
+Sydney,12501,Auburn,electricity,396,82346
+Sydney,12501,Auburn,finance_insurance_services,4689,65082
+Sydney,12501,Auburn,health_care_social_assistance,12516,27622
+Sydney,12501,Auburn,information_media_telecommunications,1624,59797
+Sydney,12501,Auburn,manufacturing,4828,40666
+Sydney,12501,Auburn,mining,64,60712
+Sydney,12501,Auburn,other_services,2282,22400
+Sydney,12501,Auburn,professional,7087,50769
+Sydney,12501,Auburn,public_administration_safety,3259,47184
+Sydney,12501,Auburn,rental,1614,27692
+Sydney,12501,Auburn,retail_trade,9253,18256
+Sydney,12501,Auburn,total,95172,23503
+Sydney,12501,Auburn,transport,2522,49740
+Sydney,12501,Auburn,wholesale_trade,4451,42594
+Sydney,12502,Carlingford,accommodation_food_services,3944,9692
+Sydney,12502,Carlingford,administrative_support_services,4517,19625
+Sydney,12502,Carlingford,agriculture,97,14902
+Sydney,12502,Carlingford,arts_recreation_services,871,9832
+Sydney,12502,Carlingford,construction,3374,49648
+Sydney,12502,Carlingford,education_training,4972,32024
+Sydney,12502,Carlingford,electricity,307,100983
+Sydney,12502,Carlingford,finance_insurance_services,3662,74081
+Sydney,12502,Carlingford,health_care_social_assistance,7589,37100
+Sydney,12502,Carlingford,information_media_telecommunications,1369,72723
+Sydney,12502,Carlingford,manufacturing,2491,59479
+Sydney,12502,Carlingford,mining,32,89001
+Sydney,12502,Carlingford,other_services,1670,28269
+Sydney,12502,Carlingford,professional,5714,60374
+Sydney,12502,Carlingford,public_administration_safety,2925,68844
+Sydney,12502,Carlingford,rental,1095,45503
+Sydney,12502,Carlingford,retail_trade,4953,19446
+Sydney,12502,Carlingford,total,55371,38200
+Sydney,12502,Carlingford,transport,1381,59148
+Sydney,12502,Carlingford,wholesale_trade,3182,61707
+Sydney,12503,Merrylands - Guildford,accommodation_food_services,10216,9276
+Sydney,12503,Merrylands - Guildford,administrative_support_services,17350,9950
+Sydney,12503,Merrylands - Guildford,agriculture,268,10531
+Sydney,12503,Merrylands - Guildford,arts_recreation_services,1704,7725
+Sydney,12503,Merrylands - Guildford,construction,8504,38114
+Sydney,12503,Merrylands - Guildford,education_training,7064,32990
+Sydney,12503,Merrylands - Guildford,electricity,696,72198
+Sydney,12503,Merrylands - Guildford,finance_insurance_services,6697,47390
+Sydney,12503,Merrylands - Guildford,health_care_social_assistance,16146,28065
+Sydney,12503,Merrylands - Guildford,information_media_telecommunications,1538,49506
+Sydney,12503,Merrylands - Guildford,manufacturing,6642,49486
+Sydney,12503,Merrylands - Guildford,mining,60,34016
+Sydney,12503,Merrylands - Guildford,other_services,3201,25224
+Sydney,12503,Merrylands - Guildford,professional,7578,45000
+Sydney,12503,Merrylands - Guildford,public_administration_safety,5932,42146
+Sydney,12503,Merrylands - Guildford,rental,1932,35267
+Sydney,12503,Merrylands - Guildford,retail_trade,12278,18252
+Sydney,12503,Merrylands - Guildford,total,120137,25458
+Sydney,12503,Merrylands - Guildford,transport,4203,52800
+Sydney,12503,Merrylands - Guildford,wholesale_trade,5416,48978
+Sydney,12504,Parramatta,accommodation_food_services,11987,8939
+Sydney,12504,Parramatta,administrative_support_services,19567,12356
+Sydney,12504,Parramatta,agriculture,285,10902
+Sydney,12504,Parramatta,arts_recreation_services,1975,8402
+Sydney,12504,Parramatta,construction,6450,46541
+Sydney,12504,Parramatta,education_training,9127,33914
+Sydney,12504,Parramatta,electricity,838,88081
+Sydney,12504,Parramatta,finance_insurance_services,10103,66736
+Sydney,12504,Parramatta,health_care_social_assistance,19514,33898
+Sydney,12504,Parramatta,information_media_telecommunications,3117,68266
+Sydney,12504,Parramatta,manufacturing,6526,53646
+Sydney,12504,Parramatta,mining,88,59935
+Sydney,12504,Parramatta,other_services,3172,25698
+Sydney,12504,Parramatta,professional,18603,68080
+Sydney,12504,Parramatta,public_administration_safety,6741,63359
+Sydney,12504,Parramatta,rental,2232,36542
+Sydney,12504,Parramatta,retail_trade,12895,17690
+Sydney,12504,Parramatta,total,144993,32786
+Sydney,12504,Parramatta,transport,3762,52908
+Sydney,12504,Parramatta,wholesale_trade,6276,56992
+Sydney,12601,Pennant Hills - Epping,accommodation_food_services,3224,8738
+Sydney,12601,Pennant Hills - Epping,administrative_support_services,2981,24980
+Sydney,12601,Pennant Hills - Epping,agriculture,96,16950
+Sydney,12601,Pennant Hills - Epping,arts_recreation_services,633,11488
+Sydney,12601,Pennant Hills - Epping,construction,1722,57530
+Sydney,12601,Pennant Hills - Epping,education_training,4518,30406
+Sydney,12601,Pennant Hills - Epping,electricity,213,113583
+Sydney,12601,Pennant Hills - Epping,finance_insurance_services,3606,88325
+Sydney,12601,Pennant Hills - Epping,health_care_social_assistance,5893,35975
+Sydney,12601,Pennant Hills - Epping,information_media_telecommunications,1594,84500
+Sydney,12601,Pennant Hills - Epping,manufacturing,1571,69224
+Sydney,12601,Pennant Hills - Epping,mining,47,106278
+Sydney,12601,Pennant Hills - Epping,other_services,1113,26457
+Sydney,12601,Pennant Hills - Epping,professional,6177,70912
+Sydney,12601,Pennant Hills - Epping,public_administration_safety,2011,62470
+Sydney,12601,Pennant Hills - Epping,rental,834,45894
+Sydney,12601,Pennant Hills - Epping,retail_trade,3668,17521
+Sydney,12601,Pennant Hills - Epping,total,43598,41926
+Sydney,12601,Pennant Hills - Epping,transport,795,65574
+Sydney,12601,Pennant Hills - Epping,wholesale_trade,2078,72291
+Sydney,12602,Ryde - Hunters Hill,accommodation_food_services,11687,8998
+Sydney,12602,Ryde - Hunters Hill,administrative_support_services,9491,21173
+Sydney,12602,Ryde - Hunters Hill,agriculture,240,9302
+Sydney,12602,Ryde - Hunters Hill,arts_recreation_services,2235,10176
+Sydney,12602,Ryde - Hunters Hill,construction,5825,56264
+Sydney,12602,Ryde - Hunters Hill,education_training,10419,29858
+Sydney,12602,Ryde - Hunters Hill,electricity,521,112569
+Sydney,12602,Ryde - Hunters Hill,finance_insurance_services,9649,80823
+Sydney,12602,Ryde - Hunters Hill,health_care_social_assistance,14879,39084
+Sydney,12602,Ryde - Hunters Hill,information_media_telecommunications,4487,70426
+Sydney,12602,Ryde - Hunters Hill,manufacturing,4557,66886
+Sydney,12602,Ryde - Hunters Hill,mining,110,106186
+Sydney,12602,Ryde - Hunters Hill,other_services,3462,31024
+Sydney,12602,Ryde - Hunters Hill,professional,16525,65459
+Sydney,12602,Ryde - Hunters Hill,public_administration_safety,5148,63931
+Sydney,12602,Ryde - Hunters Hill,rental,2705,51857
+Sydney,12602,Ryde - Hunters Hill,retail_trade,11625,18018
+Sydney,12602,Ryde - Hunters Hill,total,124608,38926
+Sydney,12602,Ryde - Hunters Hill,transport,2521,65130
+Sydney,12602,Ryde - Hunters Hill,wholesale_trade,6424,68220
+Sydney,12701,Bringelly - Green Valley,accommodation_food_services,7675,7770
+Sydney,12701,Bringelly - Green Valley,administrative_support_services,12905,14624
+Sydney,12701,Bringelly - Green Valley,agriculture,454,23624
+Sydney,12701,Bringelly - Green Valley,arts_recreation_services,1464,8898
+Sydney,12701,Bringelly - Green Valley,construction,9304,48804
+Sydney,12701,Bringelly - Green Valley,education_training,7695,48156
+Sydney,12701,Bringelly - Green Valley,electricity,826,88214
+Sydney,12701,Bringelly - Green Valley,finance_insurance_services,6493,52520
+Sydney,12701,Bringelly - Green Valley,health_care_social_assistance,15184,37128
+Sydney,12701,Bringelly - Green Valley,information_media_telecommunications,1497,56242
+Sydney,12701,Bringelly - Green Valley,manufacturing,7705,59376
+Sydney,12701,Bringelly - Green Valley,mining,102,95930
+Sydney,12701,Bringelly - Green Valley,other_services,3313,29603
+Sydney,12701,Bringelly - Green Valley,professional,6702,50486
+Sydney,12701,Bringelly - Green Valley,public_administration_safety,6203,59892
+Sydney,12701,Bringelly - Green Valley,rental,2062,41500
+Sydney,12701,Bringelly - Green Valley,retail_trade,12185,22790
+Sydney,12701,Bringelly - Green Valley,total,115002,35554
+Sydney,12701,Bringelly - Green Valley,transport,5958,57823
+Sydney,12701,Bringelly - Green Valley,wholesale_trade,5381,59549
+Sydney,12702,Fairfield,accommodation_food_services,9552,10052
+Sydney,12702,Fairfield,administrative_support_services,16783,12590
+Sydney,12702,Fairfield,agriculture,585,21154
+Sydney,12702,Fairfield,arts_recreation_services,1552,8478
+Sydney,12702,Fairfield,construction,8644,40349
+Sydney,12702,Fairfield,education_training,6298,37479
+Sydney,12702,Fairfield,electricity,803,69388
+Sydney,12702,Fairfield,finance_insurance_services,6419,48000
+Sydney,12702,Fairfield,health_care_social_assistance,12682,30297
+Sydney,12702,Fairfield,information_media_telecommunications,1420,41804
+Sydney,12702,Fairfield,manufacturing,11573,51570
+Sydney,12702,Fairfield,mining,68,58344
+Sydney,12702,Fairfield,other_services,5330,18236
+Sydney,12702,Fairfield,professional,6683,42080
+Sydney,12702,Fairfield,public_administration_safety,5500,36440
+Sydney,12702,Fairfield,rental,1866,36359
+Sydney,12702,Fairfield,retail_trade,13235,21834
+Sydney,12702,Fairfield,total,123104,27608
+Sydney,12702,Fairfield,transport,5625,46202
+Sydney,12702,Fairfield,wholesale_trade,6301,50596
+Sydney,12703,Liverpool,accommodation_food_services,7082,8371
+Sydney,12703,Liverpool,administrative_support_services,12935,12363
+Sydney,12703,Liverpool,agriculture,254,19798
+Sydney,12703,Liverpool,arts_recreation_services,1665,11636
+Sydney,12703,Liverpool,construction,6678,43736
+Sydney,12703,Liverpool,education_training,6700,44910
+Sydney,12703,Liverpool,electricity,662,84637
+Sydney,12703,Liverpool,finance_insurance_services,5672,53631
+Sydney,12703,Liverpool,health_care_social_assistance,14602,36484
+Sydney,12703,Liverpool,information_media_telecommunications,1466,49249
+Sydney,12703,Liverpool,manufacturing,6442,56904
+Sydney,12703,Liverpool,mining,71,63910
+Sydney,12703,Liverpool,other_services,2845,31200
+Sydney,12703,Liverpool,professional,6671,51022
+Sydney,12703,Liverpool,public_administration_safety,6595,66882
+Sydney,12703,Liverpool,rental,1668,41268
+Sydney,12703,Liverpool,retail_trade,9842,20909
+Sydney,12703,Liverpool,total,103401,33072
+Sydney,12703,Liverpool,transport,5158,57566
+Sydney,12703,Liverpool,wholesale_trade,4833,54529
+Sydney,12801,Cronulla - Miranda - Caringbah,accommodation_food_services,6920,7790
+Sydney,12801,Cronulla - Miranda - Caringbah,administrative_support_services,6208,24476
+Sydney,12801,Cronulla - Miranda - Caringbah,agriculture,166,10150
+Sydney,12801,Cronulla - Miranda - Caringbah,arts_recreation_services,2110,10004
+Sydney,12801,Cronulla - Miranda - Caringbah,construction,8394,58738
+Sydney,12801,Cronulla - Miranda - Caringbah,education_training,8017,43618
+Sydney,12801,Cronulla - Miranda - Caringbah,electricity,537,109013
+Sydney,12801,Cronulla - Miranda - Caringbah,finance_insurance_services,6107,70666
+Sydney,12801,Cronulla - Miranda - Caringbah,health_care_social_assistance,10474,38942
+Sydney,12801,Cronulla - Miranda - Caringbah,information_media_telecommunications,2268,51011
+Sydney,12801,Cronulla - Miranda - Caringbah,manufacturing,3985,58639
+Sydney,12801,Cronulla - Miranda - Caringbah,mining,107,156966
+Sydney,12801,Cronulla - Miranda - Caringbah,other_services,2876,31846
+Sydney,12801,Cronulla - Miranda - Caringbah,professional,8903,63297
+Sydney,12801,Cronulla - Miranda - Caringbah,public_administration_safety,6066,76497
+Sydney,12801,Cronulla - Miranda - Caringbah,rental,2209,55937
+Sydney,12801,Cronulla - Miranda - Caringbah,retail_trade,8338,19388
+Sydney,12801,Cronulla - Miranda - Caringbah,total,93451,42322
+Sydney,12801,Cronulla - Miranda - Caringbah,transport,4143,77084
+Sydney,12801,Cronulla - Miranda - Caringbah,wholesale_trade,4063,66080
+Sydney,12802,Sutherland - Menai - Heathcote,accommodation_food_services,5978,7497
+Sydney,12802,Sutherland - Menai - Heathcote,administrative_support_services,5435,29981
+Sydney,12802,Sutherland - Menai - Heathcote,agriculture,111,14344
+Sydney,12802,Sutherland - Menai - Heathcote,arts_recreation_services,1598,9621
+Sydney,12802,Sutherland - Menai - Heathcote,construction,7495,60000
+Sydney,12802,Sutherland - Menai - Heathcote,education_training,9211,49163
+Sydney,12802,Sutherland - Menai - Heathcote,electricity,655,118785
+Sydney,12802,Sutherland - Menai - Heathcote,finance_insurance_services,5818,73914
+Sydney,12802,Sutherland - Menai - Heathcote,health_care_social_assistance,10787,40558
+Sydney,12802,Sutherland - Menai - Heathcote,information_media_telecommunications,1946,63872
+Sydney,12802,Sutherland - Menai - Heathcote,manufacturing,3767,66626
+Sydney,12802,Sutherland - Menai - Heathcote,mining,112,108240
+Sydney,12802,Sutherland - Menai - Heathcote,other_services,2954,35174
+Sydney,12802,Sutherland - Menai - Heathcote,professional,8517,68094
+Sydney,12802,Sutherland - Menai - Heathcote,public_administration_safety,6887,74369
+Sydney,12802,Sutherland - Menai - Heathcote,rental,1639,53929
+Sydney,12802,Sutherland - Menai - Heathcote,retail_trade,7893,19564
+Sydney,12802,Sutherland - Menai - Heathcote,total,89192,45509
+Sydney,12802,Sutherland - Menai - Heathcote,transport,3660,80605
+Sydney,12802,Sutherland - Menai - Heathcote,wholesale_trade,3573,71491

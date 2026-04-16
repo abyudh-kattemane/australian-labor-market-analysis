@@ -1,0 +1,3361 @@
+date,state,industry,employed_persons
+2019-02-01,Australia,accommodation_and_food_services,891178
+2019-02-01,Australia,administrative_and_support_services,436313
+2019-02-01,Australia,agriculture_forestry_and_fishing,348146
+2019-02-01,Australia,arts_and_recreation_services,253969
+2019-02-01,Australia,construction,1145833
+2019-02-01,Australia,education_and_training,1001705
+2019-02-01,Australia,electricity_gas_water_and_waste_services,154251
+2019-02-01,Australia,financial_and_insurance_services,446461
+2019-02-01,Australia,health_care_and_social_assistance,1693382
+2019-02-01,Australia,information_media_and_telecommunications,210883
+2019-02-01,Australia,manufacturing,853426
+2019-02-01,Australia,mining,264325
+2019-02-01,Australia,other_services,529214
+2019-02-01,Australia,professional_scientific_and_technical_services,1127409
+2019-02-01,Australia,public_administration_and_safety,872950
+2019-02-01,Australia,rental_hiring_and_real_estate_services,207418
+2019-02-01,Australia,retail_trade,1286950
+2019-02-01,Australia,total,12778105
+2019-02-01,Australia,transport_postal_and_warehousing,673670
+2019-02-01,Australia,wholesale_trade,380621
+2019-05-01,Australia,accommodation_and_food_services,910401
+2019-05-01,Australia,administrative_and_support_services,462917
+2019-05-01,Australia,agriculture_forestry_and_fishing,330518
+2019-05-01,Australia,arts_and_recreation_services,251842
+2019-05-01,Australia,construction,1178856
+2019-05-01,Australia,education_and_training,1073477
+2019-05-01,Australia,electricity_gas_water_and_waste_services,159961
+2019-05-01,Australia,financial_and_insurance_services,433272
+2019-05-01,Australia,health_care_and_social_assistance,1671271
+2019-05-01,Australia,information_media_and_telecommunications,200824
+2019-05-01,Australia,manufacturing,905550
+2019-05-01,Australia,mining,259030
+2019-05-01,Australia,other_services,521440
+2019-05-01,Australia,professional_scientific_and_technical_services,1128972
+2019-05-01,Australia,public_administration_and_safety,839339
+2019-05-01,Australia,rental_hiring_and_real_estate_services,212054
+2019-05-01,Australia,retail_trade,1280732
+2019-05-01,Australia,total,12872420
+2019-05-01,Australia,transport_postal_and_warehousing,647968
+2019-05-01,Australia,wholesale_trade,403992
+2019-08-01,Australia,accommodation_and_food_services,894457
+2019-08-01,Australia,administrative_and_support_services,472759
+2019-08-01,Australia,agriculture_forestry_and_fishing,317401
+2019-08-01,Australia,arts_and_recreation_services,239625
+2019-08-01,Australia,construction,1165131
+2019-08-01,Australia,education_and_training,1111414
+2019-08-01,Australia,electricity_gas_water_and_waste_services,163920
+2019-08-01,Australia,financial_and_insurance_services,436362
+2019-08-01,Australia,health_care_and_social_assistance,1734708
+2019-08-01,Australia,information_media_and_telecommunications,207323
+2019-08-01,Australia,manufacturing,854230
+2019-08-01,Australia,mining,254203
+2019-08-01,Australia,other_services,503072
+2019-08-01,Australia,professional_scientific_and_technical_services,1152106
+2019-08-01,Australia,public_administration_and_safety,808354
+2019-08-01,Australia,rental_hiring_and_real_estate_services,206186
+2019-08-01,Australia,retail_trade,1224873
+2019-08-01,Australia,total,12823403
+2019-08-01,Australia,transport_postal_and_warehousing,664573
+2019-08-01,Australia,wholesale_trade,412708
+2019-11-01,Australia,accommodation_and_food_services,916710
+2019-11-01,Australia,administrative_and_support_services,436872
+2019-11-01,Australia,agriculture_forestry_and_fishing,315148
+2019-11-01,Australia,arts_and_recreation_services,247567
+2019-11-01,Australia,construction,1185422
+2019-11-01,Australia,education_and_training,1085934
+2019-11-01,Australia,electricity_gas_water_and_waste_services,154481
+2019-11-01,Australia,financial_and_insurance_services,456000
+2019-11-01,Australia,health_care_and_social_assistance,1769323
+2019-11-01,Australia,information_media_and_telecommunications,206762
+2019-11-01,Australia,manufacturing,914018
+2019-11-01,Australia,mining,270609
+2019-11-01,Australia,other_services,496692
+2019-11-01,Australia,professional_scientific_and_technical_services,1132038
+2019-11-01,Australia,public_administration_and_safety,841840
+2019-11-01,Australia,rental_hiring_and_real_estate_services,213782
+2019-11-01,Australia,retail_trade,1261298
+2019-11-01,Australia,total,12933357
+2019-11-01,Australia,transport_postal_and_warehousing,653896
+2019-11-01,Australia,wholesale_trade,374964
+2020-02-01,Australia,accommodation_and_food_services,920913
+2020-02-01,Australia,administrative_and_support_services,448696
+2020-02-01,Australia,agriculture_forestry_and_fishing,334607
+2020-02-01,Australia,arts_and_recreation_services,248285
+2020-02-01,Australia,construction,1179797
+2020-02-01,Australia,education_and_training,1091259
+2020-02-01,Australia,electricity_gas_water_and_waste_services,136093
+2020-02-01,Australia,financial_and_insurance_services,467521
+2020-02-01,Australia,health_care_and_social_assistance,1791190
+2020-02-01,Australia,information_media_and_telecommunications,208446
+2020-02-01,Australia,manufacturing,907505
+2020-02-01,Australia,mining,257810
+2020-02-01,Australia,other_services,490045
+2020-02-01,Australia,professional_scientific_and_technical_services,1153554
+2020-02-01,Australia,public_administration_and_safety,835443
+2020-02-01,Australia,rental_hiring_and_real_estate_services,211587
+2020-02-01,Australia,retail_trade,1250363
+2020-02-01,Australia,total,12982409
+2020-02-01,Australia,transport_postal_and_warehousing,664474
+2020-02-01,Australia,wholesale_trade,384821
+2020-05-01,Australia,accommodation_and_food_services,649896
+2020-05-01,Australia,administrative_and_support_services,388303
+2020-05-01,Australia,agriculture_forestry_and_fishing,350196
+2020-05-01,Australia,arts_and_recreation_services,156847
+2020-05-01,Australia,construction,1173659
+2020-05-01,Australia,education_and_training,1027857
+2020-05-01,Australia,electricity_gas_water_and_waste_services,168609
+2020-05-01,Australia,financial_and_insurance_services,479629
+2020-05-01,Australia,health_care_and_social_assistance,1716830
+2020-05-01,Australia,information_media_and_telecommunications,183851
+2020-05-01,Australia,manufacturing,862872
+2020-05-01,Australia,mining,251641
+2020-05-01,Australia,other_services,437699
+2020-05-01,Australia,professional_scientific_and_technical_services,1091280
+2020-05-01,Australia,public_administration_and_safety,849329
+2020-05-01,Australia,rental_hiring_and_real_estate_services,217122
+2020-05-01,Australia,retail_trade,1162627
+2020-05-01,Australia,total,12126679
+2020-05-01,Australia,transport_postal_and_warehousing,569040
+2020-05-01,Australia,wholesale_trade,389392
+2020-08-01,Australia,accommodation_and_food_services,768831
+2020-08-01,Australia,administrative_and_support_services,400404
+2020-08-01,Australia,agriculture_forestry_and_fishing,358045
+2020-08-01,Australia,arts_and_recreation_services,203400
+2020-08-01,Australia,construction,1145814
+2020-08-01,Australia,education_and_training,1106865
+2020-08-01,Australia,electricity_gas_water_and_waste_services,152017
+2020-08-01,Australia,financial_and_insurance_services,473083
+2020-08-01,Australia,health_care_and_social_assistance,1773654
+2020-08-01,Australia,information_media_and_telecommunications,191449
+2020-08-01,Australia,manufacturing,844097
+2020-08-01,Australia,mining,262059
+2020-08-01,Australia,other_services,436385
+2020-08-01,Australia,professional_scientific_and_technical_services,1095918
+2020-08-01,Australia,public_administration_and_safety,866073
+2020-08-01,Australia,rental_hiring_and_real_estate_services,212510
+2020-08-01,Australia,retail_trade,1193498
+2020-08-01,Australia,total,12499680
+2020-08-01,Australia,transport_postal_and_warehousing,613530
+2020-08-01,Australia,wholesale_trade,402049
+2020-11-01,Australia,accommodation_and_food_services,821666
+2020-11-01,Australia,administrative_and_support_services,446084
+2020-11-01,Australia,agriculture_forestry_and_fishing,342732
+2020-11-01,Australia,arts_and_recreation_services,227751
+2020-11-01,Australia,construction,1169134
+2020-11-01,Australia,education_and_training,1109320
+2020-11-01,Australia,electricity_gas_water_and_waste_services,156408
+2020-11-01,Australia,financial_and_insurance_services,474180
+2020-11-01,Australia,health_care_and_social_assistance,1746734
+2020-11-01,Australia,information_media_and_telecommunications,189949
+2020-11-01,Australia,manufacturing,836055
+2020-11-01,Australia,mining,281927
+2020-11-01,Australia,other_services,462882
+2020-11-01,Australia,professional_scientific_and_technical_services,1153744
+2020-11-01,Australia,public_administration_and_safety,877909
+2020-11-01,Australia,rental_hiring_and_real_estate_services,201729
+2020-11-01,Australia,retail_trade,1285566
+2020-11-01,Australia,total,12802892
+2020-11-01,Australia,transport_postal_and_warehousing,653404
+2020-11-01,Australia,wholesale_trade,365719
+2021-02-01,Australia,accommodation_and_food_services,841695
+2021-02-01,Australia,administrative_and_support_services,393906
+2021-02-01,Australia,agriculture_forestry_and_fishing,343772
+2021-02-01,Australia,arts_and_recreation_services,240672
+2021-02-01,Australia,construction,1148505
+2021-02-01,Australia,education_and_training,1058916
+2021-02-01,Australia,electricity_gas_water_and_waste_services,152635
+2021-02-01,Australia,financial_and_insurance_services,468458
+2021-02-01,Australia,health_care_and_social_assistance,1794096
+2021-02-01,Australia,information_media_and_telecommunications,196307
+2021-02-01,Australia,manufacturing,882457
+2021-02-01,Australia,mining,269903
+2021-02-01,Australia,other_services,507709
+2021-02-01,Australia,professional_scientific_and_technical_services,1199815
+2021-02-01,Australia,public_administration_and_safety,865802
+2021-02-01,Australia,rental_hiring_and_real_estate_services,203795
+2021-02-01,Australia,retail_trade,1312070
+2021-02-01,Australia,total,12949554
+2021-02-01,Australia,transport_postal_and_warehousing,686642
+2021-02-01,Australia,wholesale_trade,382400
+2021-05-01,Australia,accommodation_and_food_services,885170
+2021-05-01,Australia,administrative_and_support_services,414945
+2021-05-01,Australia,agriculture_forestry_and_fishing,315838
+2021-05-01,Australia,arts_and_recreation_services,250745
+2021-05-01,Australia,construction,1158899
+2021-05-01,Australia,education_and_training,1149618
+2021-05-01,Australia,electricity_gas_water_and_waste_services,149076
+2021-05-01,Australia,financial_and_insurance_services,479309
+2021-05-01,Australia,health_care_and_social_assistance,1828484
+2021-05-01,Australia,information_media_and_telecommunications,178049
+2021-05-01,Australia,manufacturing,911880
+2021-05-01,Australia,mining,284202
+2021-05-01,Australia,other_services,532329
+2021-05-01,Australia,professional_scientific_and_technical_services,1204584
+2021-05-01,Australia,public_administration_and_safety,875753
+2021-05-01,Australia,rental_hiring_and_real_estate_services,207567
+2021-05-01,Australia,retail_trade,1292087
+2021-05-01,Australia,total,13123762
+2021-05-01,Australia,transport_postal_and_warehousing,637353
+2021-05-01,Australia,wholesale_trade,367875
+2021-08-01,Australia,accommodation_and_food_services,798874
+2021-08-01,Australia,administrative_and_support_services,409567
+2021-08-01,Australia,agriculture_forestry_and_fishing,319858
+2021-08-01,Australia,arts_and_recreation_services,200826
+2021-08-01,Australia,construction,1114640
+2021-08-01,Australia,education_and_training,1121722
+2021-08-01,Australia,electricity_gas_water_and_waste_services,146025
+2021-08-01,Australia,financial_and_insurance_services,506496
+2021-08-01,Australia,health_care_and_social_assistance,1863350
+2021-08-01,Australia,information_media_and_telecommunications,179965
+2021-08-01,Australia,manufacturing,945507
+2021-08-01,Australia,mining,285943
+2021-08-01,Australia,other_services,529462
+2021-08-01,Australia,professional_scientific_and_technical_services,1166409
+2021-08-01,Australia,public_administration_and_safety,890571
+2021-08-01,Australia,rental_hiring_and_real_estate_services,225040
+2021-08-01,Australia,retail_trade,1201356
+2021-08-01,Australia,total,12895766
+2021-08-01,Australia,transport_postal_and_warehousing,635220
+2021-08-01,Australia,wholesale_trade,354934
+2021-11-01,Australia,accommodation_and_food_services,848874
+2021-11-01,Australia,administrative_and_support_services,441716
+2021-11-01,Australia,agriculture_forestry_and_fishing,333621
+2021-11-01,Australia,arts_and_recreation_services,226659
+2021-11-01,Australia,construction,1146826
+2021-11-01,Australia,education_and_training,1130053
+2021-11-01,Australia,electricity_gas_water_and_waste_services,137558
+2021-11-01,Australia,financial_and_insurance_services,514997
+2021-11-01,Australia,health_care_and_social_assistance,1893234
+2021-11-01,Australia,information_media_and_telecommunications,186104
+2021-11-01,Australia,manufacturing,857318
+2021-11-01,Australia,mining,296662
+2021-11-01,Australia,other_services,538218
+2021-11-01,Australia,professional_scientific_and_technical_services,1198025
+2021-11-01,Australia,public_administration_and_safety,924065
+2021-11-01,Australia,rental_hiring_and_real_estate_services,229059
+2021-11-01,Australia,retail_trade,1289207
+2021-11-01,Australia,total,13206222
+2021-11-01,Australia,transport_postal_and_warehousing,657474
+2021-11-01,Australia,wholesale_trade,356552
+2022-02-01,Australia,accommodation_and_food_services,894678
+2022-02-01,Australia,administrative_and_support_services,421738
+2022-02-01,Australia,agriculture_forestry_and_fishing,313784
+2022-02-01,Australia,arts_and_recreation_services,228732
+2022-02-01,Australia,construction,1161001
+2022-02-01,Australia,education_and_training,1119692
+2022-02-01,Australia,electricity_gas_water_and_waste_services,173393
+2022-02-01,Australia,financial_and_insurance_services,547855
+2022-02-01,Australia,health_care_and_social_assistance,2019069
+2022-02-01,Australia,information_media_and_telecommunications,204887
+2022-02-01,Australia,manufacturing,848043
+2022-02-01,Australia,mining,302941
+2022-02-01,Australia,other_services,514245
+2022-02-01,Australia,professional_scientific_and_technical_services,1258798
+2022-02-01,Australia,public_administration_and_safety,900697
+2022-02-01,Australia,rental_hiring_and_real_estate_services,232057
+2022-02-01,Australia,retail_trade,1293682
+2022-02-01,Australia,total,13441264
+2022-02-01,Australia,transport_postal_and_warehousing,684442
+2022-02-01,Australia,wholesale_trade,321529
+2022-05-01,Australia,accommodation_and_food_services,907686
+2022-05-01,Australia,administrative_and_support_services,427373
+2022-05-01,Australia,agriculture_forestry_and_fishing,290479
+2022-05-01,Australia,arts_and_recreation_services,227384
+2022-05-01,Australia,construction,1186108
+2022-05-01,Australia,education_and_training,1135516
+2022-05-01,Australia,electricity_gas_water_and_waste_services,168160
+2022-05-01,Australia,financial_and_insurance_services,558249
+2022-05-01,Australia,health_care_and_social_assistance,2028902
+2022-05-01,Australia,information_media_and_telecommunications,201334
+2022-05-01,Australia,manufacturing,834531
+2022-05-01,Australia,mining,320376
+2022-05-01,Australia,other_services,545835
+2022-05-01,Australia,professional_scientific_and_technical_services,1258869
+2022-05-01,Australia,public_administration_and_safety,912877
+2022-05-01,Australia,rental_hiring_and_real_estate_services,224425
+2022-05-01,Australia,retail_trade,1285900
+2022-05-01,Australia,total,13572346
+2022-05-01,Australia,transport_postal_and_warehousing,687294
+2022-05-01,Australia,wholesale_trade,371048
+2022-08-01,Australia,accommodation_and_food_services,914107
+2022-08-01,Australia,administrative_and_support_services,444890
+2022-08-01,Australia,agriculture_forestry_and_fishing,295659
+2022-08-01,Australia,arts_and_recreation_services,228545
+2022-08-01,Australia,construction,1251992
+2022-08-01,Australia,education_and_training,1143634
+2022-08-01,Australia,electricity_gas_water_and_waste_services,158687
+2022-08-01,Australia,financial_and_insurance_services,527051
+2022-08-01,Australia,health_care_and_social_assistance,2051911
+2022-08-01,Australia,information_media_and_telecommunications,195944
+2022-08-01,Australia,manufacturing,838054
+2022-08-01,Australia,mining,291114
+2022-08-01,Australia,other_services,516200
+2022-08-01,Australia,professional_scientific_and_technical_services,1268917
+2022-08-01,Australia,public_administration_and_safety,850936
+2022-08-01,Australia,rental_hiring_and_real_estate_services,230882
+2022-08-01,Australia,retail_trade,1317863
+2022-08-01,Australia,total,13599801
+2022-08-01,Australia,transport_postal_and_warehousing,692734
+2022-08-01,Australia,wholesale_trade,380683
+2022-11-01,Australia,accommodation_and_food_services,954358
+2022-11-01,Australia,administrative_and_support_services,462791
+2022-11-01,Australia,agriculture_forestry_and_fishing,302663
+2022-11-01,Australia,arts_and_recreation_services,249551
+2022-11-01,Australia,construction,1292089
+2022-11-01,Australia,education_and_training,1175377
+2022-11-01,Australia,electricity_gas_water_and_waste_services,166929
+2022-11-01,Australia,financial_and_insurance_services,565459
+2022-11-01,Australia,health_care_and_social_assistance,2071410
+2022-11-01,Australia,information_media_and_telecommunications,187678
+2022-11-01,Australia,manufacturing,869537
+2022-11-01,Australia,mining,291175
+2022-11-01,Australia,other_services,503074
+2022-11-01,Australia,professional_scientific_and_technical_services,1265545
+2022-11-01,Australia,public_administration_and_safety,849478
+2022-11-01,Australia,rental_hiring_and_real_estate_services,213362
+2022-11-01,Australia,retail_trade,1352448
+2022-11-01,Australia,total,13844621
+2022-11-01,Australia,transport_postal_and_warehousing,728959
+2022-11-01,Australia,wholesale_trade,342739
+2023-02-01,Australia,accommodation_and_food_services,945264
+2023-02-01,Australia,administrative_and_support_services,426924
+2023-02-01,Australia,agriculture_forestry_and_fishing,309082
+2023-02-01,Australia,arts_and_recreation_services,249823
+2023-02-01,Australia,construction,1311445
+2023-02-01,Australia,education_and_training,1143072
+2023-02-01,Australia,electricity_gas_water_and_waste_services,170213
+2023-02-01,Australia,financial_and_insurance_services,536597
+2023-02-01,Australia,health_care_and_social_assistance,2128282
+2023-02-01,Australia,information_media_and_telecommunications,201184
+2023-02-01,Australia,manufacturing,864360
+2023-02-01,Australia,mining,296511
+2023-02-01,Australia,other_services,523326
+2023-02-01,Australia,professional_scientific_and_technical_services,1286387
+2023-02-01,Australia,public_administration_and_safety,893408
+2023-02-01,Australia,rental_hiring_and_real_estate_services,215936
+2023-02-01,Australia,retail_trade,1375433
+2023-02-01,Australia,total,13922030
+2023-02-01,Australia,transport_postal_and_warehousing,697108
+2023-02-01,Australia,wholesale_trade,347676
+2023-05-01,Australia,accommodation_and_food_services,947957
+2023-05-01,Australia,administrative_and_support_services,403148
+2023-05-01,Australia,agriculture_forestry_and_fishing,300068
+2023-05-01,Australia,arts_and_recreation_services,246934
+2023-05-01,Australia,construction,1315605
+2023-05-01,Australia,education_and_training,1189800
+2023-05-01,Australia,electricity_gas_water_and_waste_services,155924
+2023-05-01,Australia,financial_and_insurance_services,554586
+2023-05-01,Australia,health_care_and_social_assistance,2159809
+2023-05-01,Australia,information_media_and_telecommunications,194196
+2023-05-01,Australia,manufacturing,901388
+2023-05-01,Australia,mining,322944
+2023-05-01,Australia,other_services,529118
+2023-05-01,Australia,professional_scientific_and_technical_services,1354964
+2023-05-01,Australia,public_administration_and_safety,923465
+2023-05-01,Australia,rental_hiring_and_real_estate_services,207030
+2023-05-01,Australia,retail_trade,1301854
+2023-05-01,Australia,total,14102078
+2023-05-01,Australia,transport_postal_and_warehousing,715315
+2023-05-01,Australia,wholesale_trade,377970
+2023-08-01,Australia,accommodation_and_food_services,907685
+2023-08-01,Australia,administrative_and_support_services,419232
+2023-08-01,Australia,agriculture_forestry_and_fishing,294048
+2023-08-01,Australia,arts_and_recreation_services,253380
+2023-08-01,Australia,construction,1293086
+2023-08-01,Australia,education_and_training,1155269
+2023-08-01,Australia,electricity_gas_water_and_waste_services,163159
+2023-08-01,Australia,financial_and_insurance_services,548295
+2023-08-01,Australia,health_care_and_social_assistance,2145948
+2023-08-01,Australia,information_media_and_telecommunications,185704
+2023-08-01,Australia,manufacturing,914135
+2023-08-01,Australia,mining,317222
+2023-08-01,Australia,other_services,507870
+2023-08-01,Australia,professional_scientific_and_technical_services,1300664
+2023-08-01,Australia,public_administration_and_safety,933347
+2023-08-01,Australia,rental_hiring_and_real_estate_services,220528
+2023-08-01,Australia,retail_trade,1333723
+2023-08-01,Australia,total,14025551
+2023-08-01,Australia,transport_postal_and_warehousing,725899
+2023-08-01,Australia,wholesale_trade,406357
+2023-11-01,Australia,accommodation_and_food_services,893182
+2023-11-01,Australia,administrative_and_support_services,427871
+2023-11-01,Australia,agriculture_forestry_and_fishing,306982
+2023-11-01,Australia,arts_and_recreation_services,284387
+2023-11-01,Australia,construction,1336542
+2023-11-01,Australia,education_and_training,1227657
+2023-11-01,Australia,electricity_gas_water_and_waste_services,160377
+2023-11-01,Australia,financial_and_insurance_services,568473
+2023-11-01,Australia,health_care_and_social_assistance,2227632
+2023-11-01,Australia,information_media_and_telecommunications,188782
+2023-11-01,Australia,manufacturing,923657
+2023-11-01,Australia,mining,313642
+2023-11-01,Australia,other_services,525153
+2023-11-01,Australia,professional_scientific_and_technical_services,1320896
+2023-11-01,Australia,public_administration_and_safety,930414
+2023-11-01,Australia,rental_hiring_and_real_estate_services,198241
+2023-11-01,Australia,retail_trade,1313217
+2023-11-01,Australia,total,14268388
+2023-11-01,Australia,transport_postal_and_warehousing,746277
+2023-11-01,Australia,wholesale_trade,375005
+2024-02-01,Australia,accommodation_and_food_services,910981
+2024-02-01,Australia,administrative_and_support_services,427462
+2024-02-01,Australia,agriculture_forestry_and_fishing,327815
+2024-02-01,Australia,arts_and_recreation_services,276255
+2024-02-01,Australia,construction,1312096
+2024-02-01,Australia,education_and_training,1202789
+2024-02-01,Australia,electricity_gas_water_and_waste_services,171168
+2024-02-01,Australia,financial_and_insurance_services,539198
+2024-02-01,Australia,health_care_and_social_assistance,2236758
+2024-02-01,Australia,information_media_and_telecommunications,194163
+2024-02-01,Australia,manufacturing,908032
+2024-02-01,Australia,mining,301686
+2024-02-01,Australia,other_services,526838
+2024-02-01,Australia,professional_scientific_and_technical_services,1340356
+2024-02-01,Australia,public_administration_and_safety,930280
+2024-02-01,Australia,rental_hiring_and_real_estate_services,226052
+2024-02-01,Australia,retail_trade,1369193
+2024-02-01,Australia,total,14335836
+2024-02-01,Australia,transport_postal_and_warehousing,736236
+2024-02-01,Australia,wholesale_trade,398480
+2024-05-01,Australia,accommodation_and_food_services,943996
+2024-05-01,Australia,administrative_and_support_services,453716
+2024-05-01,Australia,agriculture_forestry_and_fishing,335315
+2024-05-01,Australia,arts_and_recreation_services,277446
+2024-05-01,Australia,construction,1356540
+2024-05-01,Australia,education_and_training,1221930
+2024-05-01,Australia,electricity_gas_water_and_waste_services,215703
+2024-05-01,Australia,financial_and_insurance_services,518285
+2024-05-01,Australia,health_care_and_social_assistance,2266880
+2024-05-01,Australia,information_media_and_telecommunications,199535
+2024-05-01,Australia,manufacturing,897706
+2024-05-01,Australia,mining,285628
+2024-05-01,Australia,other_services,519549
+2024-05-01,Australia,professional_scientific_and_technical_services,1314150
+2024-05-01,Australia,public_administration_and_safety,939638
+2024-05-01,Australia,rental_hiring_and_real_estate_services,234210
+2024-05-01,Australia,retail_trade,1283004
+2024-05-01,Australia,total,14384698
+2024-05-01,Australia,transport_postal_and_warehousing,735481
+2024-05-01,Australia,wholesale_trade,385986
+2024-08-01,Australia,accommodation_and_food_services,959306
+2024-08-01,Australia,administrative_and_support_services,440188
+2024-08-01,Australia,agriculture_forestry_and_fishing,323545
+2024-08-01,Australia,arts_and_recreation_services,269490
+2024-08-01,Australia,construction,1295719
+2024-08-01,Australia,education_and_training,1261083
+2024-08-01,Australia,electricity_gas_water_and_waste_services,207154
+2024-08-01,Australia,financial_and_insurance_services,522124
+2024-08-01,Australia,health_care_and_social_assistance,2240979
+2024-08-01,Australia,information_media_and_telecommunications,183253
+2024-08-01,Australia,manufacturing,875426
+2024-08-01,Australia,mining,293308
+2024-08-01,Australia,other_services,517265
+2024-08-01,Australia,professional_scientific_and_technical_services,1297484
+2024-08-01,Australia,public_administration_and_safety,974920
+2024-08-01,Australia,rental_hiring_and_real_estate_services,255349
+2024-08-01,Australia,retail_trade,1329245
+2024-08-01,Australia,total,14332275
+2024-08-01,Australia,transport_postal_and_warehousing,702233
+2024-08-01,Australia,wholesale_trade,384205
+2024-11-01,Australia,accommodation_and_food_services,970965
+2024-11-01,Australia,administrative_and_support_services,435169
+2024-11-01,Australia,agriculture_forestry_and_fishing,303301
+2024-11-01,Australia,arts_and_recreation_services,257745
+2024-11-01,Australia,construction,1367003
+2024-11-01,Australia,education_and_training,1301428
+2024-11-01,Australia,electricity_gas_water_and_waste_services,196614
+2024-11-01,Australia,financial_and_insurance_services,543685
+2024-11-01,Australia,health_care_and_social_assistance,2250539
+2024-11-01,Australia,information_media_and_telecommunications,183353
+2024-11-01,Australia,manufacturing,882030
+2024-11-01,Australia,mining,310663
+2024-11-01,Australia,other_services,560671
+2024-11-01,Australia,professional_scientific_and_technical_services,1299712
+2024-11-01,Australia,public_administration_and_safety,959916
+2024-11-01,Australia,rental_hiring_and_real_estate_services,251974
+2024-11-01,Australia,retail_trade,1359715
+2024-11-01,Australia,total,14539010
+2024-11-01,Australia,transport_postal_and_warehousing,759890
+2024-11-01,Australia,wholesale_trade,344636
+2025-02-01,Australia,accommodation_and_food_services,961001
+2025-02-01,Australia,administrative_and_support_services,431498
+2025-02-01,Australia,agriculture_forestry_and_fishing,299711
+2025-02-01,Australia,arts_and_recreation_services,282134
+2025-02-01,Australia,construction,1379751
+2025-02-01,Australia,education_and_training,1237112
+2025-02-01,Australia,electricity_gas_water_and_waste_services,190512
+2025-02-01,Australia,financial_and_insurance_services,554315
+2025-02-01,Australia,health_care_and_social_assistance,2323209
+2025-02-01,Australia,information_media_and_telecommunications,195059
+2025-02-01,Australia,manufacturing,882978
+2025-02-01,Australia,mining,327455
+2025-02-01,Australia,other_services,550087
+2025-02-01,Australia,professional_scientific_and_technical_services,1276603
+2025-02-01,Australia,public_administration_and_safety,983536
+2025-02-01,Australia,rental_hiring_and_real_estate_services,244814
+2025-02-01,Australia,retail_trade,1351159
+2025-02-01,Australia,total,14545111
+2025-02-01,Australia,transport_postal_and_warehousing,735769
+2025-02-01,Australia,wholesale_trade,338409
+2025-05-01,Australia,accommodation_and_food_services,944587
+2025-05-01,Australia,administrative_and_support_services,423200
+2025-05-01,Australia,agriculture_forestry_and_fishing,304364
+2025-05-01,Australia,arts_and_recreation_services,270293
+2025-05-01,Australia,construction,1322627
+2025-05-01,Australia,education_and_training,1271255
+2025-05-01,Australia,electricity_gas_water_and_waste_services,206645
+2025-05-01,Australia,financial_and_insurance_services,582784
+2025-05-01,Australia,health_care_and_social_assistance,2406999
+2025-05-01,Australia,information_media_and_telecommunications,181638
+2025-05-01,Australia,manufacturing,863623
+2025-05-01,Australia,mining,317483
+2025-05-01,Australia,other_services,538269
+2025-05-01,Australia,professional_scientific_and_technical_services,1381967
+2025-05-01,Australia,public_administration_and_safety,988703
+2025-05-01,Australia,rental_hiring_and_real_estate_services,240736
+2025-05-01,Australia,retail_trade,1342683
+2025-05-01,Australia,total,14701975
+2025-05-01,Australia,transport_postal_and_warehousing,763902
+2025-05-01,Australia,wholesale_trade,350217
+2025-08-01,Australia,accommodation_and_food_services,950351
+2025-08-01,Australia,administrative_and_support_services,433003
+2025-08-01,Australia,agriculture_forestry_and_fishing,297457
+2025-08-01,Australia,arts_and_recreation_services,258228
+2025-08-01,Australia,construction,1323380
+2025-08-01,Australia,education_and_training,1316589
+2025-08-01,Australia,electricity_gas_water_and_waste_services,216923
+2025-08-01,Australia,financial_and_insurance_services,535747
+2025-08-01,Australia,health_care_and_social_assistance,2360821
+2025-08-01,Australia,information_media_and_telecommunications,185209
+2025-08-01,Australia,manufacturing,844743
+2025-08-01,Australia,mining,282235
+2025-08-01,Australia,other_services,563082
+2025-08-01,Australia,professional_scientific_and_technical_services,1379433
+2025-08-01,Australia,public_administration_and_safety,996321
+2025-08-01,Australia,rental_hiring_and_real_estate_services,222416
+2025-08-01,Australia,retail_trade,1315720
+2025-08-01,Australia,total,14543323
+2025-08-01,Australia,transport_postal_and_warehousing,725838
+2025-08-01,Australia,wholesale_trade,335825
+2025-11-01,Australia,accommodation_and_food_services,990832
+2025-11-01,Australia,administrative_and_support_services,444055
+2025-11-01,Australia,agriculture_forestry_and_fishing,270106
+2025-11-01,Australia,arts_and_recreation_services,250841
+2025-11-01,Australia,construction,1364445
+2025-11-01,Australia,education_and_training,1355377
+2025-11-01,Australia,electricity_gas_water_and_waste_services,229582
+2025-11-01,Australia,financial_and_insurance_services,541599
+2025-11-01,Australia,health_care_and_social_assistance,2361552
+2025-11-01,Australia,information_media_and_telecommunications,185878
+2025-11-01,Australia,manufacturing,873311
+2025-11-01,Australia,mining,287522
+2025-11-01,Australia,other_services,584039
+2025-11-01,Australia,professional_scientific_and_technical_services,1368385
+2025-11-01,Australia,public_administration_and_safety,981728
+2025-11-01,Australia,rental_hiring_and_real_estate_services,228802
+2025-11-01,Australia,retail_trade,1353914
+2025-11-01,Australia,total,14724341
+2025-11-01,Australia,transport_postal_and_warehousing,730734
+2025-11-01,Australia,wholesale_trade,321640
+2019-02-01,New South Wales,accommodation_and_food_services,306531
+2019-02-01,New South Wales,administrative_and_support_services,138076
+2019-02-01,New South Wales,agriculture_forestry_and_fishing,94461
+2019-02-01,New South Wales,arts_and_recreation_services,77948
+2019-02-01,New South Wales,construction,352770
+2019-02-01,New South Wales,education_and_training,291769
+2019-02-01,New South Wales,electricity_gas_water_and_waste_services,33127
+2019-02-01,New South Wales,financial_and_insurance_services,192913
+2019-02-01,New South Wales,health_care_and_social_assistance,516856
+2019-02-01,New South Wales,information_media_and_telecommunications,76191
+2019-02-01,New South Wales,manufacturing,249263
+2019-02-01,New South Wales,mining,34153
+2019-02-01,New South Wales,other_services,170777
+2019-02-01,New South Wales,professional_scientific_and_technical_services,418140
+2019-02-01,New South Wales,public_administration_and_safety,266948
+2019-02-01,New South Wales,rental_hiring_and_real_estate_services,69380
+2019-02-01,New South Wales,retail_trade,404226
+2019-02-01,New South Wales,total,4056726
+2019-02-01,New South Wales,transport_postal_and_warehousing,235534
+2019-02-01,New South Wales,wholesale_trade,127664
+2019-05-01,New South Wales,accommodation_and_food_services,323044
+2019-05-01,New South Wales,administrative_and_support_services,139402
+2019-05-01,New South Wales,agriculture_forestry_and_fishing,89234
+2019-05-01,New South Wales,arts_and_recreation_services,70874
+2019-05-01,New South Wales,construction,364791
+2019-05-01,New South Wales,education_and_training,314786
+2019-05-01,New South Wales,electricity_gas_water_and_waste_services,40642
+2019-05-01,New South Wales,financial_and_insurance_services,183741
+2019-05-01,New South Wales,health_care_and_social_assistance,535424
+2019-05-01,New South Wales,information_media_and_telecommunications,75343
+2019-05-01,New South Wales,manufacturing,274356
+2019-05-01,New South Wales,mining,35948
+2019-05-01,New South Wales,other_services,172129
+2019-05-01,New South Wales,professional_scientific_and_technical_services,401391
+2019-05-01,New South Wales,public_administration_and_safety,246785
+2019-05-01,New South Wales,rental_hiring_and_real_estate_services,69183
+2019-05-01,New South Wales,retail_trade,411814
+2019-05-01,New South Wales,total,4108055
+2019-05-01,New South Wales,transport_postal_and_warehousing,225654
+2019-05-01,New South Wales,wholesale_trade,133515
+2019-08-01,New South Wales,accommodation_and_food_services,313215
+2019-08-01,New South Wales,administrative_and_support_services,156061
+2019-08-01,New South Wales,agriculture_forestry_and_fishing,90867
+2019-08-01,New South Wales,arts_and_recreation_services,73803
+2019-08-01,New South Wales,construction,360537
+2019-08-01,New South Wales,education_and_training,328121
+2019-08-01,New South Wales,electricity_gas_water_and_waste_services,44278
+2019-08-01,New South Wales,financial_and_insurance_services,193570
+2019-08-01,New South Wales,health_care_and_social_assistance,562641
+2019-08-01,New South Wales,information_media_and_telecommunications,75931
+2019-08-01,New South Wales,manufacturing,246296
+2019-08-01,New South Wales,mining,32324
+2019-08-01,New South Wales,other_services,158864
+2019-08-01,New South Wales,professional_scientific_and_technical_services,403419
+2019-08-01,New South Wales,public_administration_and_safety,235262
+2019-08-01,New South Wales,rental_hiring_and_real_estate_services,60542
+2019-08-01,New South Wales,retail_trade,388910
+2019-08-01,New South Wales,total,4082799
+2019-08-01,New South Wales,transport_postal_and_warehousing,227270
+2019-08-01,New South Wales,wholesale_trade,130889
+2019-11-01,New South Wales,accommodation_and_food_services,299161
+2019-11-01,New South Wales,administrative_and_support_services,131919
+2019-11-01,New South Wales,agriculture_forestry_and_fishing,81532
+2019-11-01,New South Wales,arts_and_recreation_services,70019
+2019-11-01,New South Wales,construction,357693
+2019-11-01,New South Wales,education_and_training,330227
+2019-11-01,New South Wales,electricity_gas_water_and_waste_services,34384
+2019-11-01,New South Wales,financial_and_insurance_services,205718
+2019-11-01,New South Wales,health_care_and_social_assistance,563237
+2019-11-01,New South Wales,information_media_and_telecommunications,77501
+2019-11-01,New South Wales,manufacturing,265875
+2019-11-01,New South Wales,mining,36556
+2019-11-01,New South Wales,other_services,152545
+2019-11-01,New South Wales,professional_scientific_and_technical_services,409973
+2019-11-01,New South Wales,public_administration_and_safety,245552
+2019-11-01,New South Wales,rental_hiring_and_real_estate_services,61671
+2019-11-01,New South Wales,retail_trade,403438
+2019-11-01,New South Wales,total,4068477
+2019-11-01,New South Wales,transport_postal_and_warehousing,206146
+2019-11-01,New South Wales,wholesale_trade,135330
+2020-02-01,New South Wales,accommodation_and_food_services,283394
+2020-02-01,New South Wales,administrative_and_support_services,137657
+2020-02-01,New South Wales,agriculture_forestry_and_fishing,75005
+2020-02-01,New South Wales,arts_and_recreation_services,73634
+2020-02-01,New South Wales,construction,371755
+2020-02-01,New South Wales,education_and_training,319379
+2020-02-01,New South Wales,electricity_gas_water_and_waste_services,30971
+2020-02-01,New South Wales,financial_and_insurance_services,209188
+2020-02-01,New South Wales,health_care_and_social_assistance,574410
+2020-02-01,New South Wales,information_media_and_telecommunications,88221
+2020-02-01,New South Wales,manufacturing,279873
+2020-02-01,New South Wales,mining,34215
+2020-02-01,New South Wales,other_services,143166
+2020-02-01,New South Wales,professional_scientific_and_technical_services,416171
+2020-02-01,New South Wales,public_administration_and_safety,228355
+2020-02-01,New South Wales,rental_hiring_and_real_estate_services,60830
+2020-02-01,New South Wales,retail_trade,412777
+2020-02-01,New South Wales,total,4079057
+2020-02-01,New South Wales,transport_postal_and_warehousing,220435
+2020-02-01,New South Wales,wholesale_trade,119622
+2020-05-01,New South Wales,accommodation_and_food_services,204570
+2020-05-01,New South Wales,administrative_and_support_services,125411
+2020-05-01,New South Wales,agriculture_forestry_and_fishing,88514
+2020-05-01,New South Wales,arts_and_recreation_services,39359
+2020-05-01,New South Wales,construction,394944
+2020-05-01,New South Wales,education_and_training,315142
+2020-05-01,New South Wales,electricity_gas_water_and_waste_services,44092
+2020-05-01,New South Wales,financial_and_insurance_services,215563
+2020-05-01,New South Wales,health_care_and_social_assistance,526235
+2020-05-01,New South Wales,information_media_and_telecommunications,80209
+2020-05-01,New South Wales,manufacturing,229496
+2020-05-01,New South Wales,mining,37856
+2020-05-01,New South Wales,other_services,130297
+2020-05-01,New South Wales,professional_scientific_and_technical_services,380415
+2020-05-01,New South Wales,public_administration_and_safety,237087
+2020-05-01,New South Wales,rental_hiring_and_real_estate_services,65244
+2020-05-01,New South Wales,retail_trade,391496
+2020-05-01,New South Wales,total,3819258
+2020-05-01,New South Wales,transport_postal_and_warehousing,183261
+2020-05-01,New South Wales,wholesale_trade,130067
+2020-08-01,New South Wales,accommodation_and_food_services,261975
+2020-08-01,New South Wales,administrative_and_support_services,135672
+2020-08-01,New South Wales,agriculture_forestry_and_fishing,86246
+2020-08-01,New South Wales,arts_and_recreation_services,62353
+2020-08-01,New South Wales,construction,388845
+2020-08-01,New South Wales,education_and_training,337050
+2020-08-01,New South Wales,electricity_gas_water_and_waste_services,47072
+2020-08-01,New South Wales,financial_and_insurance_services,200378
+2020-08-01,New South Wales,health_care_and_social_assistance,531591
+2020-08-01,New South Wales,information_media_and_telecommunications,75767
+2020-08-01,New South Wales,manufacturing,246781
+2020-08-01,New South Wales,mining,36973
+2020-08-01,New South Wales,other_services,127376
+2020-08-01,New South Wales,professional_scientific_and_technical_services,395194
+2020-08-01,New South Wales,public_administration_and_safety,246818
+2020-08-01,New South Wales,rental_hiring_and_real_estate_services,65411
+2020-08-01,New South Wales,retail_trade,389831
+2020-08-01,New South Wales,total,3964187
+2020-08-01,New South Wales,transport_postal_and_warehousing,197318
+2020-08-01,New South Wales,wholesale_trade,131538
+2020-11-01,New South Wales,accommodation_and_food_services,270774
+2020-11-01,New South Wales,administrative_and_support_services,151752
+2020-11-01,New South Wales,agriculture_forestry_and_fishing,89299
+2020-11-01,New South Wales,arts_and_recreation_services,71764
+2020-11-01,New South Wales,construction,392846
+2020-11-01,New South Wales,education_and_training,352889
+2020-11-01,New South Wales,electricity_gas_water_and_waste_services,50912
+2020-11-01,New South Wales,financial_and_insurance_services,193316
+2020-11-01,New South Wales,health_care_and_social_assistance,512736
+2020-11-01,New South Wales,information_media_and_telecommunications,76159
+2020-11-01,New South Wales,manufacturing,237253
+2020-11-01,New South Wales,mining,39772
+2020-11-01,New South Wales,other_services,146869
+2020-11-01,New South Wales,professional_scientific_and_technical_services,421100
+2020-11-01,New South Wales,public_administration_and_safety,255146
+2020-11-01,New South Wales,rental_hiring_and_real_estate_services,62261
+2020-11-01,New South Wales,retail_trade,405836
+2020-11-01,New South Wales,total,4034679
+2020-11-01,New South Wales,transport_postal_and_warehousing,195911
+2020-11-01,New South Wales,wholesale_trade,108084
+2021-02-01,New South Wales,accommodation_and_food_services,268383
+2021-02-01,New South Wales,administrative_and_support_services,133985
+2021-02-01,New South Wales,agriculture_forestry_and_fishing,93659
+2021-02-01,New South Wales,arts_and_recreation_services,79630
+2021-02-01,New South Wales,construction,362920
+2021-02-01,New South Wales,education_and_training,334379
+2021-02-01,New South Wales,electricity_gas_water_and_waste_services,40812
+2021-02-01,New South Wales,financial_and_insurance_services,191111
+2021-02-01,New South Wales,health_care_and_social_assistance,526991
+2021-02-01,New South Wales,information_media_and_telecommunications,79253
+2021-02-01,New South Wales,manufacturing,269352
+2021-02-01,New South Wales,mining,35787
+2021-02-01,New South Wales,other_services,165752
+2021-02-01,New South Wales,professional_scientific_and_technical_services,438400
+2021-02-01,New South Wales,public_administration_and_safety,250592
+2021-02-01,New South Wales,rental_hiring_and_real_estate_services,67199
+2021-02-01,New South Wales,retail_trade,403944
+2021-02-01,New South Wales,total,4063307
+2021-02-01,New South Wales,transport_postal_and_warehousing,217520
+2021-02-01,New South Wales,wholesale_trade,103637
+2021-05-01,New South Wales,accommodation_and_food_services,256924
+2021-05-01,New South Wales,administrative_and_support_services,127142
+2021-05-01,New South Wales,agriculture_forestry_and_fishing,81987
+2021-05-01,New South Wales,arts_and_recreation_services,77869
+2021-05-01,New South Wales,construction,346901
+2021-05-01,New South Wales,education_and_training,377898
+2021-05-01,New South Wales,electricity_gas_water_and_waste_services,41622
+2021-05-01,New South Wales,financial_and_insurance_services,202091
+2021-05-01,New South Wales,health_care_and_social_assistance,562006
+2021-05-01,New South Wales,information_media_and_telecommunications,71522
+2021-05-01,New South Wales,manufacturing,267458
+2021-05-01,New South Wales,mining,39442
+2021-05-01,New South Wales,other_services,171851
+2021-05-01,New South Wales,professional_scientific_and_technical_services,437752
+2021-05-01,New South Wales,public_administration_and_safety,260785
+2021-05-01,New South Wales,rental_hiring_and_real_estate_services,67715
+2021-05-01,New South Wales,retail_trade,391758
+2021-05-01,New South Wales,total,4120835
+2021-05-01,New South Wales,transport_postal_and_warehousing,215822
+2021-05-01,New South Wales,wholesale_trade,122288
+2021-08-01,New South Wales,accommodation_and_food_services,194277
+2021-08-01,New South Wales,administrative_and_support_services,135290
+2021-08-01,New South Wales,agriculture_forestry_and_fishing,82691
+2021-08-01,New South Wales,arts_and_recreation_services,58035
+2021-08-01,New South Wales,construction,303540
+2021-08-01,New South Wales,education_and_training,353350
+2021-08-01,New South Wales,electricity_gas_water_and_waste_services,36194
+2021-08-01,New South Wales,financial_and_insurance_services,220345
+2021-08-01,New South Wales,health_care_and_social_assistance,561229
+2021-08-01,New South Wales,information_media_and_telecommunications,69076
+2021-08-01,New South Wales,manufacturing,273732
+2021-08-01,New South Wales,mining,34107
+2021-08-01,New South Wales,other_services,160557
+2021-08-01,New South Wales,professional_scientific_and_technical_services,415818
+2021-08-01,New South Wales,public_administration_and_safety,252002
+2021-08-01,New South Wales,rental_hiring_and_real_estate_services,75050
+2021-08-01,New South Wales,retail_trade,342811
+2021-08-01,New South Wales,total,3884700
+2021-08-01,New South Wales,transport_postal_and_warehousing,211869
+2021-08-01,New South Wales,wholesale_trade,104728
+2021-11-01,New South Wales,accommodation_and_food_services,248938
+2021-11-01,New South Wales,administrative_and_support_services,145233
+2021-11-01,New South Wales,agriculture_forestry_and_fishing,95109
+2021-11-01,New South Wales,arts_and_recreation_services,75955
+2021-11-01,New South Wales,construction,338391
+2021-11-01,New South Wales,education_and_training,359179
+2021-11-01,New South Wales,electricity_gas_water_and_waste_services,42087
+2021-11-01,New South Wales,financial_and_insurance_services,239533
+2021-11-01,New South Wales,health_care_and_social_assistance,564858
+2021-11-01,New South Wales,information_media_and_telecommunications,63181
+2021-11-01,New South Wales,manufacturing,232403
+2021-11-01,New South Wales,mining,35677
+2021-11-01,New South Wales,other_services,165674
+2021-11-01,New South Wales,professional_scientific_and_technical_services,414193
+2021-11-01,New South Wales,public_administration_and_safety,266495
+2021-11-01,New South Wales,rental_hiring_and_real_estate_services,71764
+2021-11-01,New South Wales,retail_trade,391965
+2021-11-01,New South Wales,total,4067513
+2021-11-01,New South Wales,transport_postal_and_warehousing,209911
+2021-11-01,New South Wales,wholesale_trade,106966
+2022-02-01,New South Wales,accommodation_and_food_services,274013
+2022-02-01,New South Wales,administrative_and_support_services,136970
+2022-02-01,New South Wales,agriculture_forestry_and_fishing,83719
+2022-02-01,New South Wales,arts_and_recreation_services,73214
+2022-02-01,New South Wales,construction,359244
+2022-02-01,New South Wales,education_and_training,331205
+2022-02-01,New South Wales,electricity_gas_water_and_waste_services,54635
+2022-02-01,New South Wales,financial_and_insurance_services,246216
+2022-02-01,New South Wales,health_care_and_social_assistance,615028
+2022-02-01,New South Wales,information_media_and_telecommunications,77983
+2022-02-01,New South Wales,manufacturing,231940
+2022-02-01,New South Wales,mining,34639
+2022-02-01,New South Wales,other_services,159872
+2022-02-01,New South Wales,professional_scientific_and_technical_services,414840
+2022-02-01,New South Wales,public_administration_and_safety,253552
+2022-02-01,New South Wales,rental_hiring_and_real_estate_services,73436
+2022-02-01,New South Wales,retail_trade,419690
+2022-02-01,New South Wales,total,4156060
+2022-02-01,New South Wales,transport_postal_and_warehousing,220815
+2022-02-01,New South Wales,wholesale_trade,95051
+2022-05-01,New South Wales,accommodation_and_food_services,282268
+2022-05-01,New South Wales,administrative_and_support_services,124549
+2022-05-01,New South Wales,agriculture_forestry_and_fishing,82917
+2022-05-01,New South Wales,arts_and_recreation_services,76598
+2022-05-01,New South Wales,construction,367188
+2022-05-01,New South Wales,education_and_training,337378
+2022-05-01,New South Wales,electricity_gas_water_and_waste_services,49630
+2022-05-01,New South Wales,financial_and_insurance_services,254311
+2022-05-01,New South Wales,health_care_and_social_assistance,587438
+2022-05-01,New South Wales,information_media_and_telecommunications,81840
+2022-05-01,New South Wales,manufacturing,240945
+2022-05-01,New South Wales,mining,34371
+2022-05-01,New South Wales,other_services,174553
+2022-05-01,New South Wales,professional_scientific_and_technical_services,440399
+2022-05-01,New South Wales,public_administration_and_safety,257608
+2022-05-01,New South Wales,rental_hiring_and_real_estate_services,70905
+2022-05-01,New South Wales,retail_trade,426179
+2022-05-01,New South Wales,total,4225918
+2022-05-01,New South Wales,transport_postal_and_warehousing,215005
+2022-05-01,New South Wales,wholesale_trade,121835
+2022-08-01,New South Wales,accommodation_and_food_services,288373
+2022-08-01,New South Wales,administrative_and_support_services,140114
+2022-08-01,New South Wales,agriculture_forestry_and_fishing,76147
+2022-08-01,New South Wales,arts_and_recreation_services,75202
+2022-08-01,New South Wales,construction,386364
+2022-08-01,New South Wales,education_and_training,341625
+2022-08-01,New South Wales,electricity_gas_water_and_waste_services,49874
+2022-08-01,New South Wales,financial_and_insurance_services,213800
+2022-08-01,New South Wales,health_care_and_social_assistance,609434
+2022-08-01,New South Wales,information_media_and_telecommunications,91320
+2022-08-01,New South Wales,manufacturing,236088
+2022-08-01,New South Wales,mining,33633
+2022-08-01,New South Wales,other_services,161641
+2022-08-01,New South Wales,professional_scientific_and_technical_services,440453
+2022-08-01,New South Wales,public_administration_and_safety,237504
+2022-08-01,New South Wales,rental_hiring_and_real_estate_services,75394
+2022-08-01,New South Wales,retail_trade,421950
+2022-08-01,New South Wales,total,4237277
+2022-08-01,New South Wales,transport_postal_and_warehousing,227333
+2022-08-01,New South Wales,wholesale_trade,131028
+2022-11-01,New South Wales,accommodation_and_food_services,309813
+2022-11-01,New South Wales,administrative_and_support_services,144201
+2022-11-01,New South Wales,agriculture_forestry_and_fishing,63349
+2022-11-01,New South Wales,arts_and_recreation_services,73292
+2022-11-01,New South Wales,construction,395865
+2022-11-01,New South Wales,education_and_training,353863
+2022-11-01,New South Wales,electricity_gas_water_and_waste_services,48299
+2022-11-01,New South Wales,financial_and_insurance_services,234938
+2022-11-01,New South Wales,health_care_and_social_assistance,631841
+2022-11-01,New South Wales,information_media_and_telecommunications,83442
+2022-11-01,New South Wales,manufacturing,260345
+2022-11-01,New South Wales,mining,29250
+2022-11-01,New South Wales,other_services,157849
+2022-11-01,New South Wales,professional_scientific_and_technical_services,448522
+2022-11-01,New South Wales,public_administration_and_safety,242184
+2022-11-01,New South Wales,rental_hiring_and_real_estate_services,75720
+2022-11-01,New South Wales,retail_trade,429284
+2022-11-01,New South Wales,total,4342023
+2022-11-01,New South Wales,transport_postal_and_warehousing,262992
+2022-11-01,New South Wales,wholesale_trade,96973
+2023-02-01,New South Wales,accommodation_and_food_services,303762
+2023-02-01,New South Wales,administrative_and_support_services,137529
+2023-02-01,New South Wales,agriculture_forestry_and_fishing,82482
+2023-02-01,New South Wales,arts_and_recreation_services,70756
+2023-02-01,New South Wales,construction,400775
+2023-02-01,New South Wales,education_and_training,344146
+2023-02-01,New South Wales,electricity_gas_water_and_waste_services,46612
+2023-02-01,New South Wales,financial_and_insurance_services,221839
+2023-02-01,New South Wales,health_care_and_social_assistance,635170
+2023-02-01,New South Wales,information_media_and_telecommunications,80122
+2023-02-01,New South Wales,manufacturing,236924
+2023-02-01,New South Wales,mining,37844
+2023-02-01,New South Wales,other_services,167509
+2023-02-01,New South Wales,professional_scientific_and_technical_services,452202
+2023-02-01,New South Wales,public_administration_and_safety,279273
+2023-02-01,New South Wales,rental_hiring_and_real_estate_services,71380
+2023-02-01,New South Wales,retail_trade,450161
+2023-02-01,New South Wales,total,4349189
+2023-02-01,New South Wales,transport_postal_and_warehousing,227284
+2023-02-01,New South Wales,wholesale_trade,103419
+2023-05-01,New South Wales,accommodation_and_food_services,304748
+2023-05-01,New South Wales,administrative_and_support_services,135197
+2023-05-01,New South Wales,agriculture_forestry_and_fishing,78719
+2023-05-01,New South Wales,arts_and_recreation_services,75314
+2023-05-01,New South Wales,construction,426111
+2023-05-01,New South Wales,education_and_training,343125
+2023-05-01,New South Wales,electricity_gas_water_and_waste_services,43161
+2023-05-01,New South Wales,financial_and_insurance_services,237872
+2023-05-01,New South Wales,health_care_and_social_assistance,645425
+2023-05-01,New South Wales,information_media_and_telecommunications,71125
+2023-05-01,New South Wales,manufacturing,250872
+2023-05-01,New South Wales,mining,40531
+2023-05-01,New South Wales,other_services,152885
+2023-05-01,New South Wales,professional_scientific_and_technical_services,457022
+2023-05-01,New South Wales,public_administration_and_safety,281104
+2023-05-01,New South Wales,rental_hiring_and_real_estate_services,68481
+2023-05-01,New South Wales,retail_trade,425236
+2023-05-01,New South Wales,total,4390464
+2023-05-01,New South Wales,transport_postal_and_warehousing,219500
+2023-05-01,New South Wales,wholesale_trade,134036
+2023-08-01,New South Wales,accommodation_and_food_services,293255
+2023-08-01,New South Wales,administrative_and_support_services,139689
+2023-08-01,New South Wales,agriculture_forestry_and_fishing,78506
+2023-08-01,New South Wales,arts_and_recreation_services,73246
+2023-08-01,New South Wales,construction,402147
+2023-08-01,New South Wales,education_and_training,351304
+2023-08-01,New South Wales,electricity_gas_water_and_waste_services,48768
+2023-08-01,New South Wales,financial_and_insurance_services,234238
+2023-08-01,New South Wales,health_care_and_social_assistance,633620
+2023-08-01,New South Wales,information_media_and_telecommunications,66835
+2023-08-01,New South Wales,manufacturing,267746
+2023-08-01,New South Wales,mining,39770
+2023-08-01,New South Wales,other_services,154649
+2023-08-01,New South Wales,professional_scientific_and_technical_services,452318
+2023-08-01,New South Wales,public_administration_and_safety,292093
+2023-08-01,New South Wales,rental_hiring_and_real_estate_services,80040
+2023-08-01,New South Wales,retail_trade,423995
+2023-08-01,New South Wales,total,4371954
+2023-08-01,New South Wales,transport_postal_and_warehousing,221747
+2023-08-01,New South Wales,wholesale_trade,117988
+2023-11-01,New South Wales,accommodation_and_food_services,286866
+2023-11-01,New South Wales,administrative_and_support_services,132665
+2023-11-01,New South Wales,agriculture_forestry_and_fishing,70393
+2023-11-01,New South Wales,arts_and_recreation_services,85841
+2023-11-01,New South Wales,construction,418618
+2023-11-01,New South Wales,education_and_training,377316
+2023-11-01,New South Wales,electricity_gas_water_and_waste_services,38840
+2023-11-01,New South Wales,financial_and_insurance_services,251284
+2023-11-01,New South Wales,health_care_and_social_assistance,669659
+2023-11-01,New South Wales,information_media_and_telecommunications,72369
+2023-11-01,New South Wales,manufacturing,292496
+2023-11-01,New South Wales,mining,44597
+2023-11-01,New South Wales,other_services,161236
+2023-11-01,New South Wales,professional_scientific_and_technical_services,447727
+2023-11-01,New South Wales,public_administration_and_safety,278877
+2023-11-01,New South Wales,rental_hiring_and_real_estate_services,67824
+2023-11-01,New South Wales,retail_trade,399952
+2023-11-01,New South Wales,total,4459350
+2023-11-01,New South Wales,transport_postal_and_warehousing,246964
+2023-11-01,New South Wales,wholesale_trade,115826
+2024-02-01,New South Wales,accommodation_and_food_services,289161
+2024-02-01,New South Wales,administrative_and_support_services,122948
+2024-02-01,New South Wales,agriculture_forestry_and_fishing,74272
+2024-02-01,New South Wales,arts_and_recreation_services,83070
+2024-02-01,New South Wales,construction,407773
+2024-02-01,New South Wales,education_and_training,362056
+2024-02-01,New South Wales,electricity_gas_water_and_waste_services,34055
+2024-02-01,New South Wales,financial_and_insurance_services,245662
+2024-02-01,New South Wales,health_care_and_social_assistance,669383
+2024-02-01,New South Wales,information_media_and_telecommunications,64993
+2024-02-01,New South Wales,manufacturing,286439
+2024-02-01,New South Wales,mining,29309
+2024-02-01,New South Wales,other_services,164248
+2024-02-01,New South Wales,professional_scientific_and_technical_services,463423
+2024-02-01,New South Wales,public_administration_and_safety,270630
+2024-02-01,New South Wales,rental_hiring_and_real_estate_services,72130
+2024-02-01,New South Wales,retail_trade,408551
+2024-02-01,New South Wales,total,4423970
+2024-02-01,New South Wales,transport_postal_and_warehousing,239305
+2024-02-01,New South Wales,wholesale_trade,136561
+2024-05-01,New South Wales,accommodation_and_food_services,291407
+2024-05-01,New South Wales,administrative_and_support_services,124002
+2024-05-01,New South Wales,agriculture_forestry_and_fishing,81744
+2024-05-01,New South Wales,arts_and_recreation_services,94473
+2024-05-01,New South Wales,construction,417373
+2024-05-01,New South Wales,education_and_training,382384
+2024-05-01,New South Wales,electricity_gas_water_and_waste_services,46513
+2024-05-01,New South Wales,financial_and_insurance_services,223702
+2024-05-01,New South Wales,health_care_and_social_assistance,684519
+2024-05-01,New South Wales,information_media_and_telecommunications,75657
+2024-05-01,New South Wales,manufacturing,248347
+2024-05-01,New South Wales,mining,29399
+2024-05-01,New South Wales,other_services,148530
+2024-05-01,New South Wales,professional_scientific_and_technical_services,496007
+2024-05-01,New South Wales,public_administration_and_safety,267873
+2024-05-01,New South Wales,rental_hiring_and_real_estate_services,76385
+2024-05-01,New South Wales,retail_trade,390380
+2024-05-01,New South Wales,total,4442436
+2024-05-01,New South Wales,transport_postal_and_warehousing,242049
+2024-05-01,New South Wales,wholesale_trade,121691
+2024-08-01,New South Wales,accommodation_and_food_services,303659
+2024-08-01,New South Wales,administrative_and_support_services,124714
+2024-08-01,New South Wales,agriculture_forestry_and_fishing,94939
+2024-08-01,New South Wales,arts_and_recreation_services,78278
+2024-08-01,New South Wales,construction,383430
+2024-08-01,New South Wales,education_and_training,397324
+2024-08-01,New South Wales,electricity_gas_water_and_waste_services,45982
+2024-08-01,New South Wales,financial_and_insurance_services,230212
+2024-08-01,New South Wales,health_care_and_social_assistance,683153
+2024-08-01,New South Wales,information_media_and_telecommunications,72377
+2024-08-01,New South Wales,manufacturing,228171
+2024-08-01,New South Wales,mining,34026
+2024-08-01,New South Wales,other_services,146083
+2024-08-01,New South Wales,professional_scientific_and_technical_services,452856
+2024-08-01,New South Wales,public_administration_and_safety,290735
+2024-08-01,New South Wales,rental_hiring_and_real_estate_services,89477
+2024-08-01,New South Wales,retail_trade,413135
+2024-08-01,New South Wales,total,4426154
+2024-08-01,New South Wales,transport_postal_and_warehousing,236362
+2024-08-01,New South Wales,wholesale_trade,121243
+2024-11-01,New South Wales,accommodation_and_food_services,313323
+2024-11-01,New South Wales,administrative_and_support_services,123597
+2024-11-01,New South Wales,agriculture_forestry_and_fishing,88362
+2024-11-01,New South Wales,arts_and_recreation_services,81106
+2024-11-01,New South Wales,construction,411998
+2024-11-01,New South Wales,education_and_training,401556
+2024-11-01,New South Wales,electricity_gas_water_and_waste_services,44957
+2024-11-01,New South Wales,financial_and_insurance_services,243411
+2024-11-01,New South Wales,health_care_and_social_assistance,684107
+2024-11-01,New South Wales,information_media_and_telecommunications,71057
+2024-11-01,New South Wales,manufacturing,250455
+2024-11-01,New South Wales,mining,30411
+2024-11-01,New South Wales,other_services,170772
+2024-11-01,New South Wales,professional_scientific_and_technical_services,439597
+2024-11-01,New South Wales,public_administration_and_safety,276776
+2024-11-01,New South Wales,rental_hiring_and_real_estate_services,89873
+2024-11-01,New South Wales,retail_trade,414168
+2024-11-01,New South Wales,total,4485119
+2024-11-01,New South Wales,transport_postal_and_warehousing,235625
+2024-11-01,New South Wales,wholesale_trade,113968
+2025-02-01,New South Wales,accommodation_and_food_services,312039
+2025-02-01,New South Wales,administrative_and_support_services,134710
+2025-02-01,New South Wales,agriculture_forestry_and_fishing,72311
+2025-02-01,New South Wales,arts_and_recreation_services,81115
+2025-02-01,New South Wales,construction,449057
+2025-02-01,New South Wales,education_and_training,379025
+2025-02-01,New South Wales,electricity_gas_water_and_waste_services,42365
+2025-02-01,New South Wales,financial_and_insurance_services,241745
+2025-02-01,New South Wales,health_care_and_social_assistance,712247
+2025-02-01,New South Wales,information_media_and_telecommunications,74500
+2025-02-01,New South Wales,manufacturing,257277
+2025-02-01,New South Wales,mining,35601
+2025-02-01,New South Wales,other_services,163563
+2025-02-01,New South Wales,professional_scientific_and_technical_services,413811
+2025-02-01,New South Wales,public_administration_and_safety,259582
+2025-02-01,New South Wales,rental_hiring_and_real_estate_services,89998
+2025-02-01,New South Wales,retail_trade,411418
+2025-02-01,New South Wales,total,4477237
+2025-02-01,New South Wales,transport_postal_and_warehousing,240103
+2025-02-01,New South Wales,wholesale_trade,106771
+2025-05-01,New South Wales,accommodation_and_food_services,275606
+2025-05-01,New South Wales,administrative_and_support_services,118831
+2025-05-01,New South Wales,agriculture_forestry_and_fishing,69480
+2025-05-01,New South Wales,arts_and_recreation_services,73695
+2025-05-01,New South Wales,construction,403939
+2025-05-01,New South Wales,education_and_training,399617
+2025-05-01,New South Wales,electricity_gas_water_and_waste_services,42146
+2025-05-01,New South Wales,financial_and_insurance_services,270862
+2025-05-01,New South Wales,health_care_and_social_assistance,717868
+2025-05-01,New South Wales,information_media_and_telecommunications,67663
+2025-05-01,New South Wales,manufacturing,251362
+2025-05-01,New South Wales,mining,34358
+2025-05-01,New South Wales,other_services,150001
+2025-05-01,New South Wales,professional_scientific_and_technical_services,472621
+2025-05-01,New South Wales,public_administration_and_safety,289019
+2025-05-01,New South Wales,rental_hiring_and_real_estate_services,91307
+2025-05-01,New South Wales,retail_trade,415780
+2025-05-01,New South Wales,total,4513392
+2025-05-01,New South Wales,transport_postal_and_warehousing,243397
+2025-05-01,New South Wales,wholesale_trade,125841
+2025-08-01,New South Wales,accommodation_and_food_services,275435
+2025-08-01,New South Wales,administrative_and_support_services,121393
+2025-08-01,New South Wales,agriculture_forestry_and_fishing,72144
+2025-08-01,New South Wales,arts_and_recreation_services,82321
+2025-08-01,New South Wales,construction,425197
+2025-08-01,New South Wales,education_and_training,423521
+2025-08-01,New South Wales,electricity_gas_water_and_waste_services,50658
+2025-08-01,New South Wales,financial_and_insurance_services,230911
+2025-08-01,New South Wales,health_care_and_social_assistance,682481
+2025-08-01,New South Wales,information_media_and_telecommunications,71946
+2025-08-01,New South Wales,manufacturing,243832
+2025-08-01,New South Wales,mining,38451
+2025-08-01,New South Wales,other_services,175454
+2025-08-01,New South Wales,professional_scientific_and_technical_services,477028
+2025-08-01,New South Wales,public_administration_and_safety,288943
+2025-08-01,New South Wales,rental_hiring_and_real_estate_services,63925
+2025-08-01,New South Wales,retail_trade,397558
+2025-08-01,New South Wales,total,4445596
+2025-08-01,New South Wales,transport_postal_and_warehousing,217309
+2025-08-01,New South Wales,wholesale_trade,107089
+2025-11-01,New South Wales,accommodation_and_food_services,296146
+2025-11-01,New South Wales,administrative_and_support_services,136640
+2025-11-01,New South Wales,agriculture_forestry_and_fishing,59019
+2025-11-01,New South Wales,arts_and_recreation_services,85032
+2025-11-01,New South Wales,construction,421625
+2025-11-01,New South Wales,education_and_training,429087
+2025-11-01,New South Wales,electricity_gas_water_and_waste_services,60397
+2025-11-01,New South Wales,financial_and_insurance_services,247035
+2025-11-01,New South Wales,health_care_and_social_assistance,657891
+2025-11-01,New South Wales,information_media_and_telecommunications,78747
+2025-11-01,New South Wales,manufacturing,251121
+2025-11-01,New South Wales,mining,34877
+2025-11-01,New South Wales,other_services,180777
+2025-11-01,New South Wales,professional_scientific_and_technical_services,463492
+2025-11-01,New South Wales,public_administration_and_safety,288931
+2025-11-01,New South Wales,rental_hiring_and_real_estate_services,73445
+2025-11-01,New South Wales,retail_trade,439779
+2025-11-01,New South Wales,total,4518056
+2025-11-01,New South Wales,transport_postal_and_warehousing,228893
+2025-11-01,New South Wales,wholesale_trade,85122
+2019-02-01,Queensland,accommodation_and_food_services,186994
+2019-02-01,Queensland,administrative_and_support_services,79902
+2019-02-01,Queensland,agriculture_forestry_and_fishing,75208
+2019-02-01,Queensland,arts_and_recreation_services,43400
+2019-02-01,Queensland,construction,249689
+2019-02-01,Queensland,education_and_training,217480
+2019-02-01,Queensland,electricity_gas_water_and_waste_services,30629
+2019-02-01,Queensland,financial_and_insurance_services,68358
+2019-02-01,Queensland,health_care_and_social_assistance,379000
+2019-02-01,Queensland,information_media_and_telecommunications,39620
+2019-02-01,Queensland,manufacturing,149695
+2019-02-01,Queensland,mining,71102
+2019-02-01,Queensland,other_services,106924
+2019-02-01,Queensland,professional_scientific_and_technical_services,169767
+2019-02-01,Queensland,public_administration_and_safety,160893
+2019-02-01,Queensland,rental_hiring_and_real_estate_services,42330
+2019-02-01,Queensland,retail_trade,250310
+2019-02-01,Queensland,total,2523520
+2019-02-01,Queensland,transport_postal_and_warehousing,129302
+2019-02-01,Queensland,wholesale_trade,72919
+2019-05-01,Queensland,accommodation_and_food_services,194189
+2019-05-01,Queensland,administrative_and_support_services,92530
+2019-05-01,Queensland,agriculture_forestry_and_fishing,74235
+2019-05-01,Queensland,arts_and_recreation_services,48673
+2019-05-01,Queensland,construction,238624
+2019-05-01,Queensland,education_and_training,215162
+2019-05-01,Queensland,electricity_gas_water_and_waste_services,25338
+2019-05-01,Queensland,financial_and_insurance_services,65669
+2019-05-01,Queensland,health_care_and_social_assistance,357652
+2019-05-01,Queensland,information_media_and_telecommunications,33287
+2019-05-01,Queensland,manufacturing,169047
+2019-05-01,Queensland,mining,76069
+2019-05-01,Queensland,other_services,107443
+2019-05-01,Queensland,professional_scientific_and_technical_services,172886
+2019-05-01,Queensland,public_administration_and_safety,170548
+2019-05-01,Queensland,rental_hiring_and_real_estate_services,38860
+2019-05-01,Queensland,retail_trade,247614
+2019-05-01,Queensland,total,2532346
+2019-05-01,Queensland,transport_postal_and_warehousing,134120
+2019-05-01,Queensland,wholesale_trade,70402
+2019-08-01,Queensland,accommodation_and_food_services,187746
+2019-08-01,Queensland,administrative_and_support_services,97296
+2019-08-01,Queensland,agriculture_forestry_and_fishing,68613
+2019-08-01,Queensland,arts_and_recreation_services,46839
+2019-08-01,Queensland,construction,248997
+2019-08-01,Queensland,education_and_training,214350
+2019-08-01,Queensland,electricity_gas_water_and_waste_services,33364
+2019-08-01,Queensland,financial_and_insurance_services,55284
+2019-08-01,Queensland,health_care_and_social_assistance,362927
+2019-08-01,Queensland,information_media_and_telecommunications,34619
+2019-08-01,Queensland,manufacturing,165195
+2019-08-01,Queensland,mining,65645
+2019-08-01,Queensland,other_services,117608
+2019-08-01,Queensland,professional_scientific_and_technical_services,177776
+2019-08-01,Queensland,public_administration_and_safety,149939
+2019-08-01,Queensland,rental_hiring_and_real_estate_services,52028
+2019-08-01,Queensland,retail_trade,231083
+2019-08-01,Queensland,total,2525451
+2019-08-01,Queensland,transport_postal_and_warehousing,135492
+2019-08-01,Queensland,wholesale_trade,80649
+2019-11-01,Queensland,accommodation_and_food_services,214987
+2019-11-01,Queensland,administrative_and_support_services,87826
+2019-11-01,Queensland,agriculture_forestry_and_fishing,68095
+2019-11-01,Queensland,arts_and_recreation_services,56596
+2019-11-01,Queensland,construction,248951
+2019-11-01,Queensland,education_and_training,208270
+2019-11-01,Queensland,electricity_gas_water_and_waste_services,34185
+2019-11-01,Queensland,financial_and_insurance_services,60860
+2019-11-01,Queensland,health_care_and_social_assistance,357222
+2019-11-01,Queensland,information_media_and_telecommunications,25318
+2019-11-01,Queensland,manufacturing,166918
+2019-11-01,Queensland,mining,70895
+2019-11-01,Queensland,other_services,108986
+2019-11-01,Queensland,professional_scientific_and_technical_services,193148
+2019-11-01,Queensland,public_administration_and_safety,160439
+2019-11-01,Queensland,rental_hiring_and_real_estate_services,57244
+2019-11-01,Queensland,retail_trade,249918
+2019-11-01,Queensland,total,2568384
+2019-11-01,Queensland,transport_postal_and_warehousing,135895
+2019-11-01,Queensland,wholesale_trade,62630
+2020-02-01,Queensland,accommodation_and_food_services,207983
+2020-02-01,Queensland,administrative_and_support_services,92139
+2020-02-01,Queensland,agriculture_forestry_and_fishing,70643
+2020-02-01,Queensland,arts_and_recreation_services,50212
+2020-02-01,Queensland,construction,252426
+2020-02-01,Queensland,education_and_training,228883
+2020-02-01,Queensland,electricity_gas_water_and_waste_services,27762
+2020-02-01,Queensland,financial_and_insurance_services,60213
+2020-02-01,Queensland,health_care_and_social_assistance,353373
+2020-02-01,Queensland,information_media_and_telecommunications,28046
+2020-02-01,Queensland,manufacturing,160218
+2020-02-01,Queensland,mining,70438
+2020-02-01,Queensland,other_services,103974
+2020-02-01,Queensland,professional_scientific_and_technical_services,204705
+2020-02-01,Queensland,public_administration_and_safety,161686
+2020-02-01,Queensland,rental_hiring_and_real_estate_services,54123
+2020-02-01,Queensland,retail_trade,237712
+2020-02-01,Queensland,total,2575180
+2020-02-01,Queensland,transport_postal_and_warehousing,134494
+2020-02-01,Queensland,wholesale_trade,76151
+2020-05-01,Queensland,accommodation_and_food_services,146901
+2020-05-01,Queensland,administrative_and_support_services,75027
+2020-05-01,Queensland,agriculture_forestry_and_fishing,76324
+2020-05-01,Queensland,arts_and_recreation_services,26134
+2020-05-01,Queensland,construction,230787
+2020-05-01,Queensland,education_and_training,218399
+2020-05-01,Queensland,electricity_gas_water_and_waste_services,31853
+2020-05-01,Queensland,financial_and_insurance_services,62992
+2020-05-01,Queensland,health_care_and_social_assistance,344579
+2020-05-01,Queensland,information_media_and_telecommunications,26468
+2020-05-01,Queensland,manufacturing,166333
+2020-05-01,Queensland,mining,73294
+2020-05-01,Queensland,other_services,91822
+2020-05-01,Queensland,professional_scientific_and_technical_services,190642
+2020-05-01,Queensland,public_administration_and_safety,164099
+2020-05-01,Queensland,rental_hiring_and_real_estate_services,46039
+2020-05-01,Queensland,retail_trade,205816
+2020-05-01,Queensland,total,2353481
+2020-05-01,Queensland,transport_postal_and_warehousing,108678
+2020-05-01,Queensland,wholesale_trade,67294
+2020-08-01,Queensland,accommodation_and_food_services,168874
+2020-08-01,Queensland,administrative_and_support_services,73545
+2020-08-01,Queensland,agriculture_forestry_and_fishing,90261
+2020-08-01,Queensland,arts_and_recreation_services,40783
+2020-08-01,Queensland,construction,223886
+2020-08-01,Queensland,education_and_training,230812
+2020-08-01,Queensland,electricity_gas_water_and_waste_services,27192
+2020-08-01,Queensland,financial_and_insurance_services,70013
+2020-08-01,Queensland,health_care_and_social_assistance,377251
+2020-08-01,Queensland,information_media_and_telecommunications,28113
+2020-08-01,Queensland,manufacturing,162490
+2020-08-01,Queensland,mining,69976
+2020-08-01,Queensland,other_services,99904
+2020-08-01,Queensland,professional_scientific_and_technical_services,176181
+2020-08-01,Queensland,public_administration_and_safety,169930
+2020-08-01,Queensland,rental_hiring_and_real_estate_services,50171
+2020-08-01,Queensland,retail_trade,237363
+2020-08-01,Queensland,total,2507140
+2020-08-01,Queensland,transport_postal_and_warehousing,126364
+2020-08-01,Queensland,wholesale_trade,84030
+2020-11-01,Queensland,accommodation_and_food_services,175615
+2020-11-01,Queensland,administrative_and_support_services,84083
+2020-11-01,Queensland,agriculture_forestry_and_fishing,85771
+2020-11-01,Queensland,arts_and_recreation_services,50495
+2020-11-01,Queensland,construction,237685
+2020-11-01,Queensland,education_and_training,201973
+2020-11-01,Queensland,electricity_gas_water_and_waste_services,28962
+2020-11-01,Queensland,financial_and_insurance_services,76028
+2020-11-01,Queensland,health_care_and_social_assistance,363104
+2020-11-01,Queensland,information_media_and_telecommunications,30295
+2020-11-01,Queensland,manufacturing,176350
+2020-11-01,Queensland,mining,79726
+2020-11-01,Queensland,other_services,95788
+2020-11-01,Queensland,professional_scientific_and_technical_services,180830
+2020-11-01,Queensland,public_administration_and_safety,177025
+2020-11-01,Queensland,rental_hiring_and_real_estate_services,52918
+2020-11-01,Queensland,retail_trade,253570
+2020-11-01,Queensland,total,2560034
+2020-11-01,Queensland,transport_postal_and_warehousing,138154
+2020-11-01,Queensland,wholesale_trade,71660
+2021-02-01,Queensland,accommodation_and_food_services,178700
+2021-02-01,Queensland,administrative_and_support_services,76301
+2021-02-01,Queensland,agriculture_forestry_and_fishing,81606
+2021-02-01,Queensland,arts_and_recreation_services,42054
+2021-02-01,Queensland,construction,231916
+2021-02-01,Queensland,education_and_training,198806
+2021-02-01,Queensland,electricity_gas_water_and_waste_services,30758
+2021-02-01,Queensland,financial_and_insurance_services,76459
+2021-02-01,Queensland,health_care_and_social_assistance,372197
+2021-02-01,Queensland,information_media_and_telecommunications,24695
+2021-02-01,Queensland,manufacturing,177694
+2021-02-01,Queensland,mining,80081
+2021-02-01,Queensland,other_services,109018
+2021-02-01,Queensland,professional_scientific_and_technical_services,203221
+2021-02-01,Queensland,public_administration_and_safety,169425
+2021-02-01,Queensland,rental_hiring_and_real_estate_services,50375
+2021-02-01,Queensland,retail_trade,275758
+2021-02-01,Queensland,total,2608117
+2021-02-01,Queensland,transport_postal_and_warehousing,139855
+2021-02-01,Queensland,wholesale_trade,89197
+2021-05-01,Queensland,accommodation_and_food_services,206378
+2021-05-01,Queensland,administrative_and_support_services,88523
+2021-05-01,Queensland,agriculture_forestry_and_fishing,68314
+2021-05-01,Queensland,arts_and_recreation_services,38997
+2021-05-01,Queensland,construction,231988
+2021-05-01,Queensland,education_and_training,214288
+2021-05-01,Queensland,electricity_gas_water_and_waste_services,31166
+2021-05-01,Queensland,financial_and_insurance_services,79497
+2021-05-01,Queensland,health_care_and_social_assistance,380021
+2021-05-01,Queensland,information_media_and_telecommunications,26533
+2021-05-01,Queensland,manufacturing,194234
+2021-05-01,Queensland,mining,80039
+2021-05-01,Queensland,other_services,103794
+2021-05-01,Queensland,professional_scientific_and_technical_services,199454
+2021-05-01,Queensland,public_administration_and_safety,151396
+2021-05-01,Queensland,rental_hiring_and_real_estate_services,50237
+2021-05-01,Queensland,retail_trade,292131
+2021-05-01,Queensland,total,2643375
+2021-05-01,Queensland,transport_postal_and_warehousing,131112
+2021-05-01,Queensland,wholesale_trade,75270
+2021-08-01,Queensland,accommodation_and_food_services,195552
+2021-08-01,Queensland,administrative_and_support_services,79010
+2021-08-01,Queensland,agriculture_forestry_and_fishing,77504
+2021-08-01,Queensland,arts_and_recreation_services,30776
+2021-08-01,Queensland,construction,239627
+2021-08-01,Queensland,education_and_training,218054
+2021-08-01,Queensland,electricity_gas_water_and_waste_services,33724
+2021-08-01,Queensland,financial_and_insurance_services,78293
+2021-08-01,Queensland,health_care_and_social_assistance,388107
+2021-08-01,Queensland,information_media_and_telecommunications,24527
+2021-08-01,Queensland,manufacturing,203644
+2021-08-01,Queensland,mining,80277
+2021-08-01,Queensland,other_services,111633
+2021-08-01,Queensland,professional_scientific_and_technical_services,193268
+2021-08-01,Queensland,public_administration_and_safety,169868
+2021-08-01,Queensland,rental_hiring_and_real_estate_services,50998
+2021-08-01,Queensland,retail_trade,253751
+2021-08-01,Queensland,total,2630640
+2021-08-01,Queensland,transport_postal_and_warehousing,127549
+2021-08-01,Queensland,wholesale_trade,74476
+2021-11-01,Queensland,accommodation_and_food_services,209758
+2021-11-01,Queensland,administrative_and_support_services,79374
+2021-11-01,Queensland,agriculture_forestry_and_fishing,76741
+2021-11-01,Queensland,arts_and_recreation_services,44346
+2021-11-01,Queensland,construction,232850
+2021-11-01,Queensland,education_and_training,230284
+2021-11-01,Queensland,electricity_gas_water_and_waste_services,24620
+2021-11-01,Queensland,financial_and_insurance_services,67554
+2021-11-01,Queensland,health_care_and_social_assistance,395318
+2021-11-01,Queensland,information_media_and_telecommunications,30746
+2021-11-01,Queensland,manufacturing,180799
+2021-11-01,Queensland,mining,78965
+2021-11-01,Queensland,other_services,118296
+2021-11-01,Queensland,professional_scientific_and_technical_services,212245
+2021-11-01,Queensland,public_administration_and_safety,173148
+2021-11-01,Queensland,rental_hiring_and_real_estate_services,57631
+2021-11-01,Queensland,retail_trade,249125
+2021-11-01,Queensland,total,2687241
+2021-11-01,Queensland,transport_postal_and_warehousing,147665
+2021-11-01,Queensland,wholesale_trade,77775
+2022-02-01,Queensland,accommodation_and_food_services,215224
+2022-02-01,Queensland,administrative_and_support_services,85026
+2022-02-01,Queensland,agriculture_forestry_and_fishing,70910
+2022-02-01,Queensland,arts_and_recreation_services,44891
+2022-02-01,Queensland,construction,239857
+2022-02-01,Queensland,education_and_training,239723
+2022-02-01,Queensland,electricity_gas_water_and_waste_services,36558
+2022-02-01,Queensland,financial_and_insurance_services,59890
+2022-02-01,Queensland,health_care_and_social_assistance,436535
+2022-02-01,Queensland,information_media_and_telecommunications,29333
+2022-02-01,Queensland,manufacturing,188732
+2022-02-01,Queensland,mining,81800
+2022-02-01,Queensland,other_services,107268
+2022-02-01,Queensland,professional_scientific_and_technical_services,220755
+2022-02-01,Queensland,public_administration_and_safety,166132
+2022-02-01,Queensland,rental_hiring_and_real_estate_services,61394
+2022-02-01,Queensland,retail_trade,245615
+2022-02-01,Queensland,total,2736693
+2022-02-01,Queensland,transport_postal_and_warehousing,144362
+2022-02-01,Queensland,wholesale_trade,62688
+2022-05-01,Queensland,accommodation_and_food_services,198979
+2022-05-01,Queensland,administrative_and_support_services,90971
+2022-05-01,Queensland,agriculture_forestry_and_fishing,57840
+2022-05-01,Queensland,arts_and_recreation_services,40238
+2022-05-01,Queensland,construction,235928
+2022-05-01,Queensland,education_and_training,248106
+2022-05-01,Queensland,electricity_gas_water_and_waste_services,36564
+2022-05-01,Queensland,financial_and_insurance_services,72088
+2022-05-01,Queensland,health_care_and_social_assistance,471538
+2022-05-01,Queensland,information_media_and_telecommunications,30668
+2022-05-01,Queensland,manufacturing,170642
+2022-05-01,Queensland,mining,90783
+2022-05-01,Queensland,other_services,114581
+2022-05-01,Queensland,professional_scientific_and_technical_services,218004
+2022-05-01,Queensland,public_administration_and_safety,171596
+2022-05-01,Queensland,rental_hiring_and_real_estate_services,53239
+2022-05-01,Queensland,retail_trade,263419
+2022-05-01,Queensland,total,2767995
+2022-05-01,Queensland,transport_postal_and_warehousing,141499
+2022-05-01,Queensland,wholesale_trade,61312
+2022-08-01,Queensland,accommodation_and_food_services,196252
+2022-08-01,Queensland,administrative_and_support_services,100635
+2022-08-01,Queensland,agriculture_forestry_and_fishing,59047
+2022-08-01,Queensland,arts_and_recreation_services,42124
+2022-08-01,Queensland,construction,258410
+2022-08-01,Queensland,education_and_training,244129
+2022-08-01,Queensland,electricity_gas_water_and_waste_services,28688
+2022-08-01,Queensland,financial_and_insurance_services,72440
+2022-08-01,Queensland,health_care_and_social_assistance,458212
+2022-08-01,Queensland,information_media_and_telecommunications,20793
+2022-08-01,Queensland,manufacturing,167826
+2022-08-01,Queensland,mining,75957
+2022-08-01,Queensland,other_services,113512
+2022-08-01,Queensland,professional_scientific_and_technical_services,213707
+2022-08-01,Queensland,public_administration_and_safety,173250
+2022-08-01,Queensland,rental_hiring_and_real_estate_services,42883
+2022-08-01,Queensland,retail_trade,304411
+2022-08-01,Queensland,total,2777161
+2022-08-01,Queensland,transport_postal_and_warehousing,136200
+2022-08-01,Queensland,wholesale_trade,68683
+2022-11-01,Queensland,accommodation_and_food_services,203537
+2022-11-01,Queensland,administrative_and_support_services,104057
+2022-11-01,Queensland,agriculture_forestry_and_fishing,60877
+2022-11-01,Queensland,arts_and_recreation_services,52641
+2022-11-01,Queensland,construction,259517
+2022-11-01,Queensland,education_and_training,239397
+2022-11-01,Queensland,electricity_gas_water_and_waste_services,32905
+2022-11-01,Queensland,financial_and_insurance_services,74660
+2022-11-01,Queensland,health_care_and_social_assistance,443187
+2022-11-01,Queensland,information_media_and_telecommunications,21190
+2022-11-01,Queensland,manufacturing,175905
+2022-11-01,Queensland,mining,75689
+2022-11-01,Queensland,other_services,110330
+2022-11-01,Queensland,professional_scientific_and_technical_services,219851
+2022-11-01,Queensland,public_administration_and_safety,174331
+2022-11-01,Queensland,rental_hiring_and_real_estate_services,41581
+2022-11-01,Queensland,retail_trade,301487
+2022-11-01,Queensland,total,2803131
+2022-11-01,Queensland,transport_postal_and_warehousing,144521
+2022-11-01,Queensland,wholesale_trade,67467
+2023-02-01,Queensland,accommodation_and_food_services,191357
+2023-02-01,Queensland,administrative_and_support_services,94087
+2023-02-01,Queensland,agriculture_forestry_and_fishing,59221
+2023-02-01,Queensland,arts_and_recreation_services,51221
+2023-02-01,Queensland,construction,261867
+2023-02-01,Queensland,education_and_training,245791
+2023-02-01,Queensland,electricity_gas_water_and_waste_services,40239
+2023-02-01,Queensland,financial_and_insurance_services,82107
+2023-02-01,Queensland,health_care_and_social_assistance,454405
+2023-02-01,Queensland,information_media_and_telecommunications,24432
+2023-02-01,Queensland,manufacturing,182077
+2023-02-01,Queensland,mining,70314
+2023-02-01,Queensland,other_services,109724
+2023-02-01,Queensland,professional_scientific_and_technical_services,211491
+2023-02-01,Queensland,public_administration_and_safety,188187
+2023-02-01,Queensland,rental_hiring_and_real_estate_services,39989
+2023-02-01,Queensland,retail_trade,281150
+2023-02-01,Queensland,total,2799848
+2023-02-01,Queensland,transport_postal_and_warehousing,146420
+2023-02-01,Queensland,wholesale_trade,65768
+2023-05-01,Queensland,accommodation_and_food_services,206964
+2023-05-01,Queensland,administrative_and_support_services,78434
+2023-05-01,Queensland,agriculture_forestry_and_fishing,60415
+2023-05-01,Queensland,arts_and_recreation_services,41211
+2023-05-01,Queensland,construction,275985
+2023-05-01,Queensland,education_and_training,275321
+2023-05-01,Queensland,electricity_gas_water_and_waste_services,33112
+2023-05-01,Queensland,financial_and_insurance_services,84906
+2023-05-01,Queensland,health_care_and_social_assistance,464946
+2023-05-01,Queensland,information_media_and_telecommunications,26803
+2023-05-01,Queensland,manufacturing,179444
+2023-05-01,Queensland,mining,70948
+2023-05-01,Queensland,other_services,116298
+2023-05-01,Queensland,professional_scientific_and_technical_services,232129
+2023-05-01,Queensland,public_administration_and_safety,193888
+2023-05-01,Queensland,rental_hiring_and_real_estate_services,43146
+2023-05-01,Queensland,retail_trade,240344
+2023-05-01,Queensland,total,2857054
+2023-05-01,Queensland,transport_postal_and_warehousing,162728
+2023-05-01,Queensland,wholesale_trade,70032
+2023-08-01,Queensland,accommodation_and_food_services,191896
+2023-08-01,Queensland,administrative_and_support_services,89430
+2023-08-01,Queensland,agriculture_forestry_and_fishing,64504
+2023-08-01,Queensland,arts_and_recreation_services,35510
+2023-08-01,Queensland,construction,288426
+2023-08-01,Queensland,education_and_training,242281
+2023-08-01,Queensland,electricity_gas_water_and_waste_services,30342
+2023-08-01,Queensland,financial_and_insurance_services,84400
+2023-08-01,Queensland,health_care_and_social_assistance,453220
+2023-08-01,Queensland,information_media_and_telecommunications,28089
+2023-08-01,Queensland,manufacturing,161151
+2023-08-01,Queensland,mining,74540
+2023-08-01,Queensland,other_services,116555
+2023-08-01,Queensland,professional_scientific_and_technical_services,218527
+2023-08-01,Queensland,public_administration_and_safety,186063
+2023-08-01,Queensland,rental_hiring_and_real_estate_services,38731
+2023-08-01,Queensland,retail_trade,255577
+2023-08-01,Queensland,total,2818156
+2023-08-01,Queensland,transport_postal_and_warehousing,166575
+2023-08-01,Queensland,wholesale_trade,92341
+2023-11-01,Queensland,accommodation_and_food_services,192465
+2023-11-01,Queensland,administrative_and_support_services,90328
+2023-11-01,Queensland,agriculture_forestry_and_fishing,73881
+2023-11-01,Queensland,arts_and_recreation_services,47857
+2023-11-01,Queensland,construction,281256
+2023-11-01,Queensland,education_and_training,239544
+2023-11-01,Queensland,electricity_gas_water_and_waste_services,32193
+2023-11-01,Queensland,financial_and_insurance_services,77293
+2023-11-01,Queensland,health_care_and_social_assistance,456280
+2023-11-01,Queensland,information_media_and_telecommunications,30131
+2023-11-01,Queensland,manufacturing,185729
+2023-11-01,Queensland,mining,76224
+2023-11-01,Queensland,other_services,107111
+2023-11-01,Queensland,professional_scientific_and_technical_services,237818
+2023-11-01,Queensland,public_administration_and_safety,189846
+2023-11-01,Queensland,rental_hiring_and_real_estate_services,41079
+2023-11-01,Queensland,retail_trade,291855
+2023-11-01,Queensland,total,2888489
+2023-11-01,Queensland,transport_postal_and_warehousing,167654
+2023-11-01,Queensland,wholesale_trade,69943
+2024-02-01,Queensland,accommodation_and_food_services,198879
+2024-02-01,Queensland,administrative_and_support_services,97190
+2024-02-01,Queensland,agriculture_forestry_and_fishing,71563
+2024-02-01,Queensland,arts_and_recreation_services,48986
+2024-02-01,Queensland,construction,270075
+2024-02-01,Queensland,education_and_training,240278
+2024-02-01,Queensland,electricity_gas_water_and_waste_services,40889
+2024-02-01,Queensland,financial_and_insurance_services,69228
+2024-02-01,Queensland,health_care_and_social_assistance,443351
+2024-02-01,Queensland,information_media_and_telecommunications,36518
+2024-02-01,Queensland,manufacturing,183987
+2024-02-01,Queensland,mining,84589
+2024-02-01,Queensland,other_services,112139
+2024-02-01,Queensland,professional_scientific_and_technical_services,254954
+2024-02-01,Queensland,public_administration_and_safety,199014
+2024-02-01,Queensland,rental_hiring_and_real_estate_services,55393
+2024-02-01,Queensland,retail_trade,293000
+2024-02-01,Queensland,total,2926915
+2024-02-01,Queensland,transport_postal_and_warehousing,158143
+2024-02-01,Queensland,wholesale_trade,68739
+2024-05-01,Queensland,accommodation_and_food_services,220366
+2024-05-01,Queensland,administrative_and_support_services,107009
+2024-05-01,Queensland,agriculture_forestry_and_fishing,70397
+2024-05-01,Queensland,arts_and_recreation_services,48571
+2024-05-01,Queensland,construction,273761
+2024-05-01,Queensland,education_and_training,246624
+2024-05-01,Queensland,electricity_gas_water_and_waste_services,58433
+2024-05-01,Queensland,financial_and_insurance_services,58562
+2024-05-01,Queensland,health_care_and_social_assistance,463700
+2024-05-01,Queensland,information_media_and_telecommunications,28354
+2024-05-01,Queensland,manufacturing,190273
+2024-05-01,Queensland,mining,77060
+2024-05-01,Queensland,other_services,114952
+2024-05-01,Queensland,professional_scientific_and_technical_services,219124
+2024-05-01,Queensland,public_administration_and_safety,194138
+2024-05-01,Queensland,rental_hiring_and_real_estate_services,60350
+2024-05-01,Queensland,retail_trade,287118
+2024-05-01,Queensland,total,2947303
+2024-05-01,Queensland,transport_postal_and_warehousing,158449
+2024-05-01,Queensland,wholesale_trade,70061
+2024-08-01,Queensland,accommodation_and_food_services,231887
+2024-08-01,Queensland,administrative_and_support_services,89841
+2024-08-01,Queensland,agriculture_forestry_and_fishing,64134
+2024-08-01,Queensland,arts_and_recreation_services,56897
+2024-08-01,Queensland,construction,268727
+2024-08-01,Queensland,education_and_training,247734
+2024-08-01,Queensland,electricity_gas_water_and_waste_services,55009
+2024-08-01,Queensland,financial_and_insurance_services,68763
+2024-08-01,Queensland,health_care_and_social_assistance,440810
+2024-08-01,Queensland,information_media_and_telecommunications,24507
+2024-08-01,Queensland,manufacturing,179579
+2024-08-01,Queensland,mining,70701
+2024-08-01,Queensland,other_services,116922
+2024-08-01,Queensland,professional_scientific_and_technical_services,218666
+2024-08-01,Queensland,public_administration_and_safety,213935
+2024-08-01,Queensland,rental_hiring_and_real_estate_services,57807
+2024-08-01,Queensland,retail_trade,299464
+2024-08-01,Queensland,total,2926276
+2024-08-01,Queensland,transport_postal_and_warehousing,143297
+2024-08-01,Queensland,wholesale_trade,77597
+2024-11-01,Queensland,accommodation_and_food_services,215829
+2024-11-01,Queensland,administrative_and_support_services,86817
+2024-11-01,Queensland,agriculture_forestry_and_fishing,68374
+2024-11-01,Queensland,arts_and_recreation_services,47604
+2024-11-01,Queensland,construction,292164
+2024-11-01,Queensland,education_and_training,252766
+2024-11-01,Queensland,electricity_gas_water_and_waste_services,54578
+2024-11-01,Queensland,financial_and_insurance_services,78124
+2024-11-01,Queensland,health_care_and_social_assistance,482433
+2024-11-01,Queensland,information_media_and_telecommunications,31332
+2024-11-01,Queensland,manufacturing,168485
+2024-11-01,Queensland,mining,83930
+2024-11-01,Queensland,other_services,116080
+2024-11-01,Queensland,professional_scientific_and_technical_services,218105
+2024-11-01,Queensland,public_administration_and_safety,180206
+2024-11-01,Queensland,rental_hiring_and_real_estate_services,62231
+2024-11-01,Queensland,retail_trade,301241
+2024-11-01,Queensland,total,2983276
+2024-11-01,Queensland,transport_postal_and_warehousing,174312
+2024-11-01,Queensland,wholesale_trade,68665
+2025-02-01,Queensland,accommodation_and_food_services,208309
+2025-02-01,Queensland,administrative_and_support_services,84590
+2025-02-01,Queensland,agriculture_forestry_and_fishing,61621
+2025-02-01,Queensland,arts_and_recreation_services,52102
+2025-02-01,Queensland,construction,290254
+2025-02-01,Queensland,education_and_training,233352
+2025-02-01,Queensland,electricity_gas_water_and_waste_services,49117
+2025-02-01,Queensland,financial_and_insurance_services,85465
+2025-02-01,Queensland,health_care_and_social_assistance,499760
+2025-02-01,Queensland,information_media_and_telecommunications,27707
+2025-02-01,Queensland,manufacturing,172286
+2025-02-01,Queensland,mining,91579
+2025-02-01,Queensland,other_services,118466
+2025-02-01,Queensland,professional_scientific_and_technical_services,226244
+2025-02-01,Queensland,public_administration_and_safety,216710
+2025-02-01,Queensland,rental_hiring_and_real_estate_services,49082
+2025-02-01,Queensland,retail_trade,287196
+2025-02-01,Queensland,total,2976232
+2025-02-01,Queensland,transport_postal_and_warehousing,150977
+2025-02-01,Queensland,wholesale_trade,71415
+2025-05-01,Queensland,accommodation_and_food_services,212306
+2025-05-01,Queensland,administrative_and_support_services,81077
+2025-05-01,Queensland,agriculture_forestry_and_fishing,66848
+2025-05-01,Queensland,arts_and_recreation_services,53294
+2025-05-01,Queensland,construction,288082
+2025-05-01,Queensland,education_and_training,246081
+2025-05-01,Queensland,electricity_gas_water_and_waste_services,56589
+2025-05-01,Queensland,financial_and_insurance_services,82064
+2025-05-01,Queensland,health_care_and_social_assistance,543281
+2025-05-01,Queensland,information_media_and_telecommunications,23171
+2025-05-01,Queensland,manufacturing,175731
+2025-05-01,Queensland,mining,85208
+2025-05-01,Queensland,other_services,128430
+2025-05-01,Queensland,professional_scientific_and_technical_services,247415
+2025-05-01,Queensland,public_administration_and_safety,207323
+2025-05-01,Queensland,rental_hiring_and_real_estate_services,51432
+2025-05-01,Queensland,retail_trade,267788
+2025-05-01,Queensland,total,3035613
+2025-05-01,Queensland,transport_postal_and_warehousing,165629
+2025-05-01,Queensland,wholesale_trade,53866
+2025-08-01,Queensland,accommodation_and_food_services,204528
+2025-08-01,Queensland,administrative_and_support_services,98194
+2025-08-01,Queensland,agriculture_forestry_and_fishing,62269
+2025-08-01,Queensland,arts_and_recreation_services,51745
+2025-08-01,Queensland,construction,269810
+2025-08-01,Queensland,education_and_training,243437
+2025-08-01,Queensland,electricity_gas_water_and_waste_services,49750
+2025-08-01,Queensland,financial_and_insurance_services,79336
+2025-08-01,Queensland,health_care_and_social_assistance,513202
+2025-08-01,Queensland,information_media_and_telecommunications,18690
+2025-08-01,Queensland,manufacturing,172854
+2025-08-01,Queensland,mining,67961
+2025-08-01,Queensland,other_services,147530
+2025-08-01,Queensland,professional_scientific_and_technical_services,224932
+2025-08-01,Queensland,public_administration_and_safety,217413
+2025-08-01,Queensland,rental_hiring_and_real_estate_services,56781
+2025-08-01,Queensland,retail_trade,262913
+2025-08-01,Queensland,total,2977415
+2025-08-01,Queensland,transport_postal_and_warehousing,164099
+2025-08-01,Queensland,wholesale_trade,71973
+2025-11-01,Queensland,accommodation_and_food_services,229204
+2025-11-01,Queensland,administrative_and_support_services,84557
+2025-11-01,Queensland,agriculture_forestry_and_fishing,57164
+2025-11-01,Queensland,arts_and_recreation_services,40867
+2025-11-01,Queensland,construction,305217
+2025-11-01,Queensland,education_and_training,257999
+2025-11-01,Queensland,electricity_gas_water_and_waste_services,46545
+2025-11-01,Queensland,financial_and_insurance_services,75642
+2025-11-01,Queensland,health_care_and_social_assistance,522763
+2025-11-01,Queensland,information_media_and_telecommunications,20301
+2025-11-01,Queensland,manufacturing,163632
+2025-11-01,Queensland,mining,81051
+2025-11-01,Queensland,other_services,130056
+2025-11-01,Queensland,professional_scientific_and_technical_services,232956
+2025-11-01,Queensland,public_administration_and_safety,217409
+2025-11-01,Queensland,rental_hiring_and_real_estate_services,48587
+2025-11-01,Queensland,retail_trade,277988
+2025-11-01,Queensland,total,3006807
+2025-11-01,Queensland,transport_postal_and_warehousing,151521
+2025-11-01,Queensland,wholesale_trade,63348
+2019-02-01,South Australia,accommodation_and_food_services,55466
+2019-02-01,South Australia,administrative_and_support_services,32341
+2019-02-01,South Australia,agriculture_forestry_and_fishing,36846
+2019-02-01,South Australia,arts_and_recreation_services,13940
+2019-02-01,South Australia,construction,72004
+2019-02-01,South Australia,education_and_training,74351
+2019-02-01,South Australia,electricity_gas_water_and_waste_services,11165
+2019-02-01,South Australia,financial_and_insurance_services,21836
+2019-02-01,South Australia,health_care_and_social_assistance,123654
+2019-02-01,South Australia,information_media_and_telecommunications,9477
+2019-02-01,South Australia,manufacturing,74970
+2019-02-01,South Australia,mining,14699
+2019-02-01,South Australia,other_services,34839
+2019-02-01,South Australia,professional_scientific_and_technical_services,56911
+2019-02-01,South Australia,public_administration_and_safety,55755
+2019-02-01,South Australia,rental_hiring_and_real_estate_services,12413
+2019-02-01,South Australia,retail_trade,92216
+2019-02-01,South Australia,total,854200
+2019-02-01,South Australia,transport_postal_and_warehousing,38190
+2019-02-01,South Australia,wholesale_trade,23128
+2019-05-01,South Australia,accommodation_and_food_services,59826
+2019-05-01,South Australia,administrative_and_support_services,35715
+2019-05-01,South Australia,agriculture_forestry_and_fishing,32121
+2019-05-01,South Australia,arts_and_recreation_services,14227
+2019-05-01,South Australia,construction,78257
+2019-05-01,South Australia,education_and_training,76005
+2019-05-01,South Australia,electricity_gas_water_and_waste_services,13262
+2019-05-01,South Australia,financial_and_insurance_services,21437
+2019-05-01,South Australia,health_care_and_social_assistance,133693
+2019-05-01,South Australia,information_media_and_telecommunications,9962
+2019-05-01,South Australia,manufacturing,70627
+2019-05-01,South Australia,mining,8970
+2019-05-01,South Australia,other_services,33354
+2019-05-01,South Australia,professional_scientific_and_technical_services,59854
+2019-05-01,South Australia,public_administration_and_safety,48546
+2019-05-01,South Australia,rental_hiring_and_real_estate_services,12266
+2019-05-01,South Australia,retail_trade,91324
+2019-05-01,South Australia,total,867785
+2019-05-01,South Australia,transport_postal_and_warehousing,41106
+2019-05-01,South Australia,wholesale_trade,27235
+2019-08-01,South Australia,accommodation_and_food_services,63871
+2019-08-01,South Australia,administrative_and_support_services,31574
+2019-08-01,South Australia,agriculture_forestry_and_fishing,32068
+2019-08-01,South Australia,arts_and_recreation_services,10225
+2019-08-01,South Australia,construction,77956
+2019-08-01,South Australia,education_and_training,81529
+2019-08-01,South Australia,electricity_gas_water_and_waste_services,13952
+2019-08-01,South Australia,financial_and_insurance_services,17389
+2019-08-01,South Australia,health_care_and_social_assistance,135850
+2019-08-01,South Australia,information_media_and_telecommunications,12129
+2019-08-01,South Australia,manufacturing,63137
+2019-08-01,South Australia,mining,10529
+2019-08-01,South Australia,other_services,35555
+2019-08-01,South Australia,professional_scientific_and_technical_services,61555
+2019-08-01,South Australia,public_administration_and_safety,48956
+2019-08-01,South Australia,rental_hiring_and_real_estate_services,10608
+2019-08-01,South Australia,retail_trade,84081
+2019-08-01,South Australia,total,855537
+2019-08-01,South Australia,transport_postal_and_warehousing,38231
+2019-08-01,South Australia,wholesale_trade,26342
+2019-11-01,South Australia,accommodation_and_food_services,61841
+2019-11-01,South Australia,administrative_and_support_services,32823
+2019-11-01,South Australia,agriculture_forestry_and_fishing,30843
+2019-11-01,South Australia,arts_and_recreation_services,10519
+2019-11-01,South Australia,construction,69682
+2019-11-01,South Australia,education_and_training,78378
+2019-11-01,South Australia,electricity_gas_water_and_waste_services,11653
+2019-11-01,South Australia,financial_and_insurance_services,19241
+2019-11-01,South Australia,health_care_and_social_assistance,128665
+2019-11-01,South Australia,information_media_and_telecommunications,17124
+2019-11-01,South Australia,manufacturing,71092
+2019-11-01,South Australia,mining,15014
+2019-11-01,South Australia,other_services,33578
+2019-11-01,South Australia,professional_scientific_and_technical_services,59214
+2019-11-01,South Australia,public_administration_and_safety,60934
+2019-11-01,South Australia,rental_hiring_and_real_estate_services,10313
+2019-11-01,South Australia,retail_trade,88802
+2019-11-01,South Australia,total,858005
+2019-11-01,South Australia,transport_postal_and_warehousing,33788
+2019-11-01,South Australia,wholesale_trade,24501
+2020-02-01,South Australia,accommodation_and_food_services,62574
+2020-02-01,South Australia,administrative_and_support_services,37349
+2020-02-01,South Australia,agriculture_forestry_and_fishing,29769
+2020-02-01,South Australia,arts_and_recreation_services,12925
+2020-02-01,South Australia,construction,70655
+2020-02-01,South Australia,education_and_training,76415
+2020-02-01,South Australia,electricity_gas_water_and_waste_services,12983
+2020-02-01,South Australia,financial_and_insurance_services,19625
+2020-02-01,South Australia,health_care_and_social_assistance,127495
+2020-02-01,South Australia,information_media_and_telecommunications,15954
+2020-02-01,South Australia,manufacturing,78622
+2020-02-01,South Australia,mining,12551
+2020-02-01,South Australia,other_services,36732
+2020-02-01,South Australia,professional_scientific_and_technical_services,58165
+2020-02-01,South Australia,public_administration_and_safety,49716
+2020-02-01,South Australia,rental_hiring_and_real_estate_services,10448
+2020-02-01,South Australia,retail_trade,92994
+2020-02-01,South Australia,total,865478
+2020-02-01,South Australia,transport_postal_and_warehousing,36027
+2020-02-01,South Australia,wholesale_trade,24477
+2020-05-01,South Australia,accommodation_and_food_services,42543
+2020-05-01,South Australia,administrative_and_support_services,33231
+2020-05-01,South Australia,agriculture_forestry_and_fishing,33442
+2020-05-01,South Australia,arts_and_recreation_services,12939
+2020-05-01,South Australia,construction,66242
+2020-05-01,South Australia,education_and_training,65820
+2020-05-01,South Australia,electricity_gas_water_and_waste_services,11940
+2020-05-01,South Australia,financial_and_insurance_services,23640
+2020-05-01,South Australia,health_care_and_social_assistance,126869
+2020-05-01,South Australia,information_media_and_telecommunications,12342
+2020-05-01,South Australia,manufacturing,73437
+2020-05-01,South Australia,mining,12697
+2020-05-01,South Australia,other_services,28194
+2020-05-01,South Australia,professional_scientific_and_technical_services,60098
+2020-05-01,South Australia,public_administration_and_safety,60230
+2020-05-01,South Australia,rental_hiring_and_real_estate_services,13278
+2020-05-01,South Australia,retail_trade,80532
+2020-05-01,South Australia,total,820076
+2020-05-01,South Australia,transport_postal_and_warehousing,37380
+2020-05-01,South Australia,wholesale_trade,25220
+2020-08-01,South Australia,accommodation_and_food_services,56529
+2020-08-01,South Australia,administrative_and_support_services,34490
+2020-08-01,South Australia,agriculture_forestry_and_fishing,31349
+2020-08-01,South Australia,arts_and_recreation_services,16730
+2020-08-01,South Australia,construction,66902
+2020-08-01,South Australia,education_and_training,71353
+2020-08-01,South Australia,electricity_gas_water_and_waste_services,9101
+2020-08-01,South Australia,financial_and_insurance_services,22597
+2020-08-01,South Australia,health_care_and_social_assistance,133770
+2020-08-01,South Australia,information_media_and_telecommunications,10661
+2020-08-01,South Australia,manufacturing,69585
+2020-08-01,South Australia,mining,16652
+2020-08-01,South Australia,other_services,31222
+2020-08-01,South Australia,professional_scientific_and_technical_services,55726
+2020-08-01,South Australia,public_administration_and_safety,54751
+2020-08-01,South Australia,rental_hiring_and_real_estate_services,11762
+2020-08-01,South Australia,retail_trade,86162
+2020-08-01,South Australia,total,846131
+2020-08-01,South Australia,transport_postal_and_warehousing,40685
+2020-08-01,South Australia,wholesale_trade,26106
+2020-11-01,South Australia,accommodation_and_food_services,63375
+2020-11-01,South Australia,administrative_and_support_services,34135
+2020-11-01,South Australia,agriculture_forestry_and_fishing,35041
+2020-11-01,South Australia,arts_and_recreation_services,11236
+2020-11-01,South Australia,construction,76131
+2020-11-01,South Australia,education_and_training,73499
+2020-11-01,South Australia,electricity_gas_water_and_waste_services,8822
+2020-11-01,South Australia,financial_and_insurance_services,24253
+2020-11-01,South Australia,health_care_and_social_assistance,133940
+2020-11-01,South Australia,information_media_and_telecommunications,7511
+2020-11-01,South Australia,manufacturing,60633
+2020-11-01,South Australia,mining,11146
+2020-11-01,South Australia,other_services,33905
+2020-11-01,South Australia,professional_scientific_and_technical_services,60950
+2020-11-01,South Australia,public_administration_and_safety,57809
+2020-11-01,South Australia,rental_hiring_and_real_estate_services,10334
+2020-11-01,South Australia,retail_trade,92658
+2020-11-01,South Australia,total,862307
+2020-11-01,South Australia,transport_postal_and_warehousing,42538
+2020-11-01,South Australia,wholesale_trade,24393
+2021-02-01,South Australia,accommodation_and_food_services,58521
+2021-02-01,South Australia,administrative_and_support_services,31414
+2021-02-01,South Australia,agriculture_forestry_and_fishing,30556
+2021-02-01,South Australia,arts_and_recreation_services,11276
+2021-02-01,South Australia,construction,73268
+2021-02-01,South Australia,education_and_training,83493
+2021-02-01,South Australia,electricity_gas_water_and_waste_services,9984
+2021-02-01,South Australia,financial_and_insurance_services,23880
+2021-02-01,South Australia,health_care_and_social_assistance,132642
+2021-02-01,South Australia,information_media_and_telecommunications,8148
+2021-02-01,South Australia,manufacturing,64604
+2021-02-01,South Australia,mining,13058
+2021-02-01,South Australia,other_services,34448
+2021-02-01,South Australia,professional_scientific_and_technical_services,69099
+2021-02-01,South Australia,public_administration_and_safety,59589
+2021-02-01,South Australia,rental_hiring_and_real_estate_services,10440
+2021-02-01,South Australia,retail_trade,94227
+2021-02-01,South Australia,total,863350
+2021-02-01,South Australia,transport_postal_and_warehousing,33926
+2021-02-01,South Australia,wholesale_trade,20777
+2021-05-01,South Australia,accommodation_and_food_services,59359
+2021-05-01,South Australia,administrative_and_support_services,31110
+2021-05-01,South Australia,agriculture_forestry_and_fishing,35460
+2021-05-01,South Australia,arts_and_recreation_services,14140
+2021-05-01,South Australia,construction,73344
+2021-05-01,South Australia,education_and_training,76489
+2021-05-01,South Australia,electricity_gas_water_and_waste_services,10039
+2021-05-01,South Australia,financial_and_insurance_services,22539
+2021-05-01,South Australia,health_care_and_social_assistance,132528
+2021-05-01,South Australia,information_media_and_telecommunications,7827
+2021-05-01,South Australia,manufacturing,66092
+2021-05-01,South Australia,mining,16204
+2021-05-01,South Australia,other_services,39844
+2021-05-01,South Australia,professional_scientific_and_technical_services,72214
+2021-05-01,South Australia,public_administration_and_safety,67983
+2021-05-01,South Australia,rental_hiring_and_real_estate_services,12064
+2021-05-01,South Australia,retail_trade,88059
+2021-05-01,South Australia,total,882440
+2021-05-01,South Australia,transport_postal_and_warehousing,36132
+2021-05-01,South Australia,wholesale_trade,21013
+2021-08-01,South Australia,accommodation_and_food_services,51784
+2021-08-01,South Australia,administrative_and_support_services,25304
+2021-08-01,South Australia,agriculture_forestry_and_fishing,35553
+2021-08-01,South Australia,arts_and_recreation_services,13085
+2021-08-01,South Australia,construction,77543
+2021-08-01,South Australia,education_and_training,77660
+2021-08-01,South Australia,electricity_gas_water_and_waste_services,9387
+2021-08-01,South Australia,financial_and_insurance_services,23795
+2021-08-01,South Australia,health_care_and_social_assistance,144919
+2021-08-01,South Australia,information_media_and_telecommunications,9811
+2021-08-01,South Australia,manufacturing,66938
+2021-08-01,South Australia,mining,18376
+2021-08-01,South Australia,other_services,37632
+2021-08-01,South Australia,professional_scientific_and_technical_services,63544
+2021-08-01,South Australia,public_administration_and_safety,68939
+2021-08-01,South Australia,rental_hiring_and_real_estate_services,16074
+2021-08-01,South Australia,retail_trade,88360
+2021-08-01,South Australia,total,886956
+2021-08-01,South Australia,transport_postal_and_warehousing,30872
+2021-08-01,South Australia,wholesale_trade,27379
+2021-11-01,South Australia,accommodation_and_food_services,57015
+2021-11-01,South Australia,administrative_and_support_services,32568
+2021-11-01,South Australia,agriculture_forestry_and_fishing,36877
+2021-11-01,South Australia,arts_and_recreation_services,13364
+2021-11-01,South Australia,construction,78978
+2021-11-01,South Australia,education_and_training,76265
+2021-11-01,South Australia,electricity_gas_water_and_waste_services,9292
+2021-11-01,South Australia,financial_and_insurance_services,19964
+2021-11-01,South Australia,health_care_and_social_assistance,145879
+2021-11-01,South Australia,information_media_and_telecommunications,10282
+2021-11-01,South Australia,manufacturing,67945
+2021-11-01,South Australia,mining,14011
+2021-11-01,South Australia,other_services,38602
+2021-11-01,South Australia,professional_scientific_and_technical_services,66336
+2021-11-01,South Australia,public_administration_and_safety,65136
+2021-11-01,South Australia,rental_hiring_and_real_estate_services,13586
+2021-11-01,South Australia,retail_trade,97512
+2021-11-01,South Australia,total,903660
+2021-11-01,South Australia,transport_postal_and_warehousing,36976
+2021-11-01,South Australia,wholesale_trade,23072
+2022-02-01,South Australia,accommodation_and_food_services,59451
+2022-02-01,South Australia,administrative_and_support_services,30639
+2022-02-01,South Australia,agriculture_forestry_and_fishing,32244
+2022-02-01,South Australia,arts_and_recreation_services,15216
+2022-02-01,South Australia,construction,78065
+2022-02-01,South Australia,education_and_training,76804
+2022-02-01,South Australia,electricity_gas_water_and_waste_services,9422
+2022-02-01,South Australia,financial_and_insurance_services,22852
+2022-02-01,South Australia,health_care_and_social_assistance,158813
+2022-02-01,South Australia,information_media_and_telecommunications,9685
+2022-02-01,South Australia,manufacturing,64672
+2022-02-01,South Australia,mining,15872
+2022-02-01,South Australia,other_services,38906
+2022-02-01,South Australia,professional_scientific_and_technical_services,66378
+2022-02-01,South Australia,public_administration_and_safety,63446
+2022-02-01,South Australia,rental_hiring_and_real_estate_services,14131
+2022-02-01,South Australia,retail_trade,92190
+2022-02-01,South Australia,total,906544
+2022-02-01,South Australia,transport_postal_and_warehousing,38882
+2022-02-01,South Australia,wholesale_trade,18878
+2022-05-01,South Australia,accommodation_and_food_services,54747
+2022-05-01,South Australia,administrative_and_support_services,34240
+2022-05-01,South Australia,agriculture_forestry_and_fishing,35973
+2022-05-01,South Australia,arts_and_recreation_services,12752
+2022-05-01,South Australia,construction,72869
+2022-05-01,South Australia,education_and_training,74512
+2022-05-01,South Australia,electricity_gas_water_and_waste_services,12943
+2022-05-01,South Australia,financial_and_insurance_services,25937
+2022-05-01,South Australia,health_care_and_social_assistance,162308
+2022-05-01,South Australia,information_media_and_telecommunications,7726
+2022-05-01,South Australia,manufacturing,74610
+2022-05-01,South Australia,mining,13906
+2022-05-01,South Australia,other_services,37050
+2022-05-01,South Australia,professional_scientific_and_technical_services,69827
+2022-05-01,South Australia,public_administration_and_safety,61193
+2022-05-01,South Australia,rental_hiring_and_real_estate_services,8821
+2022-05-01,South Australia,retail_trade,87175
+2022-05-01,South Australia,total,911084
+2022-05-01,South Australia,transport_postal_and_warehousing,39151
+2022-05-01,South Australia,wholesale_trade,25345
+2022-08-01,South Australia,accommodation_and_food_services,56676
+2022-08-01,South Australia,administrative_and_support_services,32615
+2022-08-01,South Australia,agriculture_forestry_and_fishing,39637
+2022-08-01,South Australia,arts_and_recreation_services,9154
+2022-08-01,South Australia,construction,86324
+2022-08-01,South Australia,education_and_training,74701
+2022-08-01,South Australia,electricity_gas_water_and_waste_services,8817
+2022-08-01,South Australia,financial_and_insurance_services,29771
+2022-08-01,South Australia,health_care_and_social_assistance,152993
+2022-08-01,South Australia,information_media_and_telecommunications,10475
+2022-08-01,South Australia,manufacturing,68716
+2022-08-01,South Australia,mining,11714
+2022-08-01,South Australia,other_services,41134
+2022-08-01,South Australia,professional_scientific_and_technical_services,69791
+2022-08-01,South Australia,public_administration_and_safety,59822
+2022-08-01,South Australia,rental_hiring_and_real_estate_services,12036
+2022-08-01,South Australia,retail_trade,88326
+2022-08-01,South Australia,total,915505
+2022-08-01,South Australia,transport_postal_and_warehousing,40625
+2022-08-01,South Australia,wholesale_trade,22177
+2022-11-01,South Australia,accommodation_and_food_services,65559
+2022-11-01,South Australia,administrative_and_support_services,30513
+2022-11-01,South Australia,agriculture_forestry_and_fishing,36739
+2022-11-01,South Australia,arts_and_recreation_services,12485
+2022-11-01,South Australia,construction,83853
+2022-11-01,South Australia,education_and_training,80671
+2022-11-01,South Australia,electricity_gas_water_and_waste_services,10552
+2022-11-01,South Australia,financial_and_insurance_services,28289
+2022-11-01,South Australia,health_care_and_social_assistance,157574
+2022-11-01,South Australia,information_media_and_telecommunications,9450
+2022-11-01,South Australia,manufacturing,63844
+2022-11-01,South Australia,mining,12947
+2022-11-01,South Australia,other_services,43041
+2022-11-01,South Australia,professional_scientific_and_technical_services,63998
+2022-11-01,South Australia,public_administration_and_safety,59052
+2022-11-01,South Australia,rental_hiring_and_real_estate_services,9897
+2022-11-01,South Australia,retail_trade,89883
+2022-11-01,South Australia,total,924331
+2022-11-01,South Australia,transport_postal_and_warehousing,42888
+2022-11-01,South Australia,wholesale_trade,23098
+2023-02-01,South Australia,accommodation_and_food_services,62432
+2023-02-01,South Australia,administrative_and_support_services,28780
+2023-02-01,South Australia,agriculture_forestry_and_fishing,35432
+2023-02-01,South Australia,arts_and_recreation_services,10090
+2023-02-01,South Australia,construction,82315
+2023-02-01,South Australia,education_and_training,78776
+2023-02-01,South Australia,electricity_gas_water_and_waste_services,13698
+2023-02-01,South Australia,financial_and_insurance_services,29055
+2023-02-01,South Australia,health_care_and_social_assistance,164816
+2023-02-01,South Australia,information_media_and_telecommunications,10717
+2023-02-01,South Australia,manufacturing,66712
+2023-02-01,South Australia,mining,15061
+2023-02-01,South Australia,other_services,38595
+2023-02-01,South Australia,professional_scientific_and_technical_services,67954
+2023-02-01,South Australia,public_administration_and_safety,66667
+2023-02-01,South Australia,rental_hiring_and_real_estate_services,9442
+2023-02-01,South Australia,retail_trade,95120
+2023-02-01,South Australia,total,941123
+2023-02-01,South Australia,transport_postal_and_warehousing,40937
+2023-02-01,South Australia,wholesale_trade,24523
+2023-05-01,South Australia,accommodation_and_food_services,59372
+2023-05-01,South Australia,administrative_and_support_services,35228
+2023-05-01,South Australia,agriculture_forestry_and_fishing,34892
+2023-05-01,South Australia,arts_and_recreation_services,12675
+2023-05-01,South Australia,construction,72269
+2023-05-01,South Australia,education_and_training,74369
+2023-05-01,South Australia,electricity_gas_water_and_waste_services,13292
+2023-05-01,South Australia,financial_and_insurance_services,25967
+2023-05-01,South Australia,health_care_and_social_assistance,174182
+2023-05-01,South Australia,information_media_and_telecommunications,11056
+2023-05-01,South Australia,manufacturing,76660
+2023-05-01,South Australia,mining,16842
+2023-05-01,South Australia,other_services,37499
+2023-05-01,South Australia,professional_scientific_and_technical_services,74893
+2023-05-01,South Australia,public_administration_and_safety,65887
+2023-05-01,South Australia,rental_hiring_and_real_estate_services,10264
+2023-05-01,South Australia,retail_trade,86170
+2023-05-01,South Australia,total,957477
+2023-05-01,South Australia,transport_postal_and_warehousing,47066
+2023-05-01,South Australia,wholesale_trade,28894
+2023-08-01,South Australia,accommodation_and_food_services,56725
+2023-08-01,South Australia,administrative_and_support_services,31189
+2023-08-01,South Australia,agriculture_forestry_and_fishing,39923
+2023-08-01,South Australia,arts_and_recreation_services,14688
+2023-08-01,South Australia,construction,75892
+2023-08-01,South Australia,education_and_training,75486
+2023-08-01,South Australia,electricity_gas_water_and_waste_services,13221
+2023-08-01,South Australia,financial_and_insurance_services,26297
+2023-08-01,South Australia,health_care_and_social_assistance,167603
+2023-08-01,South Australia,information_media_and_telecommunications,11906
+2023-08-01,South Australia,manufacturing,70482
+2023-08-01,South Australia,mining,15095
+2023-08-01,South Australia,other_services,31083
+2023-08-01,South Australia,professional_scientific_and_technical_services,71102
+2023-08-01,South Australia,public_administration_and_safety,68818
+2023-08-01,South Australia,rental_hiring_and_real_estate_services,13336
+2023-08-01,South Australia,retail_trade,96611
+2023-08-01,South Australia,total,951837
+2023-08-01,South Australia,transport_postal_and_warehousing,44793
+2023-08-01,South Australia,wholesale_trade,27587
+2023-11-01,South Australia,accommodation_and_food_services,53878
+2023-11-01,South Australia,administrative_and_support_services,31066
+2023-11-01,South Australia,agriculture_forestry_and_fishing,40588
+2023-11-01,South Australia,arts_and_recreation_services,15913
+2023-11-01,South Australia,construction,78220
+2023-11-01,South Australia,education_and_training,69171
+2023-11-01,South Australia,electricity_gas_water_and_waste_services,16467
+2023-11-01,South Australia,financial_and_insurance_services,26108
+2023-11-01,South Australia,health_care_and_social_assistance,175567
+2023-11-01,South Australia,information_media_and_telecommunications,10293
+2023-11-01,South Australia,manufacturing,67854
+2023-11-01,South Australia,mining,17308
+2023-11-01,South Australia,other_services,37569
+2023-11-01,South Australia,professional_scientific_and_technical_services,71793
+2023-11-01,South Australia,public_administration_and_safety,61367
+2023-11-01,South Australia,rental_hiring_and_real_estate_services,12426
+2023-11-01,South Australia,retail_trade,97020
+2023-11-01,South Australia,total,956566
+2023-11-01,South Australia,transport_postal_and_warehousing,43715
+2023-11-01,South Australia,wholesale_trade,30244
+2024-02-01,South Australia,accommodation_and_food_services,56049
+2024-02-01,South Australia,administrative_and_support_services,34440
+2024-02-01,South Australia,agriculture_forestry_and_fishing,40303
+2024-02-01,South Australia,arts_and_recreation_services,20029
+2024-02-01,South Australia,construction,85827
+2024-02-01,South Australia,education_and_training,79906
+2024-02-01,South Australia,electricity_gas_water_and_waste_services,15825
+2024-02-01,South Australia,financial_and_insurance_services,23159
+2024-02-01,South Australia,health_care_and_social_assistance,173407
+2024-02-01,South Australia,information_media_and_telecommunications,8652
+2024-02-01,South Australia,manufacturing,66935
+2024-02-01,South Australia,mining,18318
+2024-02-01,South Australia,other_services,39047
+2024-02-01,South Australia,professional_scientific_and_technical_services,69493
+2024-02-01,South Australia,public_administration_and_safety,58895
+2024-02-01,South Australia,rental_hiring_and_real_estate_services,11467
+2024-02-01,South Australia,retail_trade,91143
+2024-02-01,South Australia,total,956831
+2024-02-01,South Australia,transport_postal_and_warehousing,37116
+2024-02-01,South Australia,wholesale_trade,26818
+2024-05-01,South Australia,accommodation_and_food_services,50463
+2024-05-01,South Australia,administrative_and_support_services,35626
+2024-05-01,South Australia,agriculture_forestry_and_fishing,37336
+2024-05-01,South Australia,arts_and_recreation_services,15903
+2024-05-01,South Australia,construction,80172
+2024-05-01,South Australia,education_and_training,79293
+2024-05-01,South Australia,electricity_gas_water_and_waste_services,11991
+2024-05-01,South Australia,financial_and_insurance_services,24980
+2024-05-01,South Australia,health_care_and_social_assistance,179546
+2024-05-01,South Australia,information_media_and_telecommunications,8246
+2024-05-01,South Australia,manufacturing,70346
+2024-05-01,South Australia,mining,14383
+2024-05-01,South Australia,other_services,40558
+2024-05-01,South Australia,professional_scientific_and_technical_services,65140
+2024-05-01,South Australia,public_administration_and_safety,58880
+2024-05-01,South Australia,rental_hiring_and_real_estate_services,10868
+2024-05-01,South Australia,retail_trade,90893
+2024-05-01,South Australia,total,940065
+2024-05-01,South Australia,transport_postal_and_warehousing,40334
+2024-05-01,South Australia,wholesale_trade,25106
+2024-08-01,South Australia,accommodation_and_food_services,58951
+2024-08-01,South Australia,administrative_and_support_services,35529
+2024-08-01,South Australia,agriculture_forestry_and_fishing,33983
+2024-08-01,South Australia,arts_and_recreation_services,16904
+2024-08-01,South Australia,construction,82052
+2024-08-01,South Australia,education_and_training,77585
+2024-08-01,South Australia,electricity_gas_water_and_waste_services,12796
+2024-08-01,South Australia,financial_and_insurance_services,23154
+2024-08-01,South Australia,health_care_and_social_assistance,174107
+2024-08-01,South Australia,information_media_and_telecommunications,9592
+2024-08-01,South Australia,manufacturing,72897
+2024-08-01,South Australia,mining,13256
+2024-08-01,South Australia,other_services,36564
+2024-08-01,South Australia,professional_scientific_and_technical_services,68349
+2024-08-01,South Australia,public_administration_and_safety,55884
+2024-08-01,South Australia,rental_hiring_and_real_estate_services,16108
+2024-08-01,South Australia,retail_trade,93621
+2024-08-01,South Australia,total,943976
+2024-08-01,South Australia,transport_postal_and_warehousing,38005
+2024-08-01,South Australia,wholesale_trade,24642
+2024-11-01,South Australia,accommodation_and_food_services,57887
+2024-11-01,South Australia,administrative_and_support_services,33147
+2024-11-01,South Australia,agriculture_forestry_and_fishing,31516
+2024-11-01,South Australia,arts_and_recreation_services,15035
+2024-11-01,South Australia,construction,91242
+2024-11-01,South Australia,education_and_training,82567
+2024-11-01,South Australia,electricity_gas_water_and_waste_services,14589
+2024-11-01,South Australia,financial_and_insurance_services,23090
+2024-11-01,South Australia,health_care_and_social_assistance,164644
+2024-11-01,South Australia,information_media_and_telecommunications,11985
+2024-11-01,South Australia,manufacturing,72440
+2024-11-01,South Australia,mining,13462
+2024-11-01,South Australia,other_services,39880
+2024-11-01,South Australia,professional_scientific_and_technical_services,65645
+2024-11-01,South Australia,public_administration_and_safety,67110
+2024-11-01,South Australia,rental_hiring_and_real_estate_services,12536
+2024-11-01,South Australia,retail_trade,91747
+2024-11-01,South Australia,total,951004
+2024-11-01,South Australia,transport_postal_and_warehousing,42532
+2024-11-01,South Australia,wholesale_trade,19947
+2025-02-01,South Australia,accommodation_and_food_services,59738
+2025-02-01,South Australia,administrative_and_support_services,30418
+2025-02-01,South Australia,agriculture_forestry_and_fishing,32385
+2025-02-01,South Australia,arts_and_recreation_services,18911
+2025-02-01,South Australia,construction,87981
+2025-02-01,South Australia,education_and_training,89802
+2025-02-01,South Australia,electricity_gas_water_and_waste_services,18594
+2025-02-01,South Australia,financial_and_insurance_services,27131
+2025-02-01,South Australia,health_care_and_social_assistance,162878
+2025-02-01,South Australia,information_media_and_telecommunications,9250
+2025-02-01,South Australia,manufacturing,69666
+2025-02-01,South Australia,mining,19221
+2025-02-01,South Australia,other_services,40677
+2025-02-01,South Australia,professional_scientific_and_technical_services,66685
+2025-02-01,South Australia,public_administration_and_safety,67337
+2025-02-01,South Australia,rental_hiring_and_real_estate_services,16647
+2025-02-01,South Australia,retail_trade,91235
+2025-02-01,South Australia,total,966807
+2025-02-01,South Australia,transport_postal_and_warehousing,36737
+2025-02-01,South Australia,wholesale_trade,21515
+2025-05-01,South Australia,accommodation_and_food_services,56400
+2025-05-01,South Australia,administrative_and_support_services,36645
+2025-05-01,South Australia,agriculture_forestry_and_fishing,38847
+2025-05-01,South Australia,arts_and_recreation_services,15095
+2025-05-01,South Australia,construction,88622
+2025-05-01,South Australia,education_and_training,88622
+2025-05-01,South Australia,electricity_gas_water_and_waste_services,16830
+2025-05-01,South Australia,financial_and_insurance_services,29240
+2025-05-01,South Australia,health_care_and_social_assistance,171135
+2025-05-01,South Australia,information_media_and_telecommunications,7070
+2025-05-01,South Australia,manufacturing,68549
+2025-05-01,South Australia,mining,18017
+2025-05-01,South Australia,other_services,41021
+2025-05-01,South Australia,professional_scientific_and_technical_services,70747
+2025-05-01,South Australia,public_administration_and_safety,64036
+2025-05-01,South Australia,rental_hiring_and_real_estate_services,8570
+2025-05-01,South Australia,retail_trade,93760
+2025-05-01,South Australia,total,979627
+2025-05-01,South Australia,transport_postal_and_warehousing,43103
+2025-05-01,South Australia,wholesale_trade,23318
+2025-08-01,South Australia,accommodation_and_food_services,62717
+2025-08-01,South Australia,administrative_and_support_services,30479
+2025-08-01,South Australia,agriculture_forestry_and_fishing,36100
+2025-08-01,South Australia,arts_and_recreation_services,14903
+2025-08-01,South Australia,construction,93216
+2025-08-01,South Australia,education_and_training,84091
+2025-08-01,South Australia,electricity_gas_water_and_waste_services,15488
+2025-08-01,South Australia,financial_and_insurance_services,24738
+2025-08-01,South Australia,health_care_and_social_assistance,191257
+2025-08-01,South Australia,information_media_and_telecommunications,8192
+2025-08-01,South Australia,manufacturing,66757
+2025-08-01,South Australia,mining,19008
+2025-08-01,South Australia,other_services,35548
+2025-08-01,South Australia,professional_scientific_and_technical_services,68694
+2025-08-01,South Australia,public_administration_and_safety,58268
+2025-08-01,South Australia,rental_hiring_and_real_estate_services,11518
+2025-08-01,South Australia,retail_trade,89759
+2025-08-01,South Australia,total,979302
+2025-08-01,South Australia,transport_postal_and_warehousing,45411
+2025-08-01,South Australia,wholesale_trade,23158
+2025-11-01,South Australia,accommodation_and_food_services,66376
+2025-11-01,South Australia,administrative_and_support_services,30071
+2025-11-01,South Australia,agriculture_forestry_and_fishing,39432
+2025-11-01,South Australia,arts_and_recreation_services,18599
+2025-11-01,South Australia,construction,86846
+2025-11-01,South Australia,education_and_training,88987
+2025-11-01,South Australia,electricity_gas_water_and_waste_services,16198
+2025-11-01,South Australia,financial_and_insurance_services,25197
+2025-11-01,South Australia,health_care_and_social_assistance,197364
+2025-11-01,South Australia,information_media_and_telecommunications,6257
+2025-11-01,South Australia,manufacturing,67409
+2025-11-01,South Australia,mining,16394
+2025-11-01,South Australia,other_services,36718
+2025-11-01,South Australia,professional_scientific_and_technical_services,68832
+2025-11-01,South Australia,public_administration_and_safety,68617
+2025-11-01,South Australia,rental_hiring_and_real_estate_services,12940
+2025-11-01,South Australia,retail_trade,82648
+2025-11-01,South Australia,total,994879
+2025-11-01,South Australia,transport_postal_and_warehousing,43406
+2025-11-01,South Australia,wholesale_trade,22587
+2019-02-01,Victoria,accommodation_and_food_services,207062
+2019-02-01,Victoria,administrative_and_support_services,125140
+2019-02-01,Victoria,agriculture_forestry_and_fishing,89789
+2019-02-01,Victoria,arts_and_recreation_services,82135
+2019-02-01,Victoria,construction,297360
+2019-02-01,Victoria,education_and_training,266883
+2019-02-01,Victoria,electricity_gas_water_and_waste_services,50446
+2019-02-01,Victoria,financial_and_insurance_services,128681
+2019-02-01,Victoria,health_care_and_social_assistance,433350
+2019-02-01,Victoria,information_media_and_telecommunications,63536
+2019-02-01,Victoria,manufacturing,269749
+2019-02-01,Victoria,mining,23644
+2019-02-01,Victoria,other_services,129671
+2019-02-01,Victoria,professional_scientific_and_technical_services,320422
+2019-02-01,Victoria,public_administration_and_safety,185109
+2019-02-01,Victoria,rental_hiring_and_real_estate_services,57512
+2019-02-01,Victoria,retail_trade,347103
+2019-02-01,Victoria,total,3364659
+2019-02-01,Victoria,transport_postal_and_warehousing,180488
+2019-02-01,Victoria,wholesale_trade,106578
+2019-05-01,Victoria,accommodation_and_food_services,199175
+2019-05-01,Victoria,administrative_and_support_services,127494
+2019-05-01,Victoria,agriculture_forestry_and_fishing,79506
+2019-05-01,Victoria,arts_and_recreation_services,75731
+2019-05-01,Victoria,construction,312318
+2019-05-01,Victoria,education_and_training,293639
+2019-05-01,Victoria,electricity_gas_water_and_waste_services,52945
+2019-05-01,Victoria,financial_and_insurance_services,122799
+2019-05-01,Victoria,health_care_and_social_assistance,411529
+2019-05-01,Victoria,information_media_and_telecommunications,64910
+2019-05-01,Victoria,manufacturing,270316
+2019-05-01,Victoria,mining,16763
+2019-05-01,Victoria,other_services,134088
+2019-05-01,Victoria,professional_scientific_and_technical_services,332639
+2019-05-01,Victoria,public_administration_and_safety,186966
+2019-05-01,Victoria,rental_hiring_and_real_estate_services,56154
+2019-05-01,Victoria,retail_trade,354836
+2019-05-01,Victoria,total,3370753
+2019-05-01,Victoria,transport_postal_and_warehousing,164928
+2019-05-01,Victoria,wholesale_trade,114017
+2019-08-01,Victoria,accommodation_and_food_services,209188
+2019-08-01,Victoria,administrative_and_support_services,125156
+2019-08-01,Victoria,agriculture_forestry_and_fishing,72491
+2019-08-01,Victoria,arts_and_recreation_services,68823
+2019-08-01,Victoria,construction,304939
+2019-08-01,Victoria,education_and_training,306519
+2019-08-01,Victoria,electricity_gas_water_and_waste_services,45359
+2019-08-01,Victoria,financial_and_insurance_services,128640
+2019-08-01,Victoria,health_care_and_social_assistance,420422
+2019-08-01,Victoria,information_media_and_telecommunications,64465
+2019-08-01,Victoria,manufacturing,272123
+2019-08-01,Victoria,mining,11982
+2019-08-01,Victoria,other_services,116761
+2019-08-01,Victoria,professional_scientific_and_technical_services,348471
+2019-08-01,Victoria,public_administration_and_safety,190717
+2019-08-01,Victoria,rental_hiring_and_real_estate_services,51600
+2019-08-01,Victoria,retail_trade,335156
+2019-08-01,Victoria,total,3362659
+2019-08-01,Victoria,transport_postal_and_warehousing,169040
+2019-08-01,Victoria,wholesale_trade,120806
+2019-11-01,Victoria,accommodation_and_food_services,206764
+2019-11-01,Victoria,administrative_and_support_services,120504
+2019-11-01,Victoria,agriculture_forestry_and_fishing,78125
+2019-11-01,Victoria,arts_and_recreation_services,70613
+2019-11-01,Victoria,construction,333052
+2019-11-01,Victoria,education_and_training,295242
+2019-11-01,Victoria,electricity_gas_water_and_waste_services,46392
+2019-11-01,Victoria,financial_and_insurance_services,131528
+2019-11-01,Victoria,health_care_and_social_assistance,460174
+2019-11-01,Victoria,information_media_and_telecommunications,64567
+2019-11-01,Victoria,manufacturing,298179
+2019-11-01,Victoria,mining,11691
+2019-11-01,Victoria,other_services,118911
+2019-11-01,Victoria,professional_scientific_and_technical_services,308504
+2019-11-01,Victoria,public_administration_and_safety,177463
+2019-11-01,Victoria,rental_hiring_and_real_estate_services,55001
+2019-11-01,Victoria,retail_trade,343612
+2019-11-01,Victoria,total,3407826
+2019-11-01,Victoria,transport_postal_and_warehousing,185334
+2019-11-01,Victoria,wholesale_trade,102170
+2020-02-01,Victoria,accommodation_and_food_services,219202
+2020-02-01,Victoria,administrative_and_support_services,123755
+2020-02-01,Victoria,agriculture_forestry_and_fishing,101462
+2020-02-01,Victoria,arts_and_recreation_services,76264
+2020-02-01,Victoria,construction,308265
+2020-02-01,Victoria,education_and_training,294421
+2020-02-01,Victoria,electricity_gas_water_and_waste_services,41592
+2020-02-01,Victoria,financial_and_insurance_services,136178
+2020-02-01,Victoria,health_care_and_social_assistance,477366
+2020-02-01,Victoria,information_media_and_telecommunications,52323
+2020-02-01,Victoria,manufacturing,291695
+2020-02-01,Victoria,mining,7778
+2020-02-01,Victoria,other_services,119601
+2020-02-01,Victoria,professional_scientific_and_technical_services,313582
+2020-02-01,Victoria,public_administration_and_safety,177266
+2020-02-01,Victoria,rental_hiring_and_real_estate_services,51712
+2020-02-01,Victoria,retail_trade,326527
+2020-02-01,Victoria,total,3410847
+2020-02-01,Victoria,transport_postal_and_warehousing,181342
+2020-02-01,Victoria,wholesale_trade,110513
+2020-05-01,Victoria,accommodation_and_food_services,149593
+2020-05-01,Victoria,administrative_and_support_services,100857
+2020-05-01,Victoria,agriculture_forestry_and_fishing,95237
+2020-05-01,Victoria,arts_and_recreation_services,50957
+2020-05-01,Victoria,construction,298490
+2020-05-01,Victoria,education_and_training,262653
+2020-05-01,Victoria,electricity_gas_water_and_waste_services,44259
+2020-05-01,Victoria,financial_and_insurance_services,137805
+2020-05-01,Victoria,health_care_and_social_assistance,474150
+2020-05-01,Victoria,information_media_and_telecommunications,44511
+2020-05-01,Victoria,manufacturing,290385
+2020-05-01,Victoria,mining,8386
+2020-05-01,Victoria,other_services,111603
+2020-05-01,Victoria,professional_scientific_and_technical_services,309336
+2020-05-01,Victoria,public_administration_and_safety,175036
+2020-05-01,Victoria,rental_hiring_and_real_estate_services,51900
+2020-05-01,Victoria,retail_trade,327322
+2020-05-01,Victoria,total,3211643
+2020-05-01,Victoria,transport_postal_and_warehousing,162834
+2020-05-01,Victoria,wholesale_trade,116329
+2020-08-01,Victoria,accommodation_and_food_services,148844
+2020-08-01,Victoria,administrative_and_support_services,95669
+2020-08-01,Victoria,agriculture_forestry_and_fishing,89780
+2020-08-01,Victoria,arts_and_recreation_services,49148
+2020-08-01,Victoria,construction,292901
+2020-08-01,Victoria,education_and_training,296464
+2020-08-01,Victoria,electricity_gas_water_and_waste_services,37307
+2020-08-01,Victoria,financial_and_insurance_services,141074
+2020-08-01,Victoria,health_care_and_social_assistance,466641
+2020-08-01,Victoria,information_media_and_telecommunications,52967
+2020-08-01,Victoria,manufacturing,262746
+2020-08-01,Victoria,mining,6218
+2020-08-01,Victoria,other_services,98008
+2020-08-01,Victoria,professional_scientific_and_technical_services,307022
+2020-08-01,Victoria,public_administration_and_safety,168922
+2020-08-01,Victoria,rental_hiring_and_real_estate_services,53880
+2020-08-01,Victoria,retail_trade,313927
+2020-08-01,Victoria,total,3169466
+2020-08-01,Victoria,transport_postal_and_warehousing,170016
+2020-08-01,Victoria,wholesale_trade,117932
+2020-11-01,Victoria,accommodation_and_food_services,174282
+2020-11-01,Victoria,administrative_and_support_services,110782
+2020-11-01,Victoria,agriculture_forestry_and_fishing,72474
+2020-11-01,Victoria,arts_and_recreation_services,59397
+2020-11-01,Victoria,construction,295399
+2020-11-01,Victoria,education_and_training,304937
+2020-11-01,Victoria,electricity_gas_water_and_waste_services,36362
+2020-11-01,Victoria,financial_and_insurance_services,138495
+2020-11-01,Victoria,health_care_and_social_assistance,464896
+2020-11-01,Victoria,information_media_and_telecommunications,56782
+2020-11-01,Victoria,manufacturing,260352
+2020-11-01,Victoria,mining,9091
+2020-11-01,Victoria,other_services,103770
+2020-11-01,Victoria,professional_scientific_and_technical_services,320995
+2020-11-01,Victoria,public_administration_and_safety,184310
+2020-11-01,Victoria,rental_hiring_and_real_estate_services,46212
+2020-11-01,Victoria,retail_trade,352097
+2020-11-01,Victoria,total,3288612
+2020-11-01,Victoria,transport_postal_and_warehousing,187780
+2020-11-01,Victoria,wholesale_trade,110199
+2021-02-01,Victoria,accommodation_and_food_services,191004
+2021-02-01,Victoria,administrative_and_support_services,93949
+2021-02-01,Victoria,agriculture_forestry_and_fishing,83237
+2021-02-01,Victoria,arts_and_recreation_services,73782
+2021-02-01,Victoria,construction,315526
+2021-02-01,Victoria,education_and_training,280642
+2021-02-01,Victoria,electricity_gas_water_and_waste_services,35665
+2021-02-01,Victoria,financial_and_insurance_services,133437
+2021-02-01,Victoria,health_care_and_social_assistance,462490
+2021-02-01,Victoria,information_media_and_telecommunications,66814
+2021-02-01,Victoria,manufacturing,265623
+2021-02-01,Victoria,mining,7750
+2021-02-01,Victoria,other_services,109870
+2021-02-01,Victoria,professional_scientific_and_technical_services,326110
+2021-02-01,Victoria,public_administration_and_safety,196180
+2021-02-01,Victoria,rental_hiring_and_real_estate_services,45387
+2021-02-01,Victoria,retail_trade,369135
+2021-02-01,Victoria,total,3367480
+2021-02-01,Victoria,transport_postal_and_warehousing,199447
+2021-02-01,Victoria,wholesale_trade,111433
+2021-05-01,Victoria,accommodation_and_food_services,215755
+2021-05-01,Victoria,administrative_and_support_services,105308
+2021-05-01,Victoria,agriculture_forestry_and_fishing,84637
+2021-05-01,Victoria,arts_and_recreation_services,77819
+2021-05-01,Victoria,construction,315030
+2021-05-01,Victoria,education_and_training,292420
+2021-05-01,Victoria,electricity_gas_water_and_waste_services,39161
+2021-05-01,Victoria,financial_and_insurance_services,136399
+2021-05-01,Victoria,health_care_and_social_assistance,461544
+2021-05-01,Victoria,information_media_and_telecommunications,57092
+2021-05-01,Victoria,manufacturing,269643
+2021-05-01,Victoria,mining,11662
+2021-05-01,Victoria,other_services,134310
+2021-05-01,Victoria,professional_scientific_and_technical_services,336028
+2021-05-01,Victoria,public_administration_and_safety,199584
+2021-05-01,Victoria,rental_hiring_and_real_estate_services,50939
+2021-05-01,Victoria,retail_trade,339654
+2021-05-01,Victoria,total,3387758
+2021-05-01,Victoria,transport_postal_and_warehousing,154977
+2021-05-01,Victoria,wholesale_trade,105797
+2021-08-01,Victoria,accommodation_and_food_services,212640
+2021-08-01,Victoria,administrative_and_support_services,111851
+2021-08-01,Victoria,agriculture_forestry_and_fishing,77408
+2021-08-01,Victoria,arts_and_recreation_services,62149
+2021-08-01,Victoria,construction,317628
+2021-08-01,Victoria,education_and_training,284611
+2021-08-01,Victoria,electricity_gas_water_and_waste_services,42188
+2021-08-01,Victoria,financial_and_insurance_services,142012
+2021-08-01,Victoria,health_care_and_social_assistance,485674
+2021-08-01,Victoria,information_media_and_telecommunications,54714
+2021-08-01,Victoria,manufacturing,286782
+2021-08-01,Victoria,mining,11636
+2021-08-01,Victoria,other_services,129735
+2021-08-01,Victoria,professional_scientific_and_technical_services,326099
+2021-08-01,Victoria,public_administration_and_safety,191584
+2021-08-01,Victoria,rental_hiring_and_real_estate_services,53048
+2021-08-01,Victoria,retail_trade,322207
+2021-08-01,Victoria,total,3389695
+2021-08-01,Victoria,transport_postal_and_warehousing,173363
+2021-08-01,Victoria,wholesale_trade,104366
+2021-11-01,Victoria,accommodation_and_food_services,200567
+2021-11-01,Victoria,administrative_and_support_services,119846
+2021-11-01,Victoria,agriculture_forestry_and_fishing,68598
+2021-11-01,Victoria,arts_and_recreation_services,52649
+2021-11-01,Victoria,construction,317448
+2021-11-01,Victoria,education_and_training,299024
+2021-11-01,Victoria,electricity_gas_water_and_waste_services,37154
+2021-11-01,Victoria,financial_and_insurance_services,146192
+2021-11-01,Victoria,health_care_and_social_assistance,492108
+2021-11-01,Victoria,information_media_and_telecommunications,64019
+2021-11-01,Victoria,manufacturing,260568
+2021-11-01,Victoria,mining,12994
+2021-11-01,Victoria,other_services,121119
+2021-11-01,Victoria,professional_scientific_and_technical_services,333479
+2021-11-01,Victoria,public_administration_and_safety,203955
+2021-11-01,Victoria,rental_hiring_and_real_estate_services,55268
+2021-11-01,Victoria,retail_trade,351530
+2021-11-01,Victoria,total,3403875
+2021-11-01,Victoria,transport_postal_and_warehousing,167432
+2021-11-01,Victoria,wholesale_trade,99928
+2022-02-01,Victoria,accommodation_and_food_services,205473
+2022-02-01,Victoria,administrative_and_support_services,104537
+2022-02-01,Victoria,agriculture_forestry_and_fishing,70601
+2022-02-01,Victoria,arts_and_recreation_services,57583
+2022-02-01,Victoria,construction,304863
+2022-02-01,Victoria,education_and_training,305033
+2022-02-01,Victoria,electricity_gas_water_and_waste_services,48773
+2022-02-01,Victoria,financial_and_insurance_services,169900
+2022-02-01,Victoria,health_care_and_social_assistance,510455
+2022-02-01,Victoria,information_media_and_telecommunications,62382
+2022-02-01,Victoria,manufacturing,259296
+2022-02-01,Victoria,mining,15892
+2022-02-01,Victoria,other_services,119918
+2022-02-01,Victoria,professional_scientific_and_technical_services,376120
+2022-02-01,Victoria,public_administration_and_safety,206601
+2022-02-01,Victoria,rental_hiring_and_real_estate_services,51090
+2022-02-01,Victoria,retail_trade,323421
+2022-02-01,Victoria,total,3474184
+2022-02-01,Victoria,transport_postal_and_warehousing,181540
+2022-02-01,Victoria,wholesale_trade,100706
+2022-05-01,Victoria,accommodation_and_food_services,222166
+2022-05-01,Victoria,administrative_and_support_services,111767
+2022-05-01,Victoria,agriculture_forestry_and_fishing,61962
+2022-05-01,Victoria,arts_and_recreation_services,53903
+2022-05-01,Victoria,construction,327541
+2022-05-01,Victoria,education_and_training,298887
+2022-05-01,Victoria,electricity_gas_water_and_waste_services,39090
+2022-05-01,Victoria,financial_and_insurance_services,158961
+2022-05-01,Victoria,health_care_and_social_assistance,503545
+2022-05-01,Victoria,information_media_and_telecommunications,59491
+2022-05-01,Victoria,manufacturing,244392
+2022-05-01,Victoria,mining,8746
+2022-05-01,Victoria,other_services,135458
+2022-05-01,Victoria,professional_scientific_and_technical_services,362564
+2022-05-01,Victoria,public_administration_and_safety,201559
+2022-05-01,Victoria,rental_hiring_and_real_estate_services,60753
+2022-05-01,Victoria,retail_trade,319779
+2022-05-01,Victoria,total,3481197
+2022-05-01,Victoria,transport_postal_and_warehousing,193179
+2022-05-01,Victoria,wholesale_trade,117455
+2022-08-01,Victoria,accommodation_and_food_services,219282
+2022-08-01,Victoria,administrative_and_support_services,102384
+2022-08-01,Victoria,agriculture_forestry_and_fishing,69297
+2022-08-01,Victoria,arts_and_recreation_services,60475
+2022-08-01,Victoria,construction,337143
+2022-08-01,Victoria,education_and_training,297724
+2022-08-01,Victoria,electricity_gas_water_and_waste_services,38812
+2022-08-01,Victoria,financial_and_insurance_services,166098
+2022-08-01,Victoria,health_care_and_social_assistance,535098
+2022-08-01,Victoria,information_media_and_telecommunications,53405
+2022-08-01,Victoria,manufacturing,255707
+2022-08-01,Victoria,mining,10612
+2022-08-01,Victoria,other_services,121271
+2022-08-01,Victoria,professional_scientific_and_technical_services,350992
+2022-08-01,Victoria,public_administration_and_safety,176725
+2022-08-01,Victoria,rental_hiring_and_real_estate_services,66816
+2022-08-01,Victoria,retail_trade,313969
+2022-08-01,Victoria,total,3479724
+2022-08-01,Victoria,transport_postal_and_warehousing,190803
+2022-08-01,Victoria,wholesale_trade,113111
+2022-11-01,Victoria,accommodation_and_food_services,224005
+2022-11-01,Victoria,administrative_and_support_services,113933
+2022-11-01,Victoria,agriculture_forestry_and_fishing,85551
+2022-11-01,Victoria,arts_and_recreation_services,67953
+2022-11-01,Victoria,construction,355388
+2022-11-01,Victoria,education_and_training,314129
+2022-11-01,Victoria,electricity_gas_water_and_waste_services,41604
+2022-11-01,Victoria,financial_and_insurance_services,181415
+2022-11-01,Victoria,health_care_and_social_assistance,535166
+2022-11-01,Victoria,information_media_and_telecommunications,52102
+2022-11-01,Victoria,manufacturing,260032
+2022-11-01,Victoria,mining,7366
+2022-11-01,Victoria,other_services,107561
+2022-11-01,Victoria,professional_scientific_and_technical_services,345967
+2022-11-01,Victoria,public_administration_and_safety,172402
+2022-11-01,Victoria,rental_hiring_and_real_estate_services,56053
+2022-11-01,Victoria,retail_trade,350001
+2022-11-01,Victoria,total,3549998
+2022-11-01,Victoria,transport_postal_and_warehousing,174187
+2022-11-01,Victoria,wholesale_trade,105184
+2023-02-01,Victoria,accommodation_and_food_services,229977
+2023-02-01,Victoria,administrative_and_support_services,98711
+2023-02-01,Victoria,agriculture_forestry_and_fishing,82032
+2023-02-01,Victoria,arts_and_recreation_services,79011
+2023-02-01,Victoria,construction,369392
+2023-02-01,Victoria,education_and_training,293379
+2023-02-01,Victoria,electricity_gas_water_and_waste_services,45112
+2023-02-01,Victoria,financial_and_insurance_services,158644
+2023-02-01,Victoria,health_care_and_social_assistance,553526
+2023-02-01,Victoria,information_media_and_telecommunications,64901
+2023-02-01,Victoria,manufacturing,256444
+2023-02-01,Victoria,mining,8709
+2023-02-01,Victoria,other_services,114274
+2023-02-01,Victoria,professional_scientific_and_technical_services,364801
+2023-02-01,Victoria,public_administration_and_safety,168564
+2023-02-01,Victoria,rental_hiring_and_real_estate_services,61056
+2023-02-01,Victoria,retail_trade,371793
+2023-02-01,Victoria,total,3597783
+2023-02-01,Victoria,transport_postal_and_warehousing,182459
+2023-02-01,Victoria,wholesale_trade,94998
+2023-05-01,Victoria,accommodation_and_food_services,232111
+2023-05-01,Victoria,administrative_and_support_services,94067
+2023-05-01,Victoria,agriculture_forestry_and_fishing,77270
+2023-05-01,Victoria,arts_and_recreation_services,72137
+2023-05-01,Victoria,construction,347080
+2023-05-01,Victoria,education_and_training,295589
+2023-05-01,Victoria,electricity_gas_water_and_waste_services,44249
+2023-05-01,Victoria,financial_and_insurance_services,156995
+2023-05-01,Victoria,health_care_and_social_assistance,557270
+2023-05-01,Victoria,information_media_and_telecommunications,59422
+2023-05-01,Victoria,manufacturing,283046
+2023-05-01,Victoria,mining,10561
+2023-05-01,Victoria,other_services,129368
+2023-05-01,Victoria,professional_scientific_and_technical_services,408176
+2023-05-01,Victoria,public_administration_and_safety,183871
+2023-05-01,Victoria,rental_hiring_and_real_estate_services,51201
+2023-05-01,Victoria,retail_trade,355593
+2023-05-01,Victoria,total,3638496
+2023-05-01,Victoria,transport_postal_and_warehousing,184448
+2023-05-01,Victoria,wholesale_trade,96043
+2023-08-01,Victoria,accommodation_and_food_services,218745
+2023-08-01,Victoria,administrative_and_support_services,97038
+2023-08-01,Victoria,agriculture_forestry_and_fishing,67067
+2023-08-01,Victoria,arts_and_recreation_services,79922
+2023-08-01,Victoria,construction,324985
+2023-08-01,Victoria,education_and_training,294565
+2023-08-01,Victoria,electricity_gas_water_and_waste_services,47172
+2023-08-01,Victoria,financial_and_insurance_services,163917
+2023-08-01,Victoria,health_care_and_social_assistance,577736
+2023-08-01,Victoria,information_media_and_telecommunications,59423
+2023-08-01,Victoria,manufacturing,296757
+2023-08-01,Victoria,mining,11793
+2023-08-01,Victoria,other_services,112037
+2023-08-01,Victoria,professional_scientific_and_technical_services,374056
+2023-08-01,Victoria,public_administration_and_safety,180936
+2023-08-01,Victoria,rental_hiring_and_real_estate_services,54949
+2023-08-01,Victoria,retail_trade,356152
+2023-08-01,Victoria,total,3618574
+2023-08-01,Victoria,transport_postal_and_warehousing,188933
+2023-08-01,Victoria,wholesale_trade,112392
+2023-11-01,Victoria,accommodation_and_food_services,215079
+2023-11-01,Victoria,administrative_and_support_services,106957
+2023-11-01,Victoria,agriculture_forestry_and_fishing,79037
+2023-11-01,Victoria,arts_and_recreation_services,81487
+2023-11-01,Victoria,construction,355734
+2023-11-01,Victoria,education_and_training,342707
+2023-11-01,Victoria,electricity_gas_water_and_waste_services,39814
+2023-11-01,Victoria,financial_and_insurance_services,170587
+2023-11-01,Victoria,health_care_and_social_assistance,596095
+2023-11-01,Victoria,information_media_and_telecommunications,55259
+2023-11-01,Victoria,manufacturing,262068
+2023-11-01,Victoria,mining,13876
+2023-11-01,Victoria,other_services,127585
+2023-11-01,Victoria,professional_scientific_and_technical_services,370889
+2023-11-01,Victoria,public_administration_and_safety,183980
+2023-11-01,Victoria,rental_hiring_and_real_estate_services,45245
+2023-11-01,Victoria,retail_trade,337057
+2023-11-01,Victoria,total,3664683
+2023-11-01,Victoria,transport_postal_and_warehousing,177467
+2023-11-01,Victoria,wholesale_trade,103762
+2024-02-01,Victoria,accommodation_and_food_services,225234
+2024-02-01,Victoria,administrative_and_support_services,105413
+2024-02-01,Victoria,agriculture_forestry_and_fishing,93514
+2024-02-01,Victoria,arts_and_recreation_services,84518
+2024-02-01,Victoria,construction,353710
+2024-02-01,Victoria,education_and_training,315806
+2024-02-01,Victoria,electricity_gas_water_and_waste_services,49934
+2024-02-01,Victoria,financial_and_insurance_services,153811
+2024-02-01,Victoria,health_care_and_social_assistance,579627
+2024-02-01,Victoria,information_media_and_telecommunications,61103
+2024-02-01,Victoria,manufacturing,264452
+2024-02-01,Victoria,mining,17388
+2024-02-01,Victoria,other_services,127457
+2024-02-01,Victoria,professional_scientific_and_technical_services,356611
+2024-02-01,Victoria,public_administration_and_safety,186190
+2024-02-01,Victoria,rental_hiring_and_real_estate_services,58433
+2024-02-01,Victoria,retail_trade,379436
+2024-02-01,Victoria,total,3714808
+2024-02-01,Victoria,transport_postal_and_warehousing,190770
+2024-02-01,Victoria,wholesale_trade,111401
+2024-05-01,Victoria,accommodation_and_food_services,224902
+2024-05-01,Victoria,administrative_and_support_services,122123
+2024-05-01,Victoria,agriculture_forestry_and_fishing,93993
+2024-05-01,Victoria,arts_and_recreation_services,78831
+2024-05-01,Victoria,construction,366362
+2024-05-01,Victoria,education_and_training,315580
+2024-05-01,Victoria,electricity_gas_water_and_waste_services,61586
+2024-05-01,Victoria,financial_and_insurance_services,165702
+2024-05-01,Victoria,health_care_and_social_assistance,578802
+2024-05-01,Victoria,information_media_and_telecommunications,63364
+2024-05-01,Victoria,manufacturing,285518
+2024-05-01,Victoria,mining,11522
+2024-05-01,Victoria,other_services,128147
+2024-05-01,Victoria,professional_scientific_and_technical_services,340934
+2024-05-01,Victoria,public_administration_and_safety,192877
+2024-05-01,Victoria,rental_hiring_and_real_estate_services,55750
+2024-05-01,Victoria,retail_trade,329646
+2024-05-01,Victoria,total,3723773
+2024-05-01,Victoria,transport_postal_and_warehousing,194243
+2024-05-01,Victoria,wholesale_trade,113892
+2024-08-01,Victoria,accommodation_and_food_services,215389
+2024-08-01,Victoria,administrative_and_support_services,117204
+2024-08-01,Victoria,agriculture_forestry_and_fishing,80643
+2024-08-01,Victoria,arts_and_recreation_services,74254
+2024-08-01,Victoria,construction,350111
+2024-08-01,Victoria,education_and_training,336581
+2024-08-01,Victoria,electricity_gas_water_and_waste_services,57249
+2024-08-01,Victoria,financial_and_insurance_services,162590
+2024-08-01,Victoria,health_care_and_social_assistance,592084
+2024-08-01,Victoria,information_media_and_telecommunications,56448
+2024-08-01,Victoria,manufacturing,290204
+2024-08-01,Victoria,mining,12803
+2024-08-01,Victoria,other_services,137976
+2024-08-01,Victoria,professional_scientific_and_technical_services,364456
+2024-08-01,Victoria,public_administration_and_safety,190240
+2024-08-01,Victoria,rental_hiring_and_real_estate_services,59753
+2024-08-01,Victoria,retail_trade,334246
+2024-08-01,Victoria,total,3725142
+2024-08-01,Victoria,transport_postal_and_warehousing,184404
+2024-08-01,Victoria,wholesale_trade,108508
+2024-11-01,Victoria,accommodation_and_food_services,233951
+2024-11-01,Victoria,administrative_and_support_services,115413
+2024-11-01,Victoria,agriculture_forestry_and_fishing,64842
+2024-11-01,Victoria,arts_and_recreation_services,74377
+2024-11-01,Victoria,construction,348305
+2024-11-01,Victoria,education_and_training,355773
+2024-11-01,Victoria,electricity_gas_water_and_waste_services,45745
+2024-11-01,Victoria,financial_and_insurance_services,158495
+2024-11-01,Victoria,health_care_and_social_assistance,579446
+2024-11-01,Victoria,information_media_and_telecommunications,44515
+2024-11-01,Victoria,manufacturing,287133
+2024-11-01,Victoria,mining,13871
+2024-11-01,Victoria,other_services,143505
+2024-11-01,Victoria,professional_scientific_and_technical_services,388409
+2024-11-01,Victoria,public_administration_and_safety,208032
+2024-11-01,Victoria,rental_hiring_and_real_estate_services,56950
+2024-11-01,Victoria,retail_trade,354385
+2024-11-01,Victoria,total,3769549
+2024-11-01,Victoria,transport_postal_and_warehousing,193577
+2024-11-01,Victoria,wholesale_trade,102826
+2025-02-01,Victoria,accommodation_and_food_services,227765
+2025-02-01,Victoria,administrative_and_support_services,109378
+2025-02-01,Victoria,agriculture_forestry_and_fishing,74475
+2025-02-01,Victoria,arts_and_recreation_services,81387
+2025-02-01,Victoria,construction,356701
+2025-02-01,Victoria,education_and_training,341327
+2025-02-01,Victoria,electricity_gas_water_and_waste_services,46006
+2025-02-01,Victoria,financial_and_insurance_services,153690
+2025-02-01,Victoria,health_care_and_social_assistance,603246
+2025-02-01,Victoria,information_media_and_telecommunications,59598
+2025-02-01,Victoria,manufacturing,273222
+2025-02-01,Victoria,mining,13886
+2025-02-01,Victoria,other_services,138348
+2025-02-01,Victoria,professional_scientific_and_technical_services,366055
+2025-02-01,Victoria,public_administration_and_safety,218150
+2025-02-01,Victoria,rental_hiring_and_real_estate_services,51358
+2025-02-01,Victoria,retail_trade,351119
+2025-02-01,Victoria,total,3764793
+2025-02-01,Victoria,transport_postal_and_warehousing,203881
+2025-02-01,Victoria,wholesale_trade,95201
+2025-05-01,Victoria,accommodation_and_food_services,245459
+2025-05-01,Victoria,administrative_and_support_services,108483
+2025-05-01,Victoria,agriculture_forestry_and_fishing,71055
+2025-05-01,Victoria,arts_and_recreation_services,78030
+2025-05-01,Victoria,construction,342562
+2025-05-01,Victoria,education_and_training,335254
+2025-05-01,Victoria,electricity_gas_water_and_waste_services,49822
+2025-05-01,Victoria,financial_and_insurance_services,161095
+2025-05-01,Victoria,health_care_and_social_assistance,612824
+2025-05-01,Victoria,information_media_and_telecommunications,60917
+2025-05-01,Victoria,manufacturing,250097
+2025-05-01,Victoria,mining,7634
+2025-05-01,Victoria,other_services,139030
+2025-05-01,Victoria,professional_scientific_and_technical_services,395989
+2025-05-01,Victoria,public_administration_and_safety,219426
+2025-05-01,Victoria,rental_hiring_and_real_estate_services,50439
+2025-05-01,Victoria,retail_trade,354339
+2025-05-01,Victoria,total,3796364
+2025-05-01,Victoria,transport_postal_and_warehousing,213168
+2025-05-01,Victoria,wholesale_trade,100739
+2025-08-01,Victoria,accommodation_and_food_services,258415
+2025-08-01,Victoria,administrative_and_support_services,113543
+2025-08-01,Victoria,agriculture_forestry_and_fishing,66448
+2025-08-01,Victoria,arts_and_recreation_services,71179
+2025-08-01,Victoria,construction,320520
+2025-08-01,Victoria,education_and_training,365272
+2025-08-01,Victoria,electricity_gas_water_and_waste_services,40843
+2025-08-01,Victoria,financial_and_insurance_services,169769
+2025-08-01,Victoria,health_care_and_social_assistance,621371
+2025-08-01,Victoria,information_media_and_telecommunications,64158
+2025-08-01,Victoria,manufacturing,247249
+2025-08-01,Victoria,mining,14212
+2025-08-01,Victoria,other_services,123385
+2025-08-01,Victoria,professional_scientific_and_technical_services,412247
+2025-08-01,Victoria,public_administration_and_safety,218380
+2025-08-01,Victoria,rental_hiring_and_real_estate_services,51414
+2025-08-01,Victoria,retail_trade,356344
+2025-08-01,Victoria,total,3803421
+2025-08-01,Victoria,transport_postal_and_warehousing,201534
+2025-08-01,Victoria,wholesale_trade,87139
+2025-11-01,Victoria,accommodation_and_food_services,252972
+2025-11-01,Victoria,administrative_and_support_services,120782
+2025-11-01,Victoria,agriculture_forestry_and_fishing,62716
+2025-11-01,Victoria,arts_and_recreation_services,66183
+2025-11-01,Victoria,construction,330435
+2025-11-01,Victoria,education_and_training,373142
+2025-11-01,Victoria,electricity_gas_water_and_waste_services,46248
+2025-11-01,Victoria,financial_and_insurance_services,154445
+2025-11-01,Victoria,health_care_and_social_assistance,627973
+2025-11-01,Victoria,information_media_and_telecommunications,59749
+2025-11-01,Victoria,manufacturing,269105
+2025-11-01,Victoria,mining,13288
+2025-11-01,Victoria,other_services,137286
+2025-11-01,Victoria,professional_scientific_and_technical_services,405897
+2025-11-01,Victoria,public_administration_and_safety,201638
+2025-11-01,Victoria,rental_hiring_and_real_estate_services,51919
+2025-11-01,Victoria,retail_trade,359631
+2025-11-01,Victoria,total,3838934
+2025-11-01,Victoria,transport_postal_and_warehousing,209188
+2025-11-01,Victoria,wholesale_trade,96338
+2019-02-01,Western Australia,accommodation_and_food_services,92324
+2019-02-01,Western Australia,administrative_and_support_services,41091
+2019-02-01,Western Australia,agriculture_forestry_and_fishing,34933
+2019-02-01,Western Australia,arts_and_recreation_services,22933
+2019-02-01,Western Australia,construction,122813
+2019-02-01,Western Australia,education_and_training,98709
+2019-02-01,Western Australia,electricity_gas_water_and_waste_services,20269
+2019-02-01,Western Australia,financial_and_insurance_services,27004
+2019-02-01,Western Australia,health_care_and_social_assistance,157731
+2019-02-01,Western Australia,information_media_and_telecommunications,14051
+2019-02-01,Western Australia,manufacturing,83887
+2019-02-01,Western Australia,mining,114504
+2019-02-01,Western Australia,other_services,61825
+2019-02-01,Western Australia,professional_scientific_and_technical_services,111219
+2019-02-01,Western Australia,public_administration_and_safety,94081
+2019-02-01,Western Australia,rental_hiring_and_real_estate_services,19303
+2019-02-01,Western Australia,retail_trade,136577
+2019-02-01,Western Australia,total,1359085
+2019-02-01,Western Australia,transport_postal_and_warehousing,66101
+2019-02-01,Western Australia,wholesale_trade,39730
+2019-05-01,Western Australia,accommodation_and_food_services,91121
+2019-05-01,Western Australia,administrative_and_support_services,46437
+2019-05-01,Western Australia,agriculture_forestry_and_fishing,38227
+2019-05-01,Western Australia,arts_and_recreation_services,24774
+2019-05-01,Western Australia,construction,131405
+2019-05-01,Western Australia,education_and_training,113348
+2019-05-01,Western Australia,electricity_gas_water_and_waste_services,19813
+2019-05-01,Western Australia,financial_and_insurance_services,29692
+2019-05-01,Western Australia,health_care_and_social_assistance,149486
+2019-05-01,Western Australia,information_media_and_telecommunications,10300
+2019-05-01,Western Australia,manufacturing,93953
+2019-05-01,Western Australia,mining,115810
+2019-05-01,Western Australia,other_services,52474
+2019-05-01,Western Australia,professional_scientific_and_technical_services,113725
+2019-05-01,Western Australia,public_administration_and_safety,84536
+2019-05-01,Western Australia,rental_hiring_and_real_estate_services,26588
+2019-05-01,Western Australia,retail_trade,124923
+2019-05-01,Western Australia,total,1371781
+2019-05-01,Western Australia,transport_postal_and_warehousing,58691
+2019-05-01,Western Australia,wholesale_trade,46476
+2019-08-01,Western Australia,accommodation_and_food_services,75859
+2019-08-01,Western Australia,administrative_and_support_services,41737
+2019-08-01,Western Australia,agriculture_forestry_and_fishing,35020
+2019-08-01,Western Australia,arts_and_recreation_services,24978
+2019-08-01,Western Australia,construction,123227
+2019-08-01,Western Australia,education_and_training,116061
+2019-08-01,Western Australia,electricity_gas_water_and_waste_services,21266
+2019-08-01,Western Australia,financial_and_insurance_services,31653
+2019-08-01,Western Australia,health_care_and_social_assistance,166867
+2019-08-01,Western Australia,information_media_and_telecommunications,11535
+2019-08-01,Western Australia,manufacturing,83971
+2019-08-01,Western Australia,mining,127460
+2019-08-01,Western Australia,other_services,48444
+2019-08-01,Western Australia,professional_scientific_and_technical_services,115323
+2019-08-01,Western Australia,public_administration_and_safety,80217
+2019-08-01,Western Australia,rental_hiring_and_real_estate_services,22354
+2019-08-01,Western Australia,retail_trade,133707
+2019-08-01,Western Australia,total,1373551
+2019-08-01,Western Australia,transport_postal_and_warehousing,72691
+2019-08-01,Western Australia,wholesale_trade,41180
+2019-11-01,Western Australia,accommodation_and_food_services,86237
+2019-11-01,Western Australia,administrative_and_support_services,45567
+2019-11-01,Western Australia,agriculture_forestry_and_fishing,36600
+2019-11-01,Western Australia,arts_and_recreation_services,26404
+2019-11-01,Western Australia,construction,125731
+2019-11-01,Western Australia,education_and_training,113999
+2019-11-01,Western Australia,electricity_gas_water_and_waste_services,21825
+2019-11-01,Western Australia,financial_and_insurance_services,28560
+2019-11-01,Western Australia,health_care_and_social_assistance,169739
+2019-11-01,Western Australia,information_media_and_telecommunications,13903
+2019-11-01,Western Australia,manufacturing,83442
+2019-11-01,Western Australia,mining,129228
+2019-11-01,Western Australia,other_services,58890
+2019-11-01,Western Australia,professional_scientific_and_technical_services,113478
+2019-11-01,Western Australia,public_administration_and_safety,85224
+2019-11-01,Western Australia,rental_hiring_and_real_estate_services,21565
+2019-11-01,Western Australia,retail_trade,122077
+2019-11-01,Western Australia,total,1391026
+2019-11-01,Western Australia,transport_postal_and_warehousing,71151
+2019-11-01,Western Australia,wholesale_trade,37407
+2020-02-01,Western Australia,accommodation_and_food_services,98849
+2020-02-01,Western Australia,administrative_and_support_services,40045
+2020-02-01,Western Australia,agriculture_forestry_and_fishing,37053
+2020-02-01,Western Australia,arts_and_recreation_services,23380
+2020-02-01,Western Australia,construction,125239
+2020-02-01,Western Australia,education_and_training,112227
+2020-02-01,Western Australia,electricity_gas_water_and_waste_services,15624
+2020-02-01,Western Australia,financial_and_insurance_services,31306
+2020-02-01,Western Australia,health_care_and_social_assistance,171258
+2020-02-01,Western Australia,information_media_and_telecommunications,14609
+2020-02-01,Western Australia,manufacturing,72656
+2020-02-01,Western Australia,mining,126564
+2020-02-01,Western Australia,other_services,61973
+2020-02-01,Western Australia,professional_scientific_and_technical_services,108989
+2020-02-01,Western Australia,public_administration_and_safety,97899
+2020-02-01,Western Australia,rental_hiring_and_real_estate_services,26191
+2020-02-01,Western Australia,retail_trade,127344
+2020-02-01,Western Australia,total,1404519
+2020-02-01,Western Australia,transport_postal_and_warehousing,69074
+2020-02-01,Western Australia,wholesale_trade,44239
+2020-05-01,Western Australia,accommodation_and_food_services,70412
+2020-05-01,Western Australia,administrative_and_support_services,36827
+2020-05-01,Western Australia,agriculture_forestry_and_fishing,37509
+2020-05-01,Western Australia,arts_and_recreation_services,17934
+2020-05-01,Western Australia,construction,132499
+2020-05-01,Western Australia,education_and_training,102303
+2020-05-01,Western Australia,electricity_gas_water_and_waste_services,27100
+2020-05-01,Western Australia,financial_and_insurance_services,29343
+2020-05-01,Western Australia,health_care_and_social_assistance,160157
+2020-05-01,Western Australia,information_media_and_telecommunications,12335
+2020-05-01,Western Australia,manufacturing,75230
+2020-05-01,Western Australia,mining,113687
+2020-05-01,Western Australia,other_services,54969
+2020-05-01,Western Australia,professional_scientific_and_technical_services,106885
+2020-05-01,Western Australia,public_administration_and_safety,92826
+2020-05-01,Western Australia,rental_hiring_and_real_estate_services,32547
+2020-05-01,Western Australia,retail_trade,109488
+2020-05-01,Western Australia,total,1308823
+2020-05-01,Western Australia,transport_postal_and_warehousing,56202
+2020-05-01,Western Australia,wholesale_trade,40569
+2020-08-01,Western Australia,accommodation_and_food_services,84731
+2020-08-01,Western Australia,administrative_and_support_services,45068
+2020-08-01,Western Australia,agriculture_forestry_and_fishing,38036
+2020-08-01,Western Australia,arts_and_recreation_services,22502
+2020-08-01,Western Australia,construction,126716
+2020-08-01,Western Australia,education_and_training,109775
+2020-08-01,Western Australia,electricity_gas_water_and_waste_services,23520
+2020-08-01,Western Australia,financial_and_insurance_services,28381
+2020-08-01,Western Australia,health_care_and_social_assistance,175171
+2020-08-01,Western Australia,information_media_and_telecommunications,15718
+2020-08-01,Western Australia,manufacturing,78457
+2020-08-01,Western Australia,mining,125853
+2020-08-01,Western Australia,other_services,56774
+2020-08-01,Western Australia,professional_scientific_and_technical_services,110635
+2020-08-01,Western Australia,public_administration_and_safety,104505
+2020-08-01,Western Australia,rental_hiring_and_real_estate_services,25046
+2020-08-01,Western Australia,retail_trade,113845
+2020-08-01,Western Australia,total,1371225
+2020-08-01,Western Australia,transport_postal_and_warehousing,54473
+2020-08-01,Western Australia,wholesale_trade,32022
+2020-11-01,Western Australia,accommodation_and_food_services,90467
+2020-11-01,Western Australia,administrative_and_support_services,47059
+2020-11-01,Western Australia,agriculture_forestry_and_fishing,38744
+2020-11-01,Western Australia,arts_and_recreation_services,21833
+2020-11-01,Western Australia,construction,120412
+2020-11-01,Western Australia,education_and_training,118557
+2020-11-01,Western Australia,electricity_gas_water_and_waste_services,23233
+2020-11-01,Western Australia,financial_and_insurance_services,29927
+2020-11-01,Western Australia,health_care_and_social_assistance,182957
+2020-11-01,Western Australia,information_media_and_telecommunications,11270
+2020-11-01,Western Australia,manufacturing,76637
+2020-11-01,Western Australia,mining,133511
+2020-11-01,Western Australia,other_services,53983
+2020-11-01,Western Australia,professional_scientific_and_technical_services,112395
+2020-11-01,Western Australia,public_administration_and_safety,88541
+2020-11-01,Western Australia,rental_hiring_and_real_estate_services,21423
+2020-11-01,Western Australia,retail_trade,128096
+2020-11-01,Western Australia,total,1406807
+2020-11-01,Western Australia,transport_postal_and_warehousing,64907
+2020-11-01,Western Australia,wholesale_trade,42855
+2021-02-01,Western Australia,accommodation_and_food_services,99627
+2021-02-01,Western Australia,administrative_and_support_services,40662
+2021-02-01,Western Australia,agriculture_forestry_and_fishing,30263
+2021-02-01,Western Australia,arts_and_recreation_services,20323
+2021-02-01,Western Australia,construction,116070
+2021-02-01,Western Australia,education_and_training,109043
+2021-02-01,Western Australia,electricity_gas_water_and_waste_services,28254
+2021-02-01,Western Australia,financial_and_insurance_services,32383
+2021-02-01,Western Australia,health_care_and_social_assistance,203671
+2021-02-01,Western Australia,information_media_and_telecommunications,9887
+2021-02-01,Western Australia,manufacturing,81050
+2021-02-01,Western Australia,mining,126283
+2021-02-01,Western Australia,other_services,59978
+2021-02-01,Western Australia,professional_scientific_and_technical_services,102998
+2021-02-01,Western Australia,public_administration_and_safety,78363
+2021-02-01,Western Australia,rental_hiring_and_real_estate_services,23021
+2021-02-01,Western Australia,retail_trade,113001
+2021-02-01,Western Australia,total,1393302
+2021-02-01,Western Australia,transport_postal_and_warehousing,71447
+2021-02-01,Western Australia,wholesale_trade,46976
+2021-05-01,Western Australia,accommodation_and_food_services,95346
+2021-05-01,Western Australia,administrative_and_support_services,43887
+2021-05-01,Western Australia,agriculture_forestry_and_fishing,29312
+2021-05-01,Western Australia,arts_and_recreation_services,27366
+2021-05-01,Western Australia,construction,136748
+2021-05-01,Western Australia,education_and_training,132711
+2021-05-01,Western Australia,electricity_gas_water_and_waste_services,19089
+2021-05-01,Western Australia,financial_and_insurance_services,29057
+2021-05-01,Western Australia,health_care_and_social_assistance,194646
+2021-05-01,Western Australia,information_media_and_telecommunications,8472
+2021-05-01,Western Australia,manufacturing,87746
+2021-05-01,Western Australia,mining,129777
+2021-05-01,Western Australia,other_services,55808
+2021-05-01,Western Australia,professional_scientific_and_technical_services,107497
+2021-05-01,Western Australia,public_administration_and_safety,84386
+2021-05-01,Western Australia,rental_hiring_and_real_estate_services,20906
+2021-05-01,Western Australia,retail_trade,121367
+2021-05-01,Western Australia,total,1431577
+2021-05-01,Western Australia,transport_postal_and_warehousing,72629
+2021-05-01,Western Australia,wholesale_trade,34825
+2021-08-01,Western Australia,accommodation_and_food_services,97522
+2021-08-01,Western Australia,administrative_and_support_services,43175
+2021-08-01,Western Australia,agriculture_forestry_and_fishing,28139
+2021-08-01,Western Australia,arts_and_recreation_services,23475
+2021-08-01,Western Australia,construction,125391
+2021-08-01,Western Australia,education_and_training,127759
+2021-08-01,Western Australia,electricity_gas_water_and_waste_services,16614
+2021-08-01,Western Australia,financial_and_insurance_services,32021
+2021-08-01,Western Australia,health_care_and_social_assistance,185166
+2021-08-01,Western Australia,information_media_and_telecommunications,12343
+2021-08-01,Western Australia,manufacturing,86333
+2021-08-01,Western Australia,mining,134805
+2021-08-01,Western Australia,other_services,64155
+2021-08-01,Western Australia,professional_scientific_and_technical_services,111896
+2021-08-01,Western Australia,public_administration_and_safety,99894
+2021-08-01,Western Australia,rental_hiring_and_real_estate_services,22958
+2021-08-01,Western Australia,retail_trade,137745
+2021-08-01,Western Australia,total,1452363
+2021-08-01,Western Australia,transport_postal_and_warehousing,68140
+2021-08-01,Western Australia,wholesale_trade,34834
+2021-11-01,Western Australia,accommodation_and_food_services,87493
+2021-11-01,Western Australia,administrative_and_support_services,47623
+2021-11-01,Western Australia,agriculture_forestry_and_fishing,36864
+2021-11-01,Western Australia,arts_and_recreation_services,26683
+2021-11-01,Western Australia,construction,133873
+2021-11-01,Western Australia,education_and_training,111285
+2021-11-01,Western Australia,electricity_gas_water_and_waste_services,14756
+2021-11-01,Western Australia,financial_and_insurance_services,31944
+2021-11-01,Western Australia,health_care_and_social_assistance,193972
+2021-11-01,Western Australia,information_media_and_telecommunications,10657
+2021-11-01,Western Australia,manufacturing,88653
+2021-11-01,Western Australia,mining,148144
+2021-11-01,Western Australia,other_services,65158
+2021-11-01,Western Australia,professional_scientific_and_technical_services,110536
+2021-11-01,Western Australia,public_administration_and_safety,105116
+2021-11-01,Western Australia,rental_hiring_and_real_estate_services,22621
+2021-11-01,Western Australia,retail_trade,138263
+2021-11-01,Western Australia,total,1484003
+2021-11-01,Western Australia,transport_postal_and_warehousing,71012
+2021-11-01,Western Australia,wholesale_trade,39351
+2022-02-01,Western Australia,accommodation_and_food_services,94256
+2022-02-01,Western Australia,administrative_and_support_services,46695
+2022-02-01,Western Australia,agriculture_forestry_and_fishing,33588
+2022-02-01,Western Australia,arts_and_recreation_services,24134
+2022-02-01,Western Australia,construction,132702
+2022-02-01,Western Australia,education_and_training,111545
+2022-02-01,Western Australia,electricity_gas_water_and_waste_services,16427
+2022-02-01,Western Australia,financial_and_insurance_services,37315
+2022-02-01,Western Australia,health_care_and_social_assistance,198283
+2022-02-01,Western Australia,information_media_and_telecommunications,17573
+2022-02-01,Western Australia,manufacturing,76216
+2022-02-01,Western Australia,mining,146922
+2022-02-01,Western Australia,other_services,62322
+2022-02-01,Western Australia,professional_scientific_and_technical_services,114529
+2022-02-01,Western Australia,public_administration_and_safety,96533
+2022-02-01,Western Australia,rental_hiring_and_real_estate_services,23500
+2022-02-01,Western Australia,retail_trade,151260
+2022-02-01,Western Australia,total,1494210
+2022-02-01,Western Australia,transport_postal_and_warehousing,74965
+2022-02-01,Western Australia,wholesale_trade,35444
+2022-05-01,Western Australia,accommodation_and_food_services,102802
+2022-05-01,Western Australia,administrative_and_support_services,46462
+2022-05-01,Western Australia,agriculture_forestry_and_fishing,30901
+2022-05-01,Western Australia,arts_and_recreation_services,28039
+2022-05-01,Western Australia,construction,132482
+2022-05-01,Western Australia,education_and_training,114448
+2022-05-01,Western Australia,electricity_gas_water_and_waste_services,21064
+2022-05-01,Western Australia,financial_and_insurance_services,34906
+2022-05-01,Western Australia,health_care_and_social_assistance,205919
+2022-05-01,Western Australia,information_media_and_telecommunications,15530
+2022-05-01,Western Australia,manufacturing,79401
+2022-05-01,Western Australia,mining,165318
+2022-05-01,Western Australia,other_services,58383
+2022-05-01,Western Australia,professional_scientific_and_technical_services,103721
+2022-05-01,Western Australia,public_administration_and_safety,102768
+2022-05-01,Western Australia,rental_hiring_and_real_estate_services,22911
+2022-05-01,Western Australia,retail_trade,135052
+2022-05-01,Western Australia,total,1509909
+2022-05-01,Western Australia,transport_postal_and_warehousing,74207
+2022-05-01,Western Australia,wholesale_trade,35596
+2022-08-01,Western Australia,accommodation_and_food_services,107066
+2022-08-01,Western Australia,administrative_and_support_services,49997
+2022-08-01,Western Australia,agriculture_forestry_and_fishing,31330
+2022-08-01,Western Australia,arts_and_recreation_services,27912
+2022-08-01,Western Australia,construction,132082
+2022-08-01,Western Australia,education_and_training,122609
+2022-08-01,Western Australia,electricity_gas_water_and_waste_services,23554
+2022-08-01,Western Australia,financial_and_insurance_services,33857
+2022-08-01,Western Australia,health_care_and_social_assistance,199016
+2022-08-01,Western Australia,information_media_and_telecommunications,13064
+2022-08-01,Western Australia,manufacturing,79596
+2022-08-01,Western Australia,mining,151264
+2022-08-01,Western Australia,other_services,54261
+2022-08-01,Western Australia,professional_scientific_and_technical_services,128377
+2022-08-01,Western Australia,public_administration_and_safety,95883
+2022-08-01,Western Australia,rental_hiring_and_real_estate_services,25129
+2022-08-01,Western Australia,retail_trade,128365
+2022-08-01,Western Australia,total,1515161
+2022-08-01,Western Australia,transport_postal_and_warehousing,74482
+2022-08-01,Western Australia,wholesale_trade,37317
+2022-11-01,Western Australia,accommodation_and_food_services,99564
+2022-11-01,Western Australia,administrative_and_support_services,50946
+2022-11-01,Western Australia,agriculture_forestry_and_fishing,36858
+2022-11-01,Western Australia,arts_and_recreation_services,28038
+2022-11-01,Western Australia,construction,142975
+2022-11-01,Western Australia,education_and_training,121371
+2022-11-01,Western Australia,electricity_gas_water_and_waste_services,22028
+2022-11-01,Western Australia,financial_and_insurance_services,34074
+2022-11-01,Western Australia,health_care_and_social_assistance,201011
+2022-11-01,Western Australia,information_media_and_telecommunications,12681
+2022-11-01,Western Australia,manufacturing,83518
+2022-11-01,Western Australia,mining,158438
+2022-11-01,Western Australia,other_services,59122
+2022-11-01,Western Australia,professional_scientific_and_technical_services,124505
+2022-11-01,Western Australia,public_administration_and_safety,91146
+2022-11-01,Western Australia,rental_hiring_and_real_estate_services,21650
+2022-11-01,Western Australia,retail_trade,123710
+2022-11-01,Western Australia,total,1532285
+2022-11-01,Western Australia,transport_postal_and_warehousing,79401
+2022-11-01,Western Australia,wholesale_trade,41247
+2023-02-01,Western Australia,accommodation_and_food_services,105877
+2023-02-01,Western Australia,administrative_and_support_services,48273
+2023-02-01,Western Australia,agriculture_forestry_and_fishing,30385
+2023-02-01,Western Australia,arts_and_recreation_services,24580
+2023-02-01,Western Australia,construction,145033
+2023-02-01,Western Australia,education_and_training,118733
+2023-02-01,Western Australia,electricity_gas_water_and_waste_services,14087
+2023-02-01,Western Australia,financial_and_insurance_services,33007
+2023-02-01,Western Australia,health_care_and_social_assistance,212663
+2023-02-01,Western Australia,information_media_and_telecommunications,12104
+2023-02-01,Western Australia,manufacturing,94330
+2023-02-01,Western Australia,mining,156487
+2023-02-01,Western Australia,other_services,67879
+2023-02-01,Western Australia,professional_scientific_and_technical_services,121005
+2023-02-01,Western Australia,public_administration_and_safety,81698
+2023-02-01,Western Australia,rental_hiring_and_real_estate_services,25504
+2023-02-01,Western Australia,retail_trade,121778
+2023-02-01,Western Australia,total,1538184
+2023-02-01,Western Australia,transport_postal_and_warehousing,76476
+2023-02-01,Western Australia,wholesale_trade,48283
+2023-05-01,Western Australia,accommodation_and_food_services,98487
+2023-05-01,Western Australia,administrative_and_support_services,41551
+2023-05-01,Western Australia,agriculture_forestry_and_fishing,27413
+2023-05-01,Western Australia,arts_and_recreation_services,30359
+2023-05-01,Western Australia,construction,143042
+2023-05-01,Western Australia,education_and_training,132315
+2023-05-01,Western Australia,electricity_gas_water_and_waste_services,13574
+2023-05-01,Western Australia,financial_and_insurance_services,35845
+2023-05-01,Western Australia,health_care_and_social_assistance,214663
+2023-05-01,Western Australia,information_media_and_telecommunications,18203
+2023-05-01,Western Australia,manufacturing,83776
+2023-05-01,Western Australia,mining,176311
+2023-05-01,Western Australia,other_services,67268
+2023-05-01,Western Australia,professional_scientific_and_technical_services,119761
+2023-05-01,Western Australia,public_administration_and_safety,77730
+2023-05-01,Western Australia,rental_hiring_and_real_estate_services,22978
+2023-05-01,Western Australia,retail_trade,137701
+2023-05-01,Western Australia,total,1555962
+2023-05-01,Western Australia,transport_postal_and_warehousing,76927
+2023-05-01,Western Australia,wholesale_trade,38058
+2023-08-01,Western Australia,accommodation_and_food_services,98580
+2023-08-01,Western Australia,administrative_and_support_services,43822
+2023-08-01,Western Australia,agriculture_forestry_and_fishing,27568
+2023-08-01,Western Australia,arts_and_recreation_services,35688
+2023-08-01,Western Australia,construction,150703
+2023-08-01,Western Australia,education_and_training,125538
+2023-08-01,Western Australia,electricity_gas_water_and_waste_services,15081
+2023-08-01,Western Australia,financial_and_insurance_services,28085
+2023-08-01,Western Australia,health_care_and_social_assistance,216130
+2023-08-01,Western Australia,information_media_and_telecommunications,11024
+2023-08-01,Western Australia,manufacturing,88858
+2023-08-01,Western Australia,mining,168449
+2023-08-01,Western Australia,other_services,67384
+2023-08-01,Western Australia,professional_scientific_and_technical_services,121838
+2023-08-01,Western Australia,public_administration_and_safety,79130
+2023-08-01,Western Australia,rental_hiring_and_real_estate_services,24629
+2023-08-01,Western Australia,retail_trade,146531
+2023-08-01,Western Australia,total,1573583
+2023-08-01,Western Australia,transport_postal_and_warehousing,79952
+2023-08-01,Western Australia,wholesale_trade,44592
+2023-11-01,Western Australia,accommodation_and_food_services,97166
+2023-11-01,Western Australia,administrative_and_support_services,46250
+2023-11-01,Western Australia,agriculture_forestry_and_fishing,26419
+2023-11-01,Western Australia,arts_and_recreation_services,38146
+2023-11-01,Western Australia,construction,146748
+2023-11-01,Western Australia,education_and_training,133009
+2023-11-01,Western Australia,electricity_gas_water_and_waste_services,22237
+2023-11-01,Western Australia,financial_and_insurance_services,31030
+2023-11-01,Western Australia,health_care_and_social_assistance,232105
+2023-11-01,Western Australia,information_media_and_telecommunications,13241
+2023-11-01,Western Australia,manufacturing,87536
+2023-11-01,Western Australia,mining,154483
+2023-11-01,Western Australia,other_services,69956
+2023-11-01,Western Australia,professional_scientific_and_technical_services,131580
+2023-11-01,Western Australia,public_administration_and_safety,88832
+2023-11-01,Western Australia,rental_hiring_and_real_estate_services,21849
+2023-11-01,Western Australia,retail_trade,131927
+2023-11-01,Western Australia,total,1602377
+2023-11-01,Western Australia,transport_postal_and_warehousing,85384
+2023-11-01,Western Australia,wholesale_trade,44479
+2024-02-01,Western Australia,accommodation_and_food_services,94735
+2024-02-01,Western Australia,administrative_and_support_services,48411
+2024-02-01,Western Australia,agriculture_forestry_and_fishing,30377
+2024-02-01,Western Australia,arts_and_recreation_services,23405
+2024-02-01,Western Australia,construction,141326
+2024-02-01,Western Australia,education_and_training,141425
+2024-02-01,Western Australia,electricity_gas_water_and_waste_services,19569
+2024-02-01,Western Australia,financial_and_insurance_services,37583
+2024-02-01,Western Australia,health_care_and_social_assistance,263704
+2024-02-01,Western Australia,information_media_and_telecommunications,13165
+2024-02-01,Western Australia,manufacturing,78450
+2024-02-01,Western Australia,mining,143141
+2024-02-01,Western Australia,other_services,62064
+2024-02-01,Western Australia,professional_scientific_and_technical_services,137477
+2024-02-01,Western Australia,public_administration_and_safety,86536
+2024-02-01,Western Australia,rental_hiring_and_real_estate_services,20077
+2024-02-01,Western Australia,retail_trade,144165
+2024-02-01,Western Australia,total,1617801
+2024-02-01,Western Australia,transport_postal_and_warehousing,87217
+2024-02-01,Western Australia,wholesale_trade,44975
+2024-05-01,Western Australia,accommodation_and_food_services,109690
+2024-05-01,Western Australia,administrative_and_support_services,47318
+2024-05-01,Western Australia,agriculture_forestry_and_fishing,33757
+2024-05-01,Western Australia,arts_and_recreation_services,25468
+2024-05-01,Western Australia,construction,160177
+2024-05-01,Western Australia,education_and_training,135532
+2024-05-01,Western Australia,electricity_gas_water_and_waste_services,27849
+2024-05-01,Western Australia,financial_and_insurance_services,35829
+2024-05-01,Western Australia,health_care_and_social_assistance,247932
+2024-05-01,Western Australia,information_media_and_telecommunications,15563
+2024-05-01,Western Australia,manufacturing,75050
+2024-05-01,Western Australia,mining,144990
+2024-05-01,Western Australia,other_services,62037
+2024-05-01,Western Australia,professional_scientific_and_technical_services,130481
+2024-05-01,Western Australia,public_administration_and_safety,98794
+2024-05-01,Western Australia,rental_hiring_and_real_estate_services,20680
+2024-05-01,Western Australia,retail_trade,133199
+2024-05-01,Western Australia,total,1628917
+2024-05-01,Western Australia,transport_postal_and_warehousing,77980
+2024-05-01,Western Australia,wholesale_trade,46591
+2024-08-01,Western Australia,accommodation_and_food_services,102549
+2024-08-01,Western Australia,administrative_and_support_services,54483
+2024-08-01,Western Australia,agriculture_forestry_and_fishing,32769
+2024-08-01,Western Australia,arts_and_recreation_services,27440
+2024-08-01,Western Australia,construction,153417
+2024-08-01,Western Australia,education_and_training,139428
+2024-08-01,Western Australia,electricity_gas_water_and_waste_services,25801
+2024-08-01,Western Australia,financial_and_insurance_services,26429
+2024-08-01,Western Australia,health_care_and_social_assistance,238600
+2024-08-01,Western Australia,information_media_and_telecommunications,12374
+2024-08-01,Western Australia,manufacturing,77231
+2024-08-01,Western Australia,mining,155600
+2024-08-01,Western Australia,other_services,56009
+2024-08-01,Western Australia,professional_scientific_and_technical_services,135572
+2024-08-01,Western Australia,public_administration_and_safety,101778
+2024-08-01,Western Australia,rental_hiring_and_real_estate_services,22501
+2024-08-01,Western Australia,retail_trade,136138
+2024-08-01,Western Australia,total,1620540
+2024-08-01,Western Australia,transport_postal_and_warehousing,80088
+2024-08-01,Western Australia,wholesale_trade,42333
+2024-11-01,Western Australia,accommodation_and_food_services,101138
+2024-11-01,Western Australia,administrative_and_support_services,58380
+2024-11-01,Western Australia,agriculture_forestry_and_fishing,30380
+2024-11-01,Western Australia,arts_and_recreation_services,25867
+2024-11-01,Western Australia,construction,168018
+2024-11-01,Western Australia,education_and_training,140951
+2024-11-01,Western Australia,electricity_gas_water_and_waste_services,27505
+2024-11-01,Western Australia,financial_and_insurance_services,30563
+2024-11-01,Western Australia,health_care_and_social_assistance,228374
+2024-11-01,Western Australia,information_media_and_telecommunications,17070
+2024-11-01,Western Australia,manufacturing,74979
+2024-11-01,Western Australia,mining,162501
+2024-11-01,Western Australia,other_services,68656
+2024-11-01,Western Australia,professional_scientific_and_technical_services,128505
+2024-11-01,Western Australia,public_administration_and_safety,102785
+2024-11-01,Western Australia,rental_hiring_and_real_estate_services,20048
+2024-11-01,Western Australia,retail_trade,141006
+2024-11-01,Western Australia,total,1650938
+2024-11-01,Western Australia,transport_postal_and_warehousing,94034
+2024-11-01,Western Australia,wholesale_trade,30178
+2025-02-01,Western Australia,accommodation_and_food_services,109151
+2025-02-01,Western Australia,administrative_and_support_services,49180
+2025-02-01,Western Australia,agriculture_forestry_and_fishing,40365
+2025-02-01,Western Australia,arts_and_recreation_services,33527
+2025-02-01,Western Australia,construction,144375
+2025-02-01,Western Australia,education_and_training,128844
+2025-02-01,Western Australia,electricity_gas_water_and_waste_services,23676
+2025-02-01,Western Australia,financial_and_insurance_services,33793
+2025-02-01,Western Australia,health_care_and_social_assistance,235587
+2025-02-01,Western Australia,information_media_and_telecommunications,14737
+2025-02-01,Western Australia,manufacturing,84673
+2025-02-01,Western Australia,mining,161095
+2025-02-01,Western Australia,other_services,63291
+2025-02-01,Western Australia,professional_scientific_and_technical_services,137399
+2025-02-01,Western Australia,public_administration_and_safety,107583
+2025-02-01,Western Australia,rental_hiring_and_real_estate_services,26001
+2025-02-01,Western Australia,retail_trade,152186
+2025-02-01,Western Australia,total,1661729
+2025-02-01,Western Australia,transport_postal_and_warehousing,83273
+2025-02-01,Western Australia,wholesale_trade,32993
+2025-05-01,Western Australia,accommodation_and_food_services,109470
+2025-05-01,Western Australia,administrative_and_support_services,57015
+2025-05-01,Western Australia,agriculture_forestry_and_fishing,39158
+2025-05-01,Western Australia,arts_and_recreation_services,34657
+2025-05-01,Western Australia,construction,147782
+2025-05-01,Western Australia,education_and_training,133301
+2025-05-01,Western Australia,electricity_gas_water_and_waste_services,30623
+2025-05-01,Western Australia,financial_and_insurance_services,29222
+2025-05-01,Western Australia,health_care_and_social_assistance,242289
+2025-05-01,Western Australia,information_media_and_telecommunications,13575
+2025-05-01,Western Australia,manufacturing,92639
+2025-05-01,Western Australia,mining,165157
+2025-05-01,Western Australia,other_services,54438
+2025-05-01,Western Australia,professional_scientific_and_technical_services,128432
+2025-05-01,Western Australia,public_administration_and_safety,99158
+2025-05-01,Western Australia,rental_hiring_and_real_estate_services,29053
+2025-05-01,Western Australia,retail_trade,152924
+2025-05-01,Western Australia,total,1672597
+2025-05-01,Western Australia,transport_postal_and_warehousing,75481
+2025-05-01,Western Australia,wholesale_trade,38222
+2025-08-01,Western Australia,accommodation_and_food_services,107815
+2025-08-01,Western Australia,administrative_and_support_services,47515
+2025-08-01,Western Australia,agriculture_forestry_and_fishing,43375
+2025-08-01,Western Australia,arts_and_recreation_services,20638
+2025-08-01,Western Australia,construction,161964
+2025-08-01,Western Australia,education_and_training,131636
+2025-08-01,Western Australia,electricity_gas_water_and_waste_services,47891
+2025-08-01,Western Australia,financial_and_insurance_services,20060
+2025-08-01,Western Australia,health_care_and_social_assistance,238804
+2025-08-01,Western Australia,information_media_and_telecommunications,13505
+2025-08-01,Western Australia,manufacturing,89401
+2025-08-01,Western Australia,mining,134808
+2025-08-01,Western Australia,other_services,58531
+2025-08-01,Western Australia,professional_scientific_and_technical_services,132759
+2025-08-01,Western Australia,public_administration_and_safety,102545
+2025-08-01,Western Australia,rental_hiring_and_real_estate_services,27763
+2025-08-01,Western Australia,retail_trade,151826
+2025-08-01,Western Australia,total,1639733
+2025-08-01,Western Australia,transport_postal_and_warehousing,71032
+2025-08-01,Western Australia,wholesale_trade,37863
+2025-11-01,Western Australia,accommodation_and_food_services,99904
+2025-11-01,Western Australia,administrative_and_support_services,50976
+2025-11-01,Western Australia,agriculture_forestry_and_fishing,33178
+2025-11-01,Western Australia,arts_and_recreation_services,24713
+2025-11-01,Western Australia,construction,161068
+2025-11-01,Western Australia,education_and_training,140757
+2025-11-01,Western Australia,electricity_gas_water_and_waste_services,50888
+2025-11-01,Western Australia,financial_and_insurance_services,29464
+2025-11-01,Western Australia,health_care_and_social_assistance,246269
+2025-11-01,Western Australia,information_media_and_telecommunications,14422
+2025-11-01,Western Australia,manufacturing,95782
+2025-11-01,Western Australia,mining,133032
+2025-11-01,Western Australia,other_services,75823
+2025-11-01,Western Australia,professional_scientific_and_technical_services,131253
+2025-11-01,Western Australia,public_administration_and_safety,89843
+2025-11-01,Western Australia,rental_hiring_and_real_estate_services,31488
+2025-11-01,Western Australia,retail_trade,136973
+2025-11-01,Western Australia,total,1661281
+2025-11-01,Western Australia,transport_postal_and_warehousing,69890
+2025-11-01,Western Australia,wholesale_trade,45557
