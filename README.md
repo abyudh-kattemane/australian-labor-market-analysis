@@ -8,7 +8,7 @@ An interactive Power BI dashboard analysing employment trends, industry composit
 
 ![Cover](screenshots/00_cover.png)
 ![Executive Overview](screenshots/01_executive_overview.png)
-![Industry Deep Dive](screenshots/02_industry_deep_dive.png)
+![Industry Analysis](screenshots/02_industry_analysis.png)
 ![Geographic Analysis](screenshots/03_geographic_analysis.png)
 ![Job Seeker Insights](screenshots/04_job_seeker_insights.png)
 ![Scatter Focus](screenshots/05_scatter_focus.png)
@@ -245,9 +245,9 @@ australian-labor-market-analysis/
 
 **Option 1 — Power BI Desktop (Full interactive experience):**
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop) (free)
-2. Clone or download this repository
-3. Update the data source paths: Home → Transform data → Data source settings → update file paths to your local `/data/` folder
-4. Refresh data and explore all four pages
+2. Download `dashboard/Labour_Dashboard.pbix` from this repository and open it
+3. If prompted about data source errors, click **Close** — the dashboard data is 
+   embedded in the file and will load without reconnecting to any source files
 
 **Option 2 — PDF (Static view):**
 Download `docs/Abyudh_Australian_Labour_Market_Analysis.pdf` for a static snapshot of all pages.
@@ -255,11 +255,19 @@ Download `docs/Abyudh_Australian_Labour_Market_Analysis.pdf` for a static snapsh
 **Option 3 — Screenshots:**
 Browse the `/screenshots/` folder for high-resolution page previews.
 
+> **To refresh with updated ABS data:** Go to Home → Transform data → 
+> Data source settings → update each CSV path to your local `/data/processed/` 
+> folder, then click Refresh.
+
 ---
 
 ## About
 
-Built as a portfolio project demonstrating Power BI data modelling, DAX calculation, and dashboard design skills applied to real ABS labour market data.
+I built this dashboard while transitioning into analytics roles after completing 
+my Master of Business Analytics at the University of Adelaide. The project covers 
+the full pipeline — cleaning raw ABS government datasets in Python, building a 
+star schema model in Power BI, and designing a four-page interactive dashboard 
+focusing on the labour market of Australia's five major cities alongside the national picture.
 
 **Skills demonstrated:**
 
